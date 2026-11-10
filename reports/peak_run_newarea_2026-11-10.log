@@ -1,0 +1,12 @@
+health: skipped
+peak cycles for 2026-11-10: 24 (am only 07:00-09:00) panel=panel_newarea.json frames=frames
+=== Peak monitor summary ===
+date (America/Chicago): 2026-11-10
+snapshots=1800 vehicles=10083 cybercabs_raw=6 cybercabs_deduped=6
+per_1k_vehicles=0.595  per_1k_snapshots=3.333 (deduped)
+95% interval on the day's rate: 0.217-1.295 per 1k vehicles (Poisson, 6 sightings)
+cams_ok=75 cams_offline=23 am_cycles=24 cams_with_cybercab=5
+notes: offline_cams=23
+weekday_5d_ma (n=1): 0.595  dates=2026-11-10  (fewer than 5 weekdays in series)
+  pooled rate over those days: 0.595 (95% 0.217-1.295; 6 sightings / 10083 vehicles)
+offline camera ids (first 20): 1280,1305,1357,1450,1460,1528,1529,208,234,236,256,270,273,290,388,389,479,488,489,532 ...
