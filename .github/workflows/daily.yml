@@ -83,7 +83,7 @@ jobs:
 
       - name: Keep Cybercab crops and logs (90 days)
         if: steps.gate.outputs.go == 'true' && always()
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v6
         with:
           name: evidence-${{ steps.gate.outputs.date }}-${{ github.run_id }}
           path: |
