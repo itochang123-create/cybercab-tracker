@@ -1,0 +1,6 @@
+frames/
+evidence/
+smoke/
+data/det_cache/
+__pycache__/
+*.pyc

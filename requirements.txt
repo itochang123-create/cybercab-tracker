@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+ultralytics
+open_clip_torch
+scikit-learn==1.9.1
+joblib
+numpy
+pillow
+matplotlib
+tzdata

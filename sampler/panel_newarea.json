@@ -1,0 +1,2354 @@
+[
+ {
+  "camera_id": "633",
+  "series_id": "newarea_ring",
+  "location_name": "SH 71  / FLETCHER LN",
+  "primary_st": "SH 71 ",
+  "cross_st": " FLETCHER LN",
+  "lat": 30.247067,
+  "lon": -97.888443,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.888443,
+    30.247067
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/633.jpg",
+  "traffic_7d": 16128,
+  "obs_7d": 0,
+  "km_from_downtown": 14.2,
+  "score": 16128,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "220",
+  "series_id": "newarea_ring",
+  "location_name": "FM 620 RD / ANDERSON MILL RD",
+  "primary_st": "FM 620 RD",
+  "cross_st": " ANDERSON MILL RD",
+  "lat": 30.45545,
+  "lon": -97.825806,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.825806,
+    30.45545
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/220.jpg",
+  "traffic_7d": 14403,
+  "obs_7d": 1,
+  "km_from_downtown": 22.3,
+  "score": 14403,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "281",
+  "series_id": "newarea_ring",
+  "location_name": " PARMER LN / AVERY RANCH BLVD",
+  "primary_st": " PARMER LN",
+  "cross_st": " AVERY RANCH BLVD",
+  "lat": 30.498076,
+  "lon": -97.775665,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.775665,
+    30.498076
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/281.jpg",
+  "traffic_7d": 13970,
+  "obs_7d": 0,
+  "km_from_downtown": 25.7,
+  "score": 13970,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "420",
+  "series_id": "newarea_ring",
+  "location_name": " PARMER LN / LAKELINE BLVD",
+  "primary_st": " PARMER LN",
+  "cross_st": " LAKELINE BLVD",
+  "lat": 30.487953,
+  "lon": -97.771332,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.771332,
+    30.487953
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/420.jpg",
+  "traffic_7d": 11011,
+  "obs_7d": 0,
+  "km_from_downtown": 24.6,
+  "score": 11011,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1525",
+  "series_id": "newarea_ring",
+  "location_name": " POND SPRINGS RD / TURTLE ROCK RD",
+  "primary_st": " POND SPRINGS RD",
+  "cross_st": " TURTLE ROCK RD",
+  "lat": 30.444899,
+  "lon": -97.777885,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.777885,
+    30.444899
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1525.jpg",
+  "traffic_7d": 9230,
+  "obs_7d": 0,
+  "km_from_downtown": 19.9,
+  "score": 9230,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "390",
+  "series_id": "newarea_ring",
+  "location_name": " ANDERSON MILL RD / POND SPRINGS RD",
+  "primary_st": " ANDERSON MILL RD",
+  "cross_st": " POND SPRINGS RD",
+  "lat": 30.450384,
+  "lon": -97.785309,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.785309,
+    30.450384
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/390.jpg",
+  "traffic_7d": 9129,
+  "obs_7d": 1,
+  "km_from_downtown": 20.7,
+  "score": 9129,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "226",
+  "series_id": "newarea_ring",
+  "location_name": " ANDERSON MILL RD / PARMER LN",
+  "primary_st": " ANDERSON MILL RD",
+  "cross_st": " PARMER LN",
+  "lat": 30.460581,
+  "lon": -97.754555,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.754555,
+    30.460581
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/226.jpg",
+  "traffic_7d": 9098,
+  "obs_7d": 0,
+  "km_from_downtown": 21.4,
+  "score": 9098,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1018",
+  "series_id": "newarea_ring",
+  "location_name": " LAKELINE MALL DR / 183 HWY SVRD",
+  "primary_st": " LAKELINE MALL DR",
+  "cross_st": "US 183 HWY SVRD",
+  "lat": 30.473202,
+  "lon": -97.798264,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.798264,
+    30.473202
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1018.jpg",
+  "traffic_7d": 7439,
+  "obs_7d": 0,
+  "km_from_downtown": 23.4,
+  "score": 7439,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "778",
+  "series_id": "newarea_ring",
+  "location_name": " LAKELINE MALL DR / NORTH LAKE CREEK PKWY",
+  "primary_st": " LAKELINE MALL DR",
+  "cross_st": " NORTH LAKE CREEK PKWY",
+  "lat": 30.475256,
+  "lon": -97.79393,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.79393,
+    30.475256
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/778.jpg",
+  "traffic_7d": 7371,
+  "obs_7d": 0,
+  "km_from_downtown": 23.5,
+  "score": 7371,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1390",
+  "series_id": "newarea_ring",
+  "location_name": "FM 620 RD / FOUNDATION RD",
+  "primary_st": "FM 620 RD",
+  "cross_st": " FOUNDATION RD",
+  "lat": 30.449501,
+  "lon": -97.830157,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.830157,
+    30.449501
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1390.jpg",
+  "traffic_7d": 7219,
+  "obs_7d": 0,
+  "km_from_downtown": 21.8,
+  "score": 7219,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "486",
+  "series_id": "newarea_ring",
+  "location_name": "FM 620 RD / HATCH RD",
+  "primary_st": "FM 620 RD",
+  "cross_st": " HATCH RD",
+  "lat": 30.460848,
+  "lon": -97.819923,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.819923,
+    30.460848
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/486.jpg",
+  "traffic_7d": 7215,
+  "obs_7d": 0,
+  "km_from_downtown": 22.6,
+  "score": 7215,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "543",
+  "series_id": "newarea_ring",
+  "location_name": " SLAUGHTER LN / BECKETT RD",
+  "primary_st": " SLAUGHTER LN",
+  "cross_st": " BECKETT RD",
+  "lat": 30.200909,
+  "lon": -97.87088,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.87088,
+    30.200909
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/543.jpg",
+  "traffic_7d": 7093,
+  "obs_7d": 1,
+  "km_from_downtown": 14.3,
+  "score": 7093,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1013",
+  "series_id": "newarea_ring",
+  "location_name": " LAKELINE BLVD / 183 HWY SVRD",
+  "primary_st": " LAKELINE BLVD",
+  "cross_st": "US 183 HWY SVRD",
+  "lat": 30.480049,
+  "lon": -97.801956,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.801956,
+    30.480049
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1013.jpg",
+  "traffic_7d": 7062,
+  "obs_7d": 2,
+  "km_from_downtown": 24.2,
+  "score": 7062,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "247",
+  "series_id": "newarea_ring",
+  "location_name": " PARMER LN / SPECTRUM DR",
+  "primary_st": " PARMER LN",
+  "cross_st": " SPECTRUM DR",
+  "lat": 30.481691,
+  "lon": -97.767098,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.767098,
+    30.481691
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/247.jpg",
+  "traffic_7d": 6537,
+  "obs_7d": 0,
+  "km_from_downtown": 23.8,
+  "score": 6537,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "294",
+  "series_id": "newarea_ring",
+  "location_name": " ANDERSON MILL RD / MILLWRIGHT PKWY (OLSON DR)",
+  "primary_st": " ANDERSON MILL RD",
+  "cross_st": " MILLWRIGHT PKWY",
+  "lat": 30.447165,
+  "lon": -97.804016,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.804016,
+    30.447165
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/294.jpg",
+  "traffic_7d": 6206,
+  "obs_7d": 1,
+  "km_from_downtown": 20.7,
+  "score": 6206,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "12",
+  "series_id": "newarea_ring",
+  "location_name": " ROSS RD / SAINT THOMAS DR",
+  "primary_st": " ROSS RD",
+  "cross_st": " SAINT THOMAS DR",
+  "lat": 30.178305,
+  "lon": -97.615196,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.615196,
+    30.178305
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/12.jpg",
+  "traffic_7d": 5924,
+  "obs_7d": 0,
+  "km_from_downtown": 15.7,
+  "score": 5924,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1138",
+  "series_id": "newarea_ring",
+  "location_name": "9700 BLK ANDERSON MILL RD (Bethany)",
+  "primary_st": " ANDERSON MILL RD",
+  "cross_st": null,
+  "lat": 30.44696,
+  "lon": -97.797707,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.797707,
+    30.44696
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1138.jpg",
+  "traffic_7d": 5859,
+  "obs_7d": 1,
+  "km_from_downtown": 20.6,
+  "score": 5859,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1283",
+  "series_id": "newarea_ring",
+  "location_name": " GRAND AVENUE PKWY / CENTRAL COMMERCE DR",
+  "primary_st": " GRAND AVENUE PKWY",
+  "cross_st": " CENTRAL COMMERCE DR",
+  "lat": 30.455954,
+  "lon": -97.659927,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.659927,
+    30.455954
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1283.jpg",
+  "traffic_7d": 5562,
+  "obs_7d": 0,
+  "km_from_downtown": 22.4,
+  "score": 5562,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "11",
+  "series_id": "newarea_ring",
+  "location_name": " ESCARPMENT BLVD / SLAUGHTER LN",
+  "primary_st": " ESCARPMENT BLVD",
+  "cross_st": " SLAUGHTER LN",
+  "lat": 30.2006,
+  "lon": -97.878426,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.878426,
+    30.2006
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/11.jpg",
+  "traffic_7d": 4942,
+  "obs_7d": 2,
+  "km_from_downtown": 15.0,
+  "score": 4942,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "419",
+  "series_id": "newarea_ring",
+  "location_name": " PARMER LN / TAMAYO DR",
+  "primary_st": " PARMER LN",
+  "cross_st": " TAMAYO DR",
+  "lat": 30.455952,
+  "lon": -97.752777,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.752777,
+    30.455952
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/419.jpg",
+  "traffic_7d": 4656,
+  "obs_7d": 0,
+  "km_from_downtown": 20.9,
+  "score": 4656,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1299",
+  "series_id": "newarea_ring",
+  "location_name": "FM 1626 RD / OLD SAN ANTONIO RD",
+  "primary_st": "FM 1626 RD",
+  "cross_st": " OLD SAN ANTONIO RD",
+  "lat": 30.142811,
+  "lon": -97.801569,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.801569,
+    30.142811
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1299.jpg",
+  "traffic_7d": 4603,
+  "obs_7d": 0,
+  "km_from_downtown": 14.9,
+  "score": 4603,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1318",
+  "series_id": "newarea_ring",
+  "location_name": "SH 45 W  / ESCARPMENT BLVD",
+  "primary_st": "SH 45 W ",
+  "cross_st": " ESCARPMENT BLVD",
+  "lat": 30.182062,
+  "lon": -97.89962,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.89962,
+    30.182062
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1318.jpg",
+  "traffic_7d": 4541,
+  "obs_7d": 1,
+  "km_from_downtown": 17.8,
+  "score": 4541,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1319",
+  "series_id": "newarea_ring",
+  "location_name": " QUINLAN PARK RD / STEINER RANCH BLVD",
+  "primary_st": " QUINLAN PARK RD",
+  "cross_st": " STEINER RANCH BLVD",
+  "lat": 30.377523,
+  "lon": -97.884857,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.884857,
+    30.377523
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1319.jpg",
+  "traffic_7d": 4496,
+  "obs_7d": 0,
+  "km_from_downtown": 18.3,
+  "score": 4496,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "516",
+  "series_id": "newarea_ring",
+  "location_name": " PARMER LN / DALLAS DR",
+  "primary_st": " PARMER LN",
+  "cross_st": " DALLAS DR",
+  "lat": 30.450272,
+  "lon": -97.747421,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.747421,
+    30.450272
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/516.jpg",
+  "traffic_7d": 4485,
+  "obs_7d": 0,
+  "km_from_downtown": 20.2,
+  "score": 4485,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "487",
+  "series_id": "newarea_ring",
+  "location_name": "FM 620 RD / DEERBROOK TRL",
+  "primary_st": "FM 620 RD",
+  "cross_st": " DEERBROOK TRL",
+  "lat": 30.46389,
+  "lon": -97.810623,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.810623,
+    30.46389
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/487.jpg",
+  "traffic_7d": 4446,
+  "obs_7d": 1,
+  "km_from_downtown": 22.7,
+  "score": 4446,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1502",
+  "series_id": "newarea_ring",
+  "location_name": " ESCARPMENT BLVD / DAVIS LN",
+  "primary_st": " ESCARPMENT BLVD",
+  "cross_st": " DAVIS LN",
+  "lat": 30.211693,
+  "lon": -97.876488,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.876488,
+    30.211693
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1502.jpg",
+  "traffic_7d": 3925,
+  "obs_7d": 3,
+  "km_from_downtown": 14.2,
+  "score": 3925,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "590",
+  "series_id": "newarea_ring",
+  "location_name": " ESCARPMENT BLVD / LA CROSSE AVE",
+  "primary_st": " ESCARPMENT BLVD",
+  "cross_st": " LA CROSSE AVE",
+  "lat": 30.193987,
+  "lon": -97.88488,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.88488,
+    30.193987
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/590.jpg",
+  "traffic_7d": 3502,
+  "obs_7d": 2,
+  "km_from_downtown": 15.9,
+  "score": 3502,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1301",
+  "series_id": "newarea_ring",
+  "location_name": "FM 1826 RD / 1826 RD (HEB/Ascension Seton Driveways)",
+  "primary_st": "FM 1826 RD",
+  "cross_st": "FM 1826 RD",
+  "lat": 30.227313,
+  "lon": -97.889306,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.889306,
+    30.227313
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1301.jpg",
+  "traffic_7d": 3477,
+  "obs_7d": 1,
+  "km_from_downtown": 14.7,
+  "score": 3477,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "364",
+  "series_id": "newarea_ring",
+  "location_name": " SOUTHWEST PKWY / FOSTER RANCH RD",
+  "primary_st": " SOUTHWEST PKWY",
+  "cross_st": " FOSTER RANCH RD",
+  "lat": 30.248056,
+  "lon": -97.849739,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.849739,
+    30.248056
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/364.jpg",
+  "traffic_7d": 3375,
+  "obs_7d": 0,
+  "km_from_downtown": 10.5,
+  "score": 3375,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1471",
+  "series_id": "newarea_ring",
+  "location_name": " HOWARD LN / CANTARRA DR",
+  "primary_st": " HOWARD LN",
+  "cross_st": " CANTARRA DR",
+  "lat": 30.388278,
+  "lon": -97.62032,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.62032,
+    30.388278
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1471.jpg",
+  "traffic_7d": 3315,
+  "obs_7d": 0,
+  "km_from_downtown": 17.8,
+  "score": 3315,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "631",
+  "series_id": "newarea_ring",
+  "location_name": " SOUTHWEST PKWY / TRAVIS COOK RD",
+  "primary_st": " SOUTHWEST PKWY",
+  "cross_st": " TRAVIS COOK RD",
+  "lat": 30.262125,
+  "lon": -97.88887,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.88887,
+    30.262125
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/631.jpg",
+  "traffic_7d": 3277,
+  "obs_7d": 2,
+  "km_from_downtown": 14.0,
+  "score": 3277,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1293",
+  "series_id": "newarea_ring",
+  "location_name": " QUINLAN PARK RD / COUNTRY TRAILS LN",
+  "primary_st": " QUINLAN PARK RD",
+  "cross_st": " COUNTRY TRAILS LN",
+  "lat": 30.362415,
+  "lon": -97.899872,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.899872,
+    30.362415
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1293.jpg",
+  "traffic_7d": 3160,
+  "obs_7d": 0,
+  "km_from_downtown": 18.4,
+  "score": 3160,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "556",
+  "series_id": "newarea_ring",
+  "location_name": " MOPAC EXPY / LA CROSSE AVE",
+  "primary_st": " MOPAC EXPY",
+  "cross_st": " LA CROSSE AVE",
+  "lat": 30.190466,
+  "lon": -97.873253,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.873253,
+    30.190466
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/556.jpg",
+  "traffic_7d": 3037,
+  "obs_7d": 0,
+  "km_from_downtown": 15.1,
+  "score": 3037,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "425",
+  "series_id": "newarea_ring",
+  "location_name": " WILLIAM CANNON DR / BECKETT RD",
+  "primary_st": " WILLIAM CANNON DR",
+  "cross_st": " BECKETT RD",
+  "lat": 30.224972,
+  "lon": -97.854973,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.854973,
+    30.224972
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/425.jpg",
+  "traffic_7d": 2810,
+  "obs_7d": 0,
+  "km_from_downtown": 11.7,
+  "score": 2810,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1353",
+  "series_id": "newarea_ring",
+  "location_name": " WELLS BRANCH PKWY / WELLS BRANCH PKWY (The Parker Apartments)",
+  "primary_st": " WELLS BRANCH PKWY",
+  "cross_st": " WELLS BRANCH PKWY",
+  "lat": 30.428704,
+  "lon": -97.643534,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.643534,
+    30.428704
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1353.jpg",
+  "traffic_7d": 2802,
+  "obs_7d": 0,
+  "km_from_downtown": 20.3,
+  "score": 2802,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "491",
+  "series_id": "newarea_ring",
+  "location_name": "FM 620 RD / EL SALIDO PKWY",
+  "primary_st": "FM 620 RD",
+  "cross_st": " EL SALIDO PKWY",
+  "lat": 30.458035,
+  "lon": -97.823113,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.823113,
+    30.458035
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/491.jpg",
+  "traffic_7d": 2709,
+  "obs_7d": 1,
+  "km_from_downtown": 22.5,
+  "score": 2709,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1355",
+  "series_id": "newarea_ring",
+  "location_name": " SOUTHWEST PKWY / VEGA AVE",
+  "primary_st": " SOUTHWEST PKWY",
+  "cross_st": " VEGA AVE",
+  "lat": 30.249603,
+  "lon": -97.852982,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.852982,
+    30.249603
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1355.jpg",
+  "traffic_7d": 2702,
+  "obs_7d": 0,
+  "km_from_downtown": 10.7,
+  "score": 2702,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "46",
+  "series_id": "newarea_ring",
+  "location_name": " CIRCUIT OF THE AMERICAS BLVD / ELROY RD (COTA NORTH GATE)",
+  "primary_st": " CIRCUIT OF THE AMERICAS BLVD",
+  "cross_st": " ELROY RD",
+  "lat": 30.146154,
+  "lon": -97.623441,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.623441,
+    30.146154
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/46.jpg",
+  "traffic_7d": 2698,
+  "obs_7d": 0,
+  "km_from_downtown": 17.6,
+  "score": 2698,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1418",
+  "series_id": "newarea_ring",
+  "location_name": " 1ST ST / 1ST ST (Akins High School - Main Entrance)",
+  "primary_st": " 1ST ST",
+  "cross_st": " 1ST ST",
+  "lat": 30.149516,
+  "lon": -97.80269,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.80269,
+    30.149516
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1418.jpg",
+  "traffic_7d": 2651,
+  "obs_7d": 0,
+  "km_from_downtown": 14.2,
+  "score": 2651,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "599",
+  "series_id": "newarea_ring",
+  "location_name": " AVERY RANCH BLVD / STAKED PLAINS DR",
+  "primary_st": " AVERY RANCH BLVD",
+  "cross_st": " STAKED PLAINS DR",
+  "lat": 30.494162,
+  "lon": -97.791496,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.791496,
+    30.494162
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/599.jpg",
+  "traffic_7d": 2580,
+  "obs_7d": 1,
+  "km_from_downtown": 25.5,
+  "score": 2580,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1491",
+  "series_id": "newarea_ring",
+  "location_name": " LAKELINE BLVD / NORTH LAKE CREEK PKWY",
+  "primary_st": " LAKELINE BLVD",
+  "cross_st": " NORTH LAKE CREEK PKWY",
+  "lat": 30.480169,
+  "lon": -97.795433,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.795433,
+    30.480169
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1491.jpg",
+  "traffic_7d": 2300,
+  "obs_7d": 0,
+  "km_from_downtown": 24.1,
+  "score": 2300,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "3",
+  "series_id": "newarea_ring",
+  "location_name": " STAKED PLAINS DR / LAKELINE BLVD",
+  "primary_st": " STAKED PLAINS DR",
+  "cross_st": " LAKELINE BLVD",
+  "lat": 30.481957,
+  "lon": -97.789574,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.789574,
+    30.481957
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/3.jpg",
+  "traffic_7d": 2294,
+  "obs_7d": 0,
+  "km_from_downtown": 24.2,
+  "score": 2294,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1296",
+  "series_id": "newarea_ring",
+  "location_name": " GRAND AVENUE PKWY / BRATTON LN",
+  "primary_st": " GRAND AVENUE PKWY",
+  "cross_st": " BRATTON LN",
+  "lat": 30.45809,
+  "lon": -97.67735,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.67735,
+    30.45809
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1296.jpg",
+  "traffic_7d": 2244,
+  "obs_7d": 0,
+  "km_from_downtown": 22.0,
+  "score": 2244,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "363",
+  "series_id": "newarea_ring",
+  "location_name": " SOUTHWEST PKWY / WILLIAM CANNON DR",
+  "primary_st": " SOUTHWEST PKWY",
+  "cross_st": " WILLIAM CANNON DR",
+  "lat": 30.254511,
+  "lon": -97.865624,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.865624,
+    30.254511
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/363.jpg",
+  "traffic_7d": 2211,
+  "obs_7d": 0,
+  "km_from_downtown": 11.9,
+  "score": 2211,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "793",
+  "series_id": "newarea_ring",
+  "location_name": " ESCARPMENT BLVD / CONVICT HILL RD",
+  "primary_st": " ESCARPMENT BLVD",
+  "cross_st": " CONVICT HILL RD",
+  "lat": 30.225796,
+  "lon": -97.86866,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.86866,
+    30.225796
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/793.jpg",
+  "traffic_7d": 2149,
+  "obs_7d": 0,
+  "km_from_downtown": 12.9,
+  "score": 2149,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1042",
+  "series_id": "newarea_ring",
+  "location_name": " SLAUGHTER LN / BARSTOW AVE",
+  "primary_st": " SLAUGHTER LN",
+  "cross_st": " BARSTOW AVE",
+  "lat": 30.208704,
+  "lon": -97.889267,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.889267,
+    30.208704
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1042.jpg",
+  "traffic_7d": 2136,
+  "obs_7d": 0,
+  "km_from_downtown": 15.5,
+  "score": 2136,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "272",
+  "series_id": "newarea_ring",
+  "location_name": " ANDERSON MILL RD / SPICEWOOD PKWY",
+  "primary_st": " ANDERSON MILL RD",
+  "cross_st": " SPICEWOOD PKWY",
+  "lat": 30.447157,
+  "lon": -97.807236,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.807236,
+    30.447157
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/272.jpg",
+  "traffic_7d": 1978,
+  "obs_7d": 0,
+  "km_from_downtown": 20.8,
+  "score": 1978,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1281",
+  "series_id": "newarea_ring",
+  "location_name": "5613 BLK SOUTHWEST PKWY (Encino Trace Office Park)",
+  "primary_st": " SOUTHWEST PKWY",
+  "cross_st": null,
+  "lat": 30.244806,
+  "lon": -97.843624,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.843624,
+    30.244806
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1281.jpg",
+  "traffic_7d": 1969,
+  "obs_7d": 0,
+  "km_from_downtown": 10.0,
+  "score": 1969,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "792",
+  "series_id": "newarea_ring",
+  "location_name": " AVERY RANCH BLVD / PEARSON RANCH RD",
+  "primary_st": " AVERY RANCH BLVD",
+  "cross_st": " PEARSON RANCH RD",
+  "lat": 30.503386,
+  "lon": -97.752029,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.752029,
+    30.503386
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/792.jpg",
+  "traffic_7d": 1872,
+  "obs_7d": 0,
+  "km_from_downtown": 26.1,
+  "score": 1872,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1442",
+  "series_id": "newarea_ring",
+  "location_name": " WILLIAM CANNON DR / RIALTO BLVD",
+  "primary_st": " WILLIAM CANNON DR",
+  "cross_st": " RIALTO BLVD",
+  "lat": 30.249853,
+  "lon": -97.866404,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.866404,
+    30.249853
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1442.jpg",
+  "traffic_7d": 1805,
+  "obs_7d": 0,
+  "km_from_downtown": 12.0,
+  "score": 1805,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "242",
+  "series_id": "newarea_ring",
+  "location_name": " SPICEWOOD SPRINGS RD / YAUPON DR",
+  "primary_st": " SPICEWOOD SPRINGS RD",
+  "cross_st": " YAUPON DR",
+  "lat": 30.428312,
+  "lon": -97.783051,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.783051,
+    30.428312
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/242.jpg",
+  "traffic_7d": 1802,
+  "obs_7d": 1,
+  "km_from_downtown": 18.2,
+  "score": 1802,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "261",
+  "series_id": "newarea_ring",
+  "location_name": " SPICEWOOD SPRINGS RD / FOUR IRON DR",
+  "primary_st": " SPICEWOOD SPRINGS RD",
+  "cross_st": " FOUR IRON DR",
+  "lat": 30.431625,
+  "lon": -97.778297,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.778297,
+    30.431625
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/261.jpg",
+  "traffic_7d": 1677,
+  "obs_7d": 0,
+  "km_from_downtown": 18.5,
+  "score": 1677,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1435",
+  "series_id": "newarea_ring",
+  "location_name": " WILLIAM CANNON DR / VEGA AVE",
+  "primary_st": " WILLIAM CANNON DR",
+  "cross_st": " VEGA AVE",
+  "lat": 30.241201,
+  "lon": -97.861407,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.861407,
+    30.241201
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1435.jpg",
+  "traffic_7d": 1633,
+  "obs_7d": 1,
+  "km_from_downtown": 11.7,
+  "score": 1633,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1519",
+  "series_id": "newarea_ring",
+  "location_name": " PEARSON RANCH RD / IVEANS WAY",
+  "primary_st": " PEARSON RANCH RD",
+  "cross_st": " IVEANS WAY",
+  "lat": 30.496051,
+  "lon": -97.75206,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.75206,
+    30.496051
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1519.jpg",
+  "traffic_7d": 1608,
+  "obs_7d": 0,
+  "km_from_downtown": 25.3,
+  "score": 1608,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "569",
+  "series_id": "newarea_ring",
+  "location_name": " MENCHACA RD / RAVENSCROFT DR",
+  "primary_st": " MENCHACA RD",
+  "cross_st": " RAVENSCROFT DR",
+  "lat": 30.157124,
+  "lon": -97.833305,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.833305,
+    30.157124
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/569.jpg",
+  "traffic_7d": 1578,
+  "obs_7d": 0,
+  "km_from_downtown": 14.9,
+  "score": 1578,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "7",
+  "series_id": "newarea_ring",
+  "location_name": " PEARCE LN / KELLAM RD",
+  "primary_st": " PEARCE LN",
+  "cross_st": " KELLAM RD",
+  "lat": 30.163688,
+  "lon": -97.611196,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.611196,
+    30.163688
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/7.jpg",
+  "traffic_7d": 1535,
+  "obs_7d": 0,
+  "km_from_downtown": 17.1,
+  "score": 1535,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1540",
+  "series_id": "newarea_ring",
+  "location_name": "400 BLK TWIN CREEKS RD (Old San Antonio Road at Twin Creek Road)",
+  "primary_st": " TWIN CREEKS RD",
+  "cross_st": null,
+  "lat": 30.125406,
+  "lon": -97.811742,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.811742,
+    30.125406
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1540.jpg",
+  "traffic_7d": 1527,
+  "obs_7d": 0,
+  "km_from_downtown": 17.0,
+  "score": 1527,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1357",
+  "series_id": "newarea_ring",
+  "location_name": " LAKE CREEK PKWY / HYMEADOW DR",
+  "primary_st": " LAKE CREEK PKWY",
+  "cross_st": " HYMEADOW DR",
+  "lat": 30.463852,
+  "lon": -97.789223,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.789223,
+    30.463852
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1357.jpg",
+  "traffic_7d": 1376,
+  "obs_7d": 0,
+  "km_from_downtown": 22.2,
+  "score": 1376,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "632",
+  "series_id": "newarea_ring",
+  "location_name": " SOUTHWEST PKWY / TERRAVISTA DR",
+  "primary_st": " SOUTHWEST PKWY",
+  "cross_st": " TERRAVISTA DR",
+  "lat": 30.256609,
+  "lon": -97.876824,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.876824,
+    30.256609
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/632.jpg",
+  "traffic_7d": 1180,
+  "obs_7d": 0,
+  "km_from_downtown": 12.9,
+  "score": 1180,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "45",
+  "series_id": "newarea_ring",
+  "location_name": " CIRCUIT OF THE AMERICAS BLVD / 812 RD (COTA SOUTH  GATE)",
+  "primary_st": " CIRCUIT OF THE AMERICAS BLVD",
+  "cross_st": "FM 812 RD",
+  "lat": 30.132037,
+  "lon": -97.647147,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.647147,
+    30.132037
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/45.jpg",
+  "traffic_7d": 993,
+  "obs_7d": 0,
+  "km_from_downtown": 17.6,
+  "score": 993,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1315",
+  "series_id": "newarea_ring",
+  "location_name": " SLAUGHTER LN / VINEMONT DR",
+  "primary_st": " SLAUGHTER LN",
+  "cross_st": " VINEMONT DR",
+  "lat": 30.203302,
+  "lon": -97.884672,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.884672,
+    30.203302
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1315.jpg",
+  "traffic_7d": 888,
+  "obs_7d": 0,
+  "km_from_downtown": 15.3,
+  "score": 888,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "514",
+  "series_id": "newarea_ring",
+  "location_name": " OLD LAMPASAS TRL / SPICEWOOD SPRINGS RD (SCOTLAND WELL DR)",
+  "primary_st": " OLD LAMPASAS TRL",
+  "cross_st": " SPICEWOOD SPRINGS RD",
+  "lat": 30.422527,
+  "lon": -97.79361,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.79361,
+    30.422527
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/514.jpg",
+  "traffic_7d": 773,
+  "obs_7d": 0,
+  "km_from_downtown": 17.8,
+  "score": 773,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "536",
+  "series_id": "newarea_ring",
+  "location_name": "11406 BLK MC ANGUS RD (South of Elroy Rd)",
+  "primary_st": " MC ANGUS RD",
+  "cross_st": null,
+  "lat": 30.144061,
+  "lon": -97.649247,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.649247,
+    30.144061
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/536.jpg",
+  "traffic_7d": 762,
+  "obs_7d": 1,
+  "km_from_downtown": 16.3,
+  "score": 762,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1388",
+  "series_id": "newarea_ring",
+  "location_name": " SOUTHWEST PKWY / SOUTHWEST PKWY (The Uplands)",
+  "primary_st": " SOUTHWEST PKWY",
+  "cross_st": " SOUTHWEST PKWY",
+  "lat": 30.243793,
+  "lon": -97.841429,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.841429,
+    30.243793
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1388.jpg",
+  "traffic_7d": 744,
+  "obs_7d": 0,
+  "km_from_downtown": 9.8,
+  "score": 744,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1474",
+  "series_id": "newarea_ring",
+  "location_name": "FM 1626 RD / WAYNE RIDDELL LOOP",
+  "primary_st": "FM 1626 RD",
+  "cross_st": " WAYNE RIDDELL LOOP",
+  "lat": 30.144611,
+  "lon": -97.808546,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.808546,
+    30.144611
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1474.jpg",
+  "traffic_7d": 467,
+  "obs_7d": 1,
+  "km_from_downtown": 14.9,
+  "score": 467,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1458",
+  "series_id": "newarea_ring",
+  "location_name": " OLD SAN ANTONIO RD / PURYEAR RD",
+  "primary_st": " OLD SAN ANTONIO RD",
+  "cross_st": " PURYEAR RD",
+  "lat": 30.112429,
+  "lon": -97.811439,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.811439,
+    30.112429
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1458.jpg",
+  "traffic_7d": 135,
+  "obs_7d": 0,
+  "km_from_downtown": 18.3,
+  "score": 135,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "490",
+  "series_id": "newarea_ring",
+  "location_name": "FM 620 RD / LAKE CREEK PKWY",
+  "primary_st": "FM 620 RD",
+  "cross_st": " LAKE CREEK PKWY",
+  "lat": 30.462158,
+  "lon": -97.816017,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.816017,
+    30.462158
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/490.jpg",
+  "traffic_7d": 60,
+  "obs_7d": 0,
+  "km_from_downtown": 22.7,
+  "score": 60,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1280",
+  "series_id": "newarea_ring",
+  "location_name": "FM 620 RD / VISTA PARKE DR",
+  "primary_st": "FM 620 RD",
+  "cross_st": " VISTA PARKE DR",
+  "lat": 30.412386,
+  "lon": -97.849573,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.849573,
+    30.412386
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1280.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 19.0,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1305",
+  "series_id": "newarea_ring",
+  "location_name": "FM 620 RD / 2222 RD",
+  "primary_st": "FM 620 RD",
+  "cross_st": "FM 2222 RD",
+  "lat": 30.403692,
+  "lon": -97.854065,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.854065,
+    30.403692
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1305.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 18.5,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "137",
+  "series_id": "newarea_ring",
+  "location_name": " PEARCE LN / ROSS RD",
+  "primary_st": " PEARCE LN",
+  "cross_st": " ROSS RD",
+  "lat": 30.16943,
+  "lon": -97.623108,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.623108,
+    30.16943
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/137.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 15.8,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1450",
+  "series_id": "newarea_ring",
+  "location_name": "IH 35 SVRD / GRAND AVENUE PKWY",
+  "primary_st": "IH 35 SVRD",
+  "cross_st": " GRAND AVENUE PKWY",
+  "lat": 30.456168,
+  "lon": -97.665649,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.665649,
+    30.456168
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1450.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 22.2,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1460",
+  "series_id": "newarea_ring",
+  "location_name": " ANDERSON MILL RD / PECAN CREEK PKWY",
+  "primary_st": " ANDERSON MILL RD",
+  "cross_st": " PECAN CREEK PKWY",
+  "lat": 30.446947,
+  "lon": -97.811941,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.811941,
+    30.446947
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1460.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 20.9,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1528",
+  "series_id": "newarea_ring",
+  "location_name": "7400 BLK W US 290 HWY (ACC Pinnacle Campus NE)",
+  "primary_st": "US 290 HWY",
+  "cross_st": null,
+  "lat": 30.231892,
+  "lon": -97.883356,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.883356,
+    30.231892
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1528.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 14.0,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "1529",
+  "series_id": "newarea_ring",
+  "location_name": "7400 BLK W US 290 HWY (ACC Pinnacle Campus SE)",
+  "primary_st": "US 290 HWY",
+  "cross_st": null,
+  "lat": 30.231584,
+  "lon": -97.883257,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.883257,
+    30.231584
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/1529.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 14.0,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "208",
+  "series_id": "newarea_ring",
+  "location_name": " ANDERSON MILL RD / 183 HWY SVRD",
+  "primary_st": " ANDERSON MILL RD",
+  "cross_st": "US 183 HWY SVRD",
+  "lat": 30.448647,
+  "lon": -97.790947,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.790947,
+    30.448647
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/208.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 20.6,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "234",
+  "series_id": "newarea_ring",
+  "location_name": "US 290 HWY / WILLIAM CANNON DR",
+  "primary_st": "US 290 HWY",
+  "cross_st": " WILLIAM CANNON DR",
+  "lat": 30.234057,
+  "lon": -97.86483,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.86483,
+    30.234057
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/234.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 12.3,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "236",
+  "series_id": "newarea_ring",
+  "location_name": "SH 71  / 290 HWY",
+  "primary_st": "SH 71 ",
+  "cross_st": "US 290 HWY",
+  "lat": 30.233343,
+  "lon": -97.874703,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.874703,
+    30.233343
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/236.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 13.2,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "256",
+  "series_id": "newarea_ring",
+  "location_name": "FM 620 RD / PARMER LN",
+  "primary_st": "FM 620 RD",
+  "cross_st": " PARMER LN",
+  "lat": 30.475994,
+  "lon": -97.764618,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.764618,
+    30.475994
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/256.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 23.2,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "257",
+  "series_id": "newarea_ring",
+  "location_name": "FM 2222 RD / MC NEIL DR",
+  "primary_st": "FM 2222 RD",
+  "cross_st": " MC NEIL DR",
+  "lat": 30.392084,
+  "lon": -97.83519,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.83519,
+    30.392084
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/257.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 16.4,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "258",
+  "series_id": "newarea_ring",
+  "location_name": "FM 2222 RD / RIVER PLACE BLVD",
+  "primary_st": "FM 2222 RD",
+  "cross_st": " RIVER PLACE BLVD",
+  "lat": 30.394526,
+  "lon": -97.845512,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.845512,
+    30.394526
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/258.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 17.2,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "270",
+  "series_id": "newarea_ring",
+  "location_name": " ROSS RD / THOME VALLEY DR",
+  "primary_st": " ROSS RD",
+  "cross_st": " THOME VALLEY DR",
+  "lat": 30.174069,
+  "lon": -97.620201,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.620201,
+    30.174069
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/270.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 15.7,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "273",
+  "series_id": "newarea_ring",
+  "location_name": "FM 620 RD / 2222 RD",
+  "primary_st": "FM 620 RD",
+  "cross_st": "FM 2222 RD",
+  "lat": 30.403692,
+  "lon": -97.854065,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.854065,
+    30.403692
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/273.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 18.5,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "280",
+  "series_id": "newarea_ring",
+  "location_name": "FM 620 RD / BOULDER LN (North)",
+  "primary_st": "FM 620 RD",
+  "cross_st": " BOULDER LN",
+  "lat": 30.443483,
+  "lon": -97.83313,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.83313,
+    30.443483
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/280.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 21.3,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "290",
+  "series_id": "newarea_ring",
+  "location_name": " HUNTERS CHASE DR / POND SPRINGS RD",
+  "primary_st": " HUNTERS CHASE DR",
+  "cross_st": " POND SPRINGS RD",
+  "lat": 30.441448,
+  "lon": -97.773415,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.773415,
+    30.441448
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/290.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 19.5,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "388",
+  "series_id": "newarea_ring",
+  "location_name": " ANDERSON MILL RD / MORRIS RD",
+  "primary_st": " ANDERSON MILL RD",
+  "cross_st": " MORRIS RD",
+  "lat": 30.456282,
+  "lon": -97.766571,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.766571,
+    30.456282
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/388.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 21.0,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "389",
+  "series_id": "newarea_ring",
+  "location_name": " ANDERSON MILL RD / BROADMEADE AVE (Turtle Rock Dr)",
+  "primary_st": " ANDERSON MILL RD",
+  "cross_st": " BROADMEADE AVE",
+  "lat": 30.453196,
+  "lon": -97.77639,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.77639,
+    30.453196
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/389.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 20.8,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "478",
+  "series_id": "newarea_ring",
+  "location_name": "FM 2222 RD / PARK CENTRE ",
+  "primary_st": "FM 2222 RD",
+  "cross_st": " PARK CENTRE ",
+  "lat": 30.382252,
+  "lon": -97.813118,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.813118,
+    30.382252
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/478.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 14.4,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "479",
+  "series_id": "newarea_ring",
+  "location_name": "FM 2222 RD / BELL MOUNTAIN DR",
+  "primary_st": "FM 2222 RD",
+  "cross_st": " BELL MOUNTAIN DR",
+  "lat": 30.37719,
+  "lon": -97.805458,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.805458,
+    30.37719
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/479.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 13.6,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "480",
+  "series_id": "newarea_ring",
+  "location_name": "FM 2222 RD / JESTER BLVD",
+  "primary_st": "FM 2222 RD",
+  "cross_st": " JESTER BLVD",
+  "lat": 30.369497,
+  "lon": -97.801994,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.801994,
+    30.369497
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/480.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 12.6,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "481",
+  "series_id": "newarea_ring",
+  "location_name": "FM 2222 RD / CITY PARK RD",
+  "primary_st": "FM 2222 RD",
+  "cross_st": " CITY PARK RD",
+  "lat": 30.365801,
+  "lon": -97.79744,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.79744,
+    30.365801
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/481.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 12.1,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "488",
+  "series_id": "newarea_ring",
+  "location_name": "FM 620 RD / PECAN PARK BLVD",
+  "primary_st": "FM 620 RD",
+  "cross_st": " PECAN PARK BLVD",
+  "lat": 30.465965,
+  "lon": -97.803963,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.803963,
+    30.465965
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/488.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 22.7,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "489",
+  "series_id": "newarea_ring",
+  "location_name": "FM 620 RD / 183 HWY SVRD",
+  "primary_st": "FM 620 RD",
+  "cross_st": "US 183 HWY SVRD",
+  "lat": 30.468016,
+  "lon": -97.797371,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.797371,
+    30.468016
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/489.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 22.8,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "501",
+  "series_id": "newarea_ring",
+  "location_name": "FM 620 RD / WILSON PARKE AVE",
+  "primary_st": "FM 620 RD",
+  "cross_st": " WILSON PARKE AVE",
+  "lat": 30.416769,
+  "lon": -97.847313,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.847313,
+    30.416769
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/501.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 19.3,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "502",
+  "series_id": "newarea_ring",
+  "location_name": "FM 620 RD / BOULDER LN (South)",
+  "primary_st": "FM 620 RD",
+  "cross_st": " BOULDER LN",
+  "lat": 30.428783,
+  "lon": -97.842659,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.842659,
+    30.428783
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/502.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 20.3,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "532",
+  "series_id": "newarea_ring",
+  "location_name": " PARMER LN / AMBERGLEN BLVD",
+  "primary_st": " PARMER LN",
+  "cross_st": " AMBERGLEN BLVD",
+  "lat": 30.471434,
+  "lon": -97.762642,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.762642,
+    30.471434
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/532.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 22.7,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "537",
+  "series_id": "newarea_ring",
+  "location_name": "9143 BLK CIRCUIT OF THE AMERICAS BLVD (COTA TOWER ADVIDIA)",
+  "primary_st": " CIRCUIT OF THE AMERICAS BLVD",
+  "cross_st": null,
+  "lat": 30.134247,
+  "lon": -97.637593,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.637593,
+    30.134247
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/537.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 17.9,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "764",
+  "series_id": "newarea_ring",
+  "location_name": "FM 620 RD / FOUR POINTS DR",
+  "primary_st": "FM 620 RD",
+  "cross_st": " FOUR POINTS DR",
+  "lat": 30.406595,
+  "lon": -97.852478,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.852478,
+    30.406595
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/764.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 18.7,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ },
+ {
+  "camera_id": "9",
+  "series_id": "newarea_ring",
+  "location_name": " ESCARPMENT BLVD / WILLIAM CANNON DR",
+  "primary_st": " ESCARPMENT BLVD",
+  "cross_st": " WILLIAM CANNON DR",
+  "lat": 30.229994,
+  "lon": -97.864548,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -97.864548,
+    30.229994
+   ]
+  },
+  "camera_status": "TURNED_ON",
+  "screenshot_address": "https://cctv.austinmobility.io/image/9.jpg",
+  "traffic_7d": 0,
+  "obs_7d": 0,
+  "km_from_downtown": 12.4,
+  "score": 0,
+  "source": "outside original boundary (ring; new boundary not yet published)",
+  "in_core_panel": false
+ }
+]

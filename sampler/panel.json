@@ -1,0 +1,2162 @@
+[
+  {
+    "camera_id": "21",
+    "series_id": "peak_geofence",
+    "location_name": " BURNET RD / JUSTIN LN",
+    "cross_streets": "BURNET RD /  JUSTIN LN",
+    "primary_st": " BURNET RD",
+    "cross_st": " JUSTIN LN",
+    "lat": 30.345385,
+    "lon": -97.737526,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.737526,
+        30.345385
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/21.jpg",
+    "traffic_7d": 37266,
+    "obs_7d": 0,
+    "per_1k_7d": 0.0,
+    "corridors": [
+      "burnet"
+    ],
+    "score": 37266,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "32",
+    "series_id": "peak_geofence",
+    "location_name": " BARTON SPRINGS RD / RIVERSIDE DR (OTC - NORTHEAST)",
+    "cross_streets": "BARTON SPRINGS RD /  RIVERSIDE DR",
+    "primary_st": " BARTON SPRINGS RD",
+    "cross_st": " RIVERSIDE DR",
+    "lat": 30.257391,
+    "lon": -97.749041,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.749041,
+        30.257391
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/32.jpg",
+    "traffic_7d": 22798,
+    "obs_7d": 27,
+    "per_1k_7d": 1.184,
+    "corridors": [
+      "barton_springs",
+      "riverside"
+    ],
+    "score": 23125,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "795",
+    "series_id": "peak_geofence",
+    "location_name": "400 BLK S CONGRESS AVE (Music Lane)",
+    "cross_streets": "CONGRESS AVE",
+    "primary_st": " CONGRESS AVE",
+    "cross_st": null,
+    "lat": 30.253627,
+    "lon": -97.748178,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.748178,
+        30.253627
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/795.jpg",
+    "traffic_7d": 21148,
+    "obs_7d": 59,
+    "per_1k_7d": 2.79,
+    "corridors": [
+      "congress"
+    ],
+    "score": 21998,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "31",
+    "series_id": "peak_geofence",
+    "location_name": " BARTON SPRINGS RD / RIVERSIDE DR (OTC - NORTHWEST)",
+    "cross_streets": "BARTON SPRINGS RD /  RIVERSIDE DR",
+    "primary_st": " BARTON SPRINGS RD",
+    "cross_st": " RIVERSIDE DR",
+    "lat": 30.257478,
+    "lon": -97.748989,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.748989,
+        30.257478
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/31.jpg",
+    "traffic_7d": 19946,
+    "obs_7d": 0,
+    "per_1k_7d": 0.0,
+    "corridors": [
+      "barton_springs",
+      "riverside"
+    ],
+    "score": 20246,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "293",
+    "series_id": "peak_geofence",
+    "location_name": " 24TH ST / NUECES ST",
+    "cross_streets": "24TH ST /  NUECES ST",
+    "primary_st": " 24TH ST",
+    "cross_st": " NUECES ST",
+    "lat": 30.287828,
+    "lon": -97.743141,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.743141,
+        30.287828
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/293.jpg",
+    "traffic_7d": 19236,
+    "obs_7d": 0,
+    "per_1k_7d": 0.0,
+    "corridors": [
+      "downtown"
+    ],
+    "score": 19536,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "580",
+    "series_id": "peak_geofence",
+    "location_name": " OHLEN RD / RESEARCH BLVD SVRD",
+    "cross_streets": "OHLEN RD /  RESEARCH BLVD SVRD",
+    "primary_st": " OHLEN RD",
+    "cross_st": " RESEARCH BLVD SVRD",
+    "lat": 30.36326,
+    "lon": -97.717262,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.717262,
+        30.36326
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/580.jpg",
+    "traffic_7d": 18684,
+    "obs_7d": 2,
+    "per_1k_7d": 0.107,
+    "corridors": [],
+    "score": 18686,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "1526",
+    "series_id": "peak_geofence",
+    "location_name": " AIRPORT BLVD / 55TH ST",
+    "cross_streets": "AIRPORT BLVD /  55TH ST",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " 55TH ST",
+    "lat": 30.316871,
+    "lon": -97.713697,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.713697,
+        30.316871
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1526.jpg",
+    "traffic_7d": 18542,
+    "obs_7d": 4,
+    "per_1k_7d": 0.216,
+    "corridors": [
+      "airport",
+      "downtown"
+    ],
+    "score": 18846,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "713",
+    "series_id": "peak_geofence",
+    "location_name": " LAMAR BLVD / DICKSON DR",
+    "cross_streets": "LAMAR BLVD /  DICKSON DR",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " DICKSON DR",
+    "lat": 30.245348,
+    "lon": -97.779913,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.779913,
+        30.245348
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/713.jpg",
+    "traffic_7d": 18411,
+    "obs_7d": 29,
+    "per_1k_7d": 1.575,
+    "corridors": [
+      "lamar"
+    ],
+    "score": 19240,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "693",
+    "series_id": "peak_geofence",
+    "location_name": " LAVACA ST / 17TH ST",
+    "cross_streets": "LAVACA ST /  17TH ST",
+    "primary_st": " LAVACA ST",
+    "cross_st": " 17TH ST",
+    "lat": 30.279469,
+    "lon": -97.741203,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.741203,
+        30.279469
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/693.jpg",
+    "traffic_7d": 17953,
+    "obs_7d": 8,
+    "per_1k_7d": 0.446,
+    "corridors": [
+      "downtown"
+    ],
+    "score": 18761,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "33",
+    "series_id": "peak_geofence",
+    "location_name": " SAN JACINTO BLVD / 7TH ST (OMNI - SOUTHWEST)",
+    "cross_streets": "SAN JACINTO BLVD /  7TH ST",
+    "primary_st": " SAN JACINTO BLVD",
+    "cross_st": " 7TH ST",
+    "lat": 30.268688,
+    "lon": -97.740692,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.740692,
+        30.268688
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/33.jpg",
+    "traffic_7d": 17771,
+    "obs_7d": 0,
+    "per_1k_7d": 0.0,
+    "corridors": [
+      "downtown"
+    ],
+    "score": 18071,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "61",
+    "series_id": "peak_geofence",
+    "location_name": " GUADALUPE ST / MARTIN LUTHER KING JR BLVD",
+    "cross_streets": "GUADALUPE ST /  MARTIN LUTHER KING JR BLVD",
+    "primary_st": " GUADALUPE ST",
+    "cross_st": " MARTIN LUTHER KING JR BLVD",
+    "lat": 30.281733,
+    "lon": -97.741928,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.741928,
+        30.281733
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/61.jpg",
+    "traffic_7d": 17538,
+    "obs_7d": 39,
+    "per_1k_7d": 2.224,
+    "corridors": [
+      "guadalupe",
+      "mlk"
+    ],
+    "score": 18377,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "191",
+    "series_id": "peak_geofence",
+    "location_name": " LAMAR BLVD / PARMER LN",
+    "cross_streets": "LAMAR BLVD /  PARMER LN",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " PARMER LN",
+    "lat": 30.407852,
+    "lon": -97.678223,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.678223,
+        30.407852
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/191.jpg",
+    "traffic_7d": 17161,
+    "obs_7d": 2,
+    "per_1k_7d": 0.117,
+    "corridors": [
+      "lamar"
+    ],
+    "score": 17463,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "98",
+    "series_id": "peak_geofence",
+    "location_name": " LAMAR BLVD / OLTORF ST",
+    "cross_streets": "LAMAR BLVD /  OLTORF ST",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " OLTORF ST",
+    "lat": 30.248413,
+    "lon": -97.769951,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.769951,
+        30.248413
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/98.jpg",
+    "traffic_7d": 17041,
+    "obs_7d": 38,
+    "per_1k_7d": 2.23,
+    "corridors": [
+      "lamar",
+      "oltorf"
+    ],
+    "score": 17879,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "170",
+    "series_id": "peak_geofence",
+    "location_name": " MOPAC EXPY SVRD / NORTHLAND DR (West)",
+    "cross_streets": "MOPAC EXPY SVRD /  NORTHLAND DR",
+    "primary_st": " MOPAC EXPY SVRD",
+    "cross_st": " NORTHLAND DR",
+    "lat": 30.336784,
+    "lon": -97.755959,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.755959,
+        30.336784
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/170.jpg",
+    "traffic_7d": 16200,
+    "obs_7d": 0,
+    "per_1k_7d": 0.0,
+    "corridors": [
+      "mopac"
+    ],
+    "score": 16500,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "962",
+    "series_id": "peak_geofence",
+    "location_name": " 1ST ST / BEN WHITE BLVD SVRD",
+    "cross_streets": "1ST ST /  BEN WHITE BLVD SVRD",
+    "primary_st": " 1ST ST",
+    "cross_st": " BEN WHITE BLVD SVRD",
+    "lat": 30.226185,
+    "lon": -97.769669,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.769669,
+        30.226185
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/962.jpg",
+    "traffic_7d": 15981,
+    "obs_7d": 25,
+    "per_1k_7d": 1.564,
+    "corridors": [],
+    "score": 16006,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "143",
+    "series_id": "peak_geofence",
+    "location_name": " 7TH ST / 35 SVRD",
+    "cross_streets": "7TH ST / IH 35 SVRD",
+    "primary_st": " 7TH ST",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.266821,
+    "lon": -97.734665,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.734665,
+        30.266821
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/143.jpg",
+    "traffic_7d": 15393,
+    "obs_7d": 8,
+    "per_1k_7d": 0.52,
+    "corridors": [
+      "downtown",
+      "ih35"
+    ],
+    "score": 15701,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "781",
+    "series_id": "peak_geofence",
+    "location_name": "2100 BLK S LAMAR BLVD (Oxford Ave)",
+    "cross_streets": "LAMAR BLVD",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": null,
+    "lat": 30.248083,
+    "lon": -97.77121,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.77121,
+        30.248083
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/781.jpg",
+    "traffic_7d": 14928,
+    "obs_7d": 23,
+    "per_1k_7d": 1.541,
+    "corridors": [
+      "lamar"
+    ],
+    "score": 15251,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "1356",
+    "series_id": "peak_geofence",
+    "location_name": "IH 35 SVRD / 6TH ST",
+    "cross_streets": "IH 35 SVRD /  6TH ST",
+    "primary_st": "IH 35 SVRD",
+    "cross_st": " 6TH ST",
+    "lat": 30.265636,
+    "lon": -97.7342,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.7342,
+        30.265636
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1356.jpg",
+    "traffic_7d": 14858,
+    "obs_7d": 28,
+    "per_1k_7d": 1.885,
+    "corridors": [
+      "downtown",
+      "ih35"
+    ],
+    "score": 15686,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "166",
+    "series_id": "peak_geofence",
+    "location_name": " STASSNEY LN / 35 SVRD",
+    "cross_streets": "STASSNEY LN / IH 35 SVRD",
+    "primary_st": " STASSNEY LN",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.198195,
+    "lon": -97.763657,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.763657,
+        30.198195
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/166.jpg",
+    "traffic_7d": 14735,
+    "obs_7d": 20,
+    "per_1k_7d": 1.357,
+    "corridors": [
+      "ih35"
+    ],
+    "score": 15555,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "561",
+    "series_id": "peak_geofence",
+    "location_name": " COLORADO ST / 4TH ST",
+    "cross_streets": "COLORADO ST /  4TH ST",
+    "primary_st": " COLORADO ST",
+    "cross_st": " 4TH ST",
+    "lat": 30.266569,
+    "lon": -97.744812,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.744812,
+        30.266569
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/561.jpg",
+    "traffic_7d": 14569,
+    "obs_7d": 31,
+    "per_1k_7d": 2.128,
+    "corridors": [
+      "downtown"
+    ],
+    "score": 15400,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "116",
+    "series_id": "peak_geofence",
+    "location_name": " MENCHACA RD / WILLIAM CANNON DR",
+    "cross_streets": "MENCHACA RD /  WILLIAM CANNON DR",
+    "primary_st": " MENCHACA RD",
+    "cross_st": " WILLIAM CANNON DR",
+    "lat": 30.202913,
+    "lon": -97.806908,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.806908,
+        30.202913
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/116.jpg",
+    "traffic_7d": 14565,
+    "obs_7d": 38,
+    "per_1k_7d": 2.609,
+    "corridors": [],
+    "score": 15103,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "358",
+    "series_id": "peak_geofence",
+    "location_name": " 6TH ST / 35 SVRD",
+    "cross_streets": "6TH ST / IH 35 SVRD",
+    "primary_st": " 6TH ST",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.265881,
+    "lon": -97.735001,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.735001,
+        30.265881
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/358.jpg",
+    "traffic_7d": 14305,
+    "obs_7d": 31,
+    "per_1k_7d": 2.167,
+    "corridors": [
+      "downtown",
+      "ih35"
+    ],
+    "score": 15136,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "157",
+    "series_id": "peak_geofence",
+    "location_name": " WILLIAM CANNON DR / 1ST ST",
+    "cross_streets": "WILLIAM CANNON DR /  1ST ST",
+    "primary_st": " WILLIAM CANNON DR",
+    "cross_st": " 1ST ST",
+    "lat": 30.197098,
+    "lon": -97.787819,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.787819,
+        30.197098
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/157.jpg",
+    "traffic_7d": 14157,
+    "obs_7d": 28,
+    "per_1k_7d": 1.978,
+    "corridors": [],
+    "score": 14185,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "94",
+    "series_id": "peak_geofence",
+    "location_name": " LAMAR BLVD / 12TH ST",
+    "cross_streets": "LAMAR BLVD /  12TH ST",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " 12TH ST",
+    "lat": 30.276897,
+    "lon": -97.751396,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.751396,
+        30.276897
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/94.jpg",
+    "traffic_7d": 14155,
+    "obs_7d": 39,
+    "per_1k_7d": 2.755,
+    "corridors": [
+      "lamar"
+    ],
+    "score": 14994,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "314",
+    "series_id": "peak_geofence",
+    "location_name": " LAMAR BLVD / 9TH ST",
+    "cross_streets": "LAMAR BLVD /  9TH ST",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " 9TH ST",
+    "lat": 30.273949,
+    "lon": -97.752777,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.752777,
+        30.273949
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/314.jpg",
+    "traffic_7d": 14125,
+    "obs_7d": 28,
+    "per_1k_7d": 1.982,
+    "corridors": [
+      "lamar"
+    ],
+    "score": 14953,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "351",
+    "series_id": "peak_geofence",
+    "location_name": " 6TH ST / GUADALUPE ST",
+    "cross_streets": "6TH ST /  GUADALUPE ST",
+    "primary_st": " 6TH ST",
+    "cross_st": " GUADALUPE ST",
+    "lat": 30.269024,
+    "lon": -97.746262,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.746262,
+        30.269024
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/351.jpg",
+    "traffic_7d": 14013,
+    "obs_7d": 87,
+    "per_1k_7d": 6.209,
+    "corridors": [
+      "downtown",
+      "guadalupe"
+    ],
+    "score": 14863,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "708",
+    "series_id": "peak_geofence",
+    "location_name": " BURNET RD / RICHCREEK RD",
+    "cross_streets": "BURNET RD /  RICHCREEK RD",
+    "primary_st": " BURNET RD",
+    "cross_st": " RICHCREEK RD",
+    "lat": 30.350573,
+    "lon": -97.734337,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.734337,
+        30.350573
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/708.jpg",
+    "traffic_7d": 13984,
+    "obs_7d": 5,
+    "per_1k_7d": 0.358,
+    "corridors": [
+      "burnet"
+    ],
+    "score": 13989,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "174",
+    "series_id": "peak_geofence",
+    "location_name": " BRAKER LN / BURNET RD",
+    "cross_streets": "BRAKER LN /  BURNET RD",
+    "primary_st": " BRAKER LN",
+    "cross_st": " BURNET RD",
+    "lat": 30.391165,
+    "lon": -97.721809,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.721809,
+        30.391165
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/174.jpg",
+    "traffic_7d": 13963,
+    "obs_7d": 70,
+    "per_1k_7d": 5.013,
+    "corridors": [
+      "burnet"
+    ],
+    "score": 14513,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "456",
+    "series_id": "peak_geofence",
+    "location_name": " AIRPORT BLVD / BOLM RD",
+    "cross_streets": "AIRPORT BLVD /  BOLM RD",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " BOLM RD",
+    "lat": 30.260094,
+    "lon": -97.693863,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.693863,
+        30.260094
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/456.jpg",
+    "traffic_7d": 13794,
+    "obs_7d": 21,
+    "per_1k_7d": 1.522,
+    "corridors": [
+      "airport"
+    ],
+    "score": 14315,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "163",
+    "series_id": "peak_geofence",
+    "location_name": " BRODIE LN / WILLIAM CANNON DR",
+    "cross_streets": "BRODIE LN /  WILLIAM CANNON DR",
+    "primary_st": " BRODIE LN",
+    "cross_st": " WILLIAM CANNON DR",
+    "lat": 30.213778,
+    "lon": -97.830383,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.830383,
+        30.213778
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/163.jpg",
+    "traffic_7d": 13742,
+    "obs_7d": 8,
+    "per_1k_7d": 0.582,
+    "corridors": [],
+    "score": 14250,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "907",
+    "series_id": "peak_geofence",
+    "location_name": " FAR WEST BLVD / VILLAGE CENTER DR",
+    "cross_streets": "FAR WEST BLVD /  VILLAGE CENTER DR",
+    "primary_st": " FAR WEST BLVD",
+    "cross_st": " VILLAGE CENTER DR",
+    "lat": 30.354349,
+    "lon": -97.755081,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.755081,
+        30.354349
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/907.jpg",
+    "traffic_7d": 13735,
+    "obs_7d": 2,
+    "per_1k_7d": 0.146,
+    "corridors": [],
+    "score": 13737,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "1413",
+    "series_id": "peak_geofence",
+    "location_name": "1500 BLK S PLEASANT VALLEY RD (HEB)",
+    "cross_streets": "PLEASANT VALLEY RD",
+    "primary_st": " PLEASANT VALLEY RD",
+    "cross_st": null,
+    "lat": 30.235701,
+    "lon": -97.72152,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.72152,
+        30.235701
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1413.jpg",
+    "traffic_7d": 13594,
+    "obs_7d": 7,
+    "per_1k_7d": 0.515,
+    "corridors": [],
+    "score": 13601,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "354",
+    "series_id": "peak_geofence",
+    "location_name": " 5TH ST / CONGRESS AVE",
+    "cross_streets": "5TH ST /  CONGRESS AVE",
+    "primary_st": " 5TH ST",
+    "cross_st": " CONGRESS AVE",
+    "lat": 30.267119,
+    "lon": -97.743172,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.743172,
+        30.267119
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/354.jpg",
+    "traffic_7d": 13439,
+    "obs_7d": 128,
+    "per_1k_7d": 9.525,
+    "corridors": [
+      "congress",
+      "downtown"
+    ],
+    "score": 14289,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "1080",
+    "series_id": "peak_geofence",
+    "location_name": " CAPITAL OF TEXAS HWY / RESEARCH BLVD SVRD",
+    "cross_streets": "CAPITAL OF TEXAS HWY /  RESEARCH BLVD SVRD",
+    "primary_st": " CAPITAL OF TEXAS HWY",
+    "cross_st": " RESEARCH BLVD SVRD",
+    "lat": 30.389793,
+    "lon": -97.744301,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.744301,
+        30.389793
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1080.jpg",
+    "traffic_7d": 13396,
+    "obs_7d": 3,
+    "per_1k_7d": 0.224,
+    "corridors": [],
+    "score": 13399,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "82",
+    "series_id": "peak_geofence",
+    "location_name": " ALLANDALE RD / BURNET RD (KOENIG LN)",
+    "cross_streets": "ALLANDALE RD /  BURNET RD",
+    "primary_st": " ALLANDALE RD",
+    "cross_st": " BURNET RD",
+    "lat": 30.334852,
+    "lon": -97.739822,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.739822,
+        30.334852
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/82.jpg",
+    "traffic_7d": 13395,
+    "obs_7d": 48,
+    "per_1k_7d": 3.583,
+    "corridors": [
+      "burnet"
+    ],
+    "score": 13943,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "563",
+    "series_id": "peak_geofence",
+    "location_name": " COLORADO ST / 2ND ST",
+    "cross_streets": "COLORADO ST /  2ND ST",
+    "primary_st": " COLORADO ST",
+    "cross_st": " 2ND ST",
+    "lat": 30.264683,
+    "lon": -97.745514,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.745514,
+        30.264683
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/563.jpg",
+    "traffic_7d": 13176,
+    "obs_7d": 12,
+    "per_1k_7d": 0.911,
+    "corridors": [
+      "downtown"
+    ],
+    "score": 13988,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "1483",
+    "series_id": "peak_geofence",
+    "location_name": " RUNDBERG LN / MIDDLE FISKVILLE RD",
+    "cross_streets": "RUNDBERG LN /  MIDDLE FISKVILLE RD",
+    "primary_st": " RUNDBERG LN",
+    "cross_st": " MIDDLE FISKVILLE RD",
+    "lat": 30.357435,
+    "lon": -97.686508,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.686508,
+        30.357435
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1483.jpg",
+    "traffic_7d": 13170,
+    "obs_7d": 3,
+    "per_1k_7d": 0.228,
+    "corridors": [],
+    "score": 13173,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "715",
+    "series_id": "peak_geofence",
+    "location_name": " WILLIAM CANNON DR / CIRCLE S RD",
+    "cross_streets": "WILLIAM CANNON DR /  CIRCLE S RD",
+    "primary_st": " WILLIAM CANNON DR",
+    "cross_st": " CIRCLE S RD",
+    "lat": 30.192722,
+    "lon": -97.777596,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.777596,
+        30.192722
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/715.jpg",
+    "traffic_7d": 13148,
+    "obs_7d": 7,
+    "per_1k_7d": 0.532,
+    "corridors": [],
+    "score": 13655,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "1321",
+    "series_id": "peak_geofence",
+    "location_name": "1137 BLK AIRPORT BLVD (Airport & Shopping Center)",
+    "cross_streets": "AIRPORT BLVD",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": null,
+    "lat": 30.27254,
+    "lon": -97.697583,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.697583,
+        30.27254
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1321.jpg",
+    "traffic_7d": 13112,
+    "obs_7d": 6,
+    "per_1k_7d": 0.458,
+    "corridors": [
+      "airport"
+    ],
+    "score": 13118,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "400",
+    "series_id": "peak_geofence",
+    "location_name": " MANOR RD / SUSQUEHANNA LN",
+    "cross_streets": "MANOR RD /  SUSQUEHANNA LN",
+    "primary_st": " MANOR RD",
+    "cross_st": " SUSQUEHANNA LN",
+    "lat": 30.313078,
+    "lon": -97.665009,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.665009,
+        30.313078
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/400.jpg",
+    "traffic_7d": 13085,
+    "obs_7d": 14,
+    "per_1k_7d": 1.07,
+    "corridors": [
+      "manor"
+    ],
+    "score": 13599,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "1505",
+    "series_id": "peak_geofence",
+    "location_name": " CESAR CHAVEZ ST / NUECES ST",
+    "cross_streets": "CESAR CHAVEZ ST /  NUECES ST",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": " NUECES ST",
+    "lat": 30.264984,
+    "lon": -97.750216,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.750216,
+        30.264984
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1505.jpg",
+    "traffic_7d": 12997,
+    "obs_7d": 61,
+    "per_1k_7d": 4.693,
+    "corridors": [
+      "cesar_chavez"
+    ],
+    "score": 13847,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "786",
+    "series_id": "peak_geofence",
+    "location_name": " CESAR CHAVEZ ST / SAN JACINTO BLVD",
+    "cross_streets": "CESAR CHAVEZ ST /  SAN JACINTO BLVD",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": " SAN JACINTO BLVD",
+    "lat": 30.262692,
+    "lon": -97.742104,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.742104,
+        30.262692
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/786.jpg",
+    "traffic_7d": 12968,
+    "obs_7d": 181,
+    "per_1k_7d": 13.957,
+    "corridors": [
+      "cesar_chavez"
+    ],
+    "score": 13818,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "160",
+    "series_id": "peak_geofence",
+    "location_name": " WILLIAM CANNON DR / BLUFF SPRINGS RD",
+    "cross_streets": "WILLIAM CANNON DR /  BLUFF SPRINGS RD",
+    "primary_st": " WILLIAM CANNON DR",
+    "cross_st": " BLUFF SPRINGS RD",
+    "lat": 30.189196,
+    "lon": -97.767891,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.767891,
+        30.189196
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/160.jpg",
+    "traffic_7d": 12857,
+    "obs_7d": 15,
+    "per_1k_7d": 1.167,
+    "corridors": [],
+    "score": 12872,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "1510",
+    "series_id": "peak_geofence",
+    "location_name": " RIVERSIDE DR / MANLOVE ST",
+    "cross_streets": "RIVERSIDE DR /  MANLOVE ST",
+    "primary_st": " RIVERSIDE DR",
+    "cross_st": " MANLOVE ST",
+    "lat": 30.247469,
+    "lon": -97.733571,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.733571,
+        30.247469
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1510.jpg",
+    "traffic_7d": 12623,
+    "obs_7d": 8,
+    "per_1k_7d": 0.634,
+    "corridors": [
+      "riverside"
+    ],
+    "score": 12931,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "1511",
+    "series_id": "peak_geofence",
+    "location_name": " RIVERSIDE DR / MANLOVE ST",
+    "cross_streets": "RIVERSIDE DR /  MANLOVE ST",
+    "primary_st": " RIVERSIDE DR",
+    "cross_st": " MANLOVE ST",
+    "lat": 30.247473,
+    "lon": -97.73356,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.73356,
+        30.247473
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1511.jpg",
+    "traffic_7d": 12621,
+    "obs_7d": 11,
+    "per_1k_7d": 0.872,
+    "corridors": [
+      "riverside"
+    ],
+    "score": 12932,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "528",
+    "series_id": "peak_geofence",
+    "location_name": " 15TH ST / LAVACA ST",
+    "cross_streets": "15TH ST /  LAVACA ST",
+    "primary_st": " 15TH ST",
+    "cross_st": " LAVACA ST",
+    "lat": 30.277605,
+    "lon": -97.741928,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.741928,
+        30.277605
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/528.jpg",
+    "traffic_7d": 12481,
+    "obs_7d": 73,
+    "per_1k_7d": 5.849,
+    "corridors": [
+      "downtown"
+    ],
+    "score": 13331,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "284",
+    "series_id": "peak_geofence",
+    "location_name": " CAMERON RD / RUNDBERG LN",
+    "cross_streets": "CAMERON RD /  RUNDBERG LN",
+    "primary_st": " CAMERON RD",
+    "cross_st": " RUNDBERG LN",
+    "lat": 30.350773,
+    "lon": -97.675972,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.675972,
+        30.350773
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/284.jpg",
+    "traffic_7d": 12468,
+    "obs_7d": 8,
+    "per_1k_7d": 0.642,
+    "corridors": [],
+    "score": 12476,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "100",
+    "series_id": "peak_geofence",
+    "location_name": " LAMAR BLVD / BARTON SPRINGS RD",
+    "cross_streets": "LAMAR BLVD /  BARTON SPRINGS RD",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " BARTON SPRINGS RD",
+    "lat": 30.260862,
+    "lon": -97.758522,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.758522,
+        30.260862
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/100.jpg",
+    "traffic_7d": 12346,
+    "obs_7d": 128,
+    "per_1k_7d": 10.368,
+    "corridors": [
+      "barton_springs",
+      "lamar"
+    ],
+    "score": 13196,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "194",
+    "series_id": "peak_geofence",
+    "location_name": " BURLESON RD / MONTOPOLIS DR",
+    "cross_streets": "BURLESON RD /  MONTOPOLIS DR",
+    "primary_st": " BURLESON RD",
+    "cross_st": " MONTOPOLIS DR",
+    "lat": 30.205563,
+    "lon": -97.716591,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.716591,
+        30.205563
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/194.jpg",
+    "traffic_7d": 12332,
+    "obs_7d": 16,
+    "per_1k_7d": 1.297,
+    "corridors": [],
+    "score": 12848,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "958",
+    "series_id": "peak_geofence",
+    "location_name": " BRAKER LN / MOPAC EXPY SVRD",
+    "cross_streets": "BRAKER LN /  MOPAC EXPY SVRD",
+    "primary_st": " BRAKER LN",
+    "cross_st": " MOPAC EXPY SVRD",
+    "lat": 30.396101,
+    "lon": -97.733398,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.733398,
+        30.396101
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/958.jpg",
+    "traffic_7d": 12101,
+    "obs_7d": 25,
+    "per_1k_7d": 2.066,
+    "corridors": [
+      "mopac"
+    ],
+    "score": 12926,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "575",
+    "series_id": "peak_geofence",
+    "location_name": " 7TH ST / 35 SVRD",
+    "cross_streets": "7TH ST / IH 35 SVRD",
+    "primary_st": " 7TH ST",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.266571,
+    "lon": -97.733856,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.733856,
+        30.266571
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/575.jpg",
+    "traffic_7d": 12058,
+    "obs_7d": 17,
+    "per_1k_7d": 1.41,
+    "corridors": [
+      "downtown",
+      "ih35"
+    ],
+    "score": 12375,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "173",
+    "series_id": "peak_geofence",
+    "location_name": " BRAKER LN / METRIC BLVD",
+    "cross_streets": "BRAKER LN /  METRIC BLVD",
+    "primary_st": " BRAKER LN",
+    "cross_st": " METRIC BLVD",
+    "lat": 30.392342,
+    "lon": -97.708283,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.708283,
+        30.392342
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/173.jpg",
+    "traffic_7d": 12028,
+    "obs_7d": 6,
+    "per_1k_7d": 0.499,
+    "corridors": [],
+    "score": 12034,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "585",
+    "series_id": "peak_geofence",
+    "location_name": " GUADALUPE ST / 8TH ST",
+    "cross_streets": "GUADALUPE ST /  8TH ST",
+    "primary_st": " GUADALUPE ST",
+    "cross_st": " 8TH ST",
+    "lat": 30.270872,
+    "lon": -97.74559,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.74559,
+        30.270872
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/585.jpg",
+    "traffic_7d": 11998,
+    "obs_7d": 21,
+    "per_1k_7d": 1.75,
+    "corridors": [
+      "guadalupe"
+    ],
+    "score": 12819,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "800",
+    "series_id": "peak_geofence",
+    "location_name": " BRAKER LN / DOMAIN DR (Pickle Research Campus Driveway)",
+    "cross_streets": "BRAKER LN /  DOMAIN DR",
+    "primary_st": " BRAKER LN",
+    "cross_st": " DOMAIN DR",
+    "lat": 30.392347,
+    "lon": -97.725624,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.725624,
+        30.392347
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/800.jpg",
+    "traffic_7d": 11905,
+    "obs_7d": 9,
+    "per_1k_7d": 0.756,
+    "corridors": [],
+    "score": 11914,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "455",
+    "series_id": "peak_geofence",
+    "location_name": " AIRPORT BLVD / 12TH ST",
+    "cross_streets": "AIRPORT BLVD /  12TH ST",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " 12TH ST",
+    "lat": 30.276861,
+    "lon": -97.700333,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.700333,
+        30.276861
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/455.jpg",
+    "traffic_7d": 11895,
+    "obs_7d": 28,
+    "per_1k_7d": 2.354,
+    "corridors": [
+      "airport"
+    ],
+    "score": 12423,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "50",
+    "series_id": "peak_geofence",
+    "location_name": " CESAR CHAVEZ ST / BRAZOS ST (BRAZOS GARAGE)",
+    "cross_streets": "CESAR CHAVEZ ST /  BRAZOS ST",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": " BRAZOS ST",
+    "lat": 30.263094,
+    "lon": -97.743067,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.743067,
+        30.263094
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/50.jpg",
+    "traffic_7d": 11764,
+    "obs_7d": 8,
+    "per_1k_7d": 0.68,
+    "corridors": [
+      "cesar_chavez"
+    ],
+    "score": 12572,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "913",
+    "series_id": "peak_geofence",
+    "location_name": " RIVERSIDE DR / BURTON DR",
+    "cross_streets": "RIVERSIDE DR /  BURTON DR",
+    "primary_st": " RIVERSIDE DR",
+    "cross_st": " BURTON DR",
+    "lat": 30.24024,
+    "lon": -97.727036,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.727036,
+        30.24024
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/913.jpg",
+    "traffic_7d": 11661,
+    "obs_7d": 50,
+    "per_1k_7d": 4.288,
+    "corridors": [
+      "riverside"
+    ],
+    "score": 12511,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "348",
+    "series_id": "peak_geofence",
+    "location_name": " 6TH ST / WEST AVE",
+    "cross_streets": "6TH ST /  WEST AVE",
+    "primary_st": " 6TH ST",
+    "cross_st": " WEST AVE",
+    "lat": 30.270296,
+    "lon": -97.750588,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.750588,
+        30.270296
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/348.jpg",
+    "traffic_7d": 11652,
+    "obs_7d": 42,
+    "per_1k_7d": 3.605,
+    "corridors": [
+      "downtown"
+    ],
+    "score": 12494,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "159",
+    "series_id": "peak_geofence",
+    "location_name": " WILLIAM CANNON DR / 35 SVRD",
+    "cross_streets": "WILLIAM CANNON DR / IH 35 SVRD",
+    "primary_st": " WILLIAM CANNON DR",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.190245,
+    "lon": -97.770111,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.770111,
+        30.190245
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/159.jpg",
+    "traffic_7d": 11644,
+    "obs_7d": 8,
+    "per_1k_7d": 0.687,
+    "corridors": [
+      "ih35"
+    ],
+    "score": 12452,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "203",
+    "series_id": "peak_geofence",
+    "location_name": " AIRPORT BLVD / WILSHIRE BLVD",
+    "cross_streets": "AIRPORT BLVD /  WILSHIRE BLVD",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " WILSHIRE BLVD",
+    "lat": 30.297857,
+    "lon": -97.708878,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.708878,
+        30.297857
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/203.jpg",
+    "traffic_7d": 11597,
+    "obs_7d": 11,
+    "per_1k_7d": 0.949,
+    "corridors": [
+      "airport"
+    ],
+    "score": 11608,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "200",
+    "series_id": "peak_geofence",
+    "location_name": " RIVERSIDE DR / MONTOPOLIS DR",
+    "cross_streets": "RIVERSIDE DR /  MONTOPOLIS DR",
+    "primary_st": " RIVERSIDE DR",
+    "cross_st": " MONTOPOLIS DR",
+    "lat": 30.224932,
+    "lon": -97.703438,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.703438,
+        30.224932
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/200.jpg",
+    "traffic_7d": 11586,
+    "obs_7d": 14,
+    "per_1k_7d": 1.208,
+    "corridors": [
+      "riverside"
+    ],
+    "score": 11900,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "756",
+    "series_id": "peak_geofence",
+    "location_name": " BURNET RD / ASHDALE DR",
+    "cross_streets": "BURNET RD /  ASHDALE DR",
+    "primary_st": " BURNET RD",
+    "cross_st": " ASHDALE DR",
+    "lat": 30.358596,
+    "lon": -97.730172,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.730172,
+        30.358596
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/756.jpg",
+    "traffic_7d": 11582,
+    "obs_7d": 12,
+    "per_1k_7d": 1.036,
+    "corridors": [
+      "burnet"
+    ],
+    "score": 11594,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "735",
+    "series_id": "peak_geofence",
+    "location_name": " SLAUGHTER LN / CULLEN LN",
+    "cross_streets": "SLAUGHTER LN /  CULLEN LN",
+    "primary_st": " SLAUGHTER LN",
+    "cross_st": " CULLEN LN",
+    "lat": 30.167196,
+    "lon": -97.790932,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.790932,
+        30.167196
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/735.jpg",
+    "traffic_7d": 11540,
+    "obs_7d": 15,
+    "per_1k_7d": 1.3,
+    "corridors": [],
+    "score": 11555,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "304",
+    "series_id": "peak_geofence",
+    "location_name": " LAMAR BLVD / ST JOHNS AVE",
+    "cross_streets": "LAMAR BLVD /  ST JOHNS AVE",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " ST JOHNS AVE",
+    "lat": 30.339407,
+    "lon": -97.717842,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.717842,
+        30.339407
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/304.jpg",
+    "traffic_7d": 11526,
+    "obs_7d": 2,
+    "per_1k_7d": 0.174,
+    "corridors": [
+      "lamar"
+    ],
+    "score": 11828,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "2",
+    "series_id": "peak_geofence",
+    "location_name": " AIRPORT BLVD / OAK SPRINGS DR",
+    "cross_streets": "AIRPORT BLVD /  OAK SPRINGS DR",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " OAK SPRINGS DR",
+    "lat": 30.273556,
+    "lon": -97.697907,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.697907,
+        30.273556
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/2.jpg",
+    "traffic_7d": 11521,
+    "obs_7d": 8,
+    "per_1k_7d": 0.694,
+    "corridors": [
+      "airport"
+    ],
+    "score": 11529,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "588",
+    "series_id": "peak_geofence",
+    "location_name": " CESAR CHAVEZ ST / 35 SVRD",
+    "cross_streets": "CESAR CHAVEZ ST / IH 35 SVRD",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.261231,
+    "lon": -97.736763,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.736763,
+        30.261231
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/588.jpg",
+    "traffic_7d": 11491,
+    "obs_7d": 13,
+    "per_1k_7d": 1.131,
+    "corridors": [
+      "cesar_chavez",
+      "ih35"
+    ],
+    "score": 11804,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "168",
+    "series_id": "peak_geofence",
+    "location_name": " BRODIE LN / SLAUGHTER LN",
+    "cross_streets": "BRODIE LN /  SLAUGHTER LN",
+    "primary_st": " BRODIE LN",
+    "cross_st": " SLAUGHTER LN",
+    "lat": 30.18355,
+    "lon": -97.849793,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.849793,
+        30.18355
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/168.jpg",
+    "traffic_7d": 11450,
+    "obs_7d": 3,
+    "per_1k_7d": 0.262,
+    "corridors": [],
+    "score": 11453,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "40",
+    "series_id": "peak_geofence",
+    "location_name": " CESAR CHAVEZ ST / SAN JACINTO BLVD (FOUR SEASONS - EAST)",
+    "cross_streets": "CESAR CHAVEZ ST /  SAN JACINTO BLVD",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": " SAN JACINTO BLVD",
+    "lat": 30.261684,
+    "lon": -97.742403,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.742403,
+        30.261684
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/40.jpg",
+    "traffic_7d": 11410,
+    "obs_7d": 0,
+    "per_1k_7d": 0.0,
+    "corridors": [
+      "cesar_chavez"
+    ],
+    "score": 11710,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "572",
+    "series_id": "peak_geofence",
+    "location_name": " BRAKER LN / RESEARCH BLVD SVRD",
+    "cross_streets": "BRAKER LN /  RESEARCH BLVD SVRD",
+    "primary_st": " BRAKER LN",
+    "cross_st": " RESEARCH BLVD SVRD",
+    "lat": 30.400358,
+    "lon": -97.745499,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.745499,
+        30.400358
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/572.jpg",
+    "traffic_7d": 11408,
+    "obs_7d": 2,
+    "per_1k_7d": 0.175,
+    "corridors": [],
+    "score": 11410,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "227",
+    "series_id": "peak_geofence",
+    "location_name": " MC NEIL DR / PARMER LN",
+    "cross_streets": "MC NEIL DR /  PARMER LN",
+    "primary_st": " MC NEIL DR",
+    "cross_st": " PARMER LN",
+    "lat": 30.44385,
+    "lon": -97.742394,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.742394,
+        30.44385
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/227.jpg",
+    "traffic_7d": 11163,
+    "obs_7d": 4,
+    "per_1k_7d": 0.358,
+    "corridors": [],
+    "score": 11167,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "675",
+    "series_id": "peak_geofence",
+    "location_name": " CESAR CHAVEZ ST / SAN ANTONIO ST",
+    "cross_streets": "CESAR CHAVEZ ST /  SAN ANTONIO ST",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": " SAN ANTONIO ST",
+    "lat": 30.264656,
+    "lon": -97.749115,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.749115,
+        30.264656
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/675.jpg",
+    "traffic_7d": 11129,
+    "obs_7d": 63,
+    "per_1k_7d": 5.661,
+    "corridors": [
+      "cesar_chavez"
+    ],
+    "score": 11979,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "759",
+    "series_id": "peak_geofence",
+    "location_name": " LAMAR BLVD / BARTON SKWY (Menchaca Rd)",
+    "cross_streets": "LAMAR BLVD /  BARTON SKWY",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " BARTON SKWY",
+    "lat": 30.243652,
+    "lon": -97.782364,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.782364,
+        30.243652
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/759.jpg",
+    "traffic_7d": 11086,
+    "obs_7d": 20,
+    "per_1k_7d": 1.804,
+    "corridors": [
+      "lamar"
+    ],
+    "score": 11406,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "1538",
+    "series_id": "peak_geofence",
+    "location_name": " RIVERSIDE DR / KENWOOD AVE",
+    "cross_streets": "RIVERSIDE DR /  KENWOOD AVE",
+    "primary_st": " RIVERSIDE DR",
+    "cross_st": " KENWOOD AVE",
+    "lat": 30.248449,
+    "lon": -97.736622,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.736622,
+        30.248449
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1538.jpg",
+    "traffic_7d": 11071,
+    "obs_7d": 13,
+    "per_1k_7d": 1.174,
+    "corridors": [
+      "riverside"
+    ],
+    "score": 11384,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "433",
+    "series_id": "peak_geofence",
+    "location_name": " CONGRESS AVE / NELLIE ST",
+    "cross_streets": "CONGRESS AVE /  NELLIE ST",
+    "primary_st": " CONGRESS AVE",
+    "cross_st": " NELLIE ST",
+    "lat": 30.252274,
+    "lon": -97.74865,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.74865,
+        30.252274
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/433.jpg",
+    "traffic_7d": 11052,
+    "obs_7d": 40,
+    "per_1k_7d": 3.619,
+    "corridors": [
+      "congress"
+    ],
+    "score": 11892,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "181",
+    "series_id": "peak_geofence",
+    "location_name": "US 183 HWY / BURLESON RD",
+    "cross_streets": "US 183 HWY /  BURLESON RD",
+    "primary_st": "US 183 HWY",
+    "cross_st": " BURLESON RD",
+    "lat": 30.18288,
+    "lon": -97.68763,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.68763,
+        30.18288
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/181.jpg",
+    "traffic_7d": 10950,
+    "obs_7d": 0,
+    "per_1k_7d": 0.0,
+    "corridors": [
+      "us183"
+    ],
+    "score": 11250,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "277",
+    "series_id": "peak_geofence",
+    "location_name": " CAPITAL OF TEXAS HWY / MOPAC EXPY SVRD",
+    "cross_streets": "CAPITAL OF TEXAS HWY /  MOPAC EXPY SVRD",
+    "primary_st": " CAPITAL OF TEXAS HWY",
+    "cross_st": " MOPAC EXPY SVRD",
+    "lat": 30.247728,
+    "lon": -97.804009,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.804009,
+        30.247728
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/277.jpg",
+    "traffic_7d": 10896,
+    "obs_7d": 0,
+    "per_1k_7d": 0.0,
+    "corridors": [
+      "mopac"
+    ],
+    "score": 11696,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "195",
+    "series_id": "peak_geofence",
+    "location_name": " PARMER LN / 35 SVRD",
+    "cross_streets": "PARMER LN / IH 35 SVRD",
+    "primary_st": " PARMER LN",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.40803,
+    "lon": -97.675232,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.675232,
+        30.40803
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/195.jpg",
+    "traffic_7d": 10858,
+    "obs_7d": 0,
+    "per_1k_7d": 0.0,
+    "corridors": [
+      "ih35"
+    ],
+    "score": 11158,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "447",
+    "series_id": "peak_geofence",
+    "location_name": " BRAKER LN / STONELAKE BLVD (HUB 12)",
+    "cross_streets": "BRAKER LN /  STONELAKE BLVD",
+    "primary_st": " BRAKER LN",
+    "cross_st": " STONELAKE BLVD",
+    "lat": 30.398958,
+    "lon": -97.739288,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.739288,
+        30.398958
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/447.jpg",
+    "traffic_7d": 10639,
+    "obs_7d": 26,
+    "per_1k_7d": 2.444,
+    "corridors": [],
+    "score": 11165,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "1409",
+    "series_id": "peak_geofence",
+    "location_name": " 12TH ST / 35 SVRD",
+    "cross_streets": "12TH ST / IH 35 SVRD",
+    "primary_st": " 12TH ST",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.271833,
+    "lon": -97.732788,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.732788,
+        30.271833
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1409.jpg",
+    "traffic_7d": 10603,
+    "obs_7d": 19,
+    "per_1k_7d": 1.792,
+    "corridors": [
+      "ih35"
+    ],
+    "score": 11422,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "99",
+    "series_id": "peak_geofence",
+    "location_name": " LAMAR BLVD / BLUEBONNET LN",
+    "cross_streets": "LAMAR BLVD /  BLUEBONNET LN",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " BLUEBONNET LN",
+    "lat": 30.246923,
+    "lon": -97.777184,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.777184,
+        30.246923
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/99.jpg",
+    "traffic_7d": 10403,
+    "obs_7d": 39,
+    "per_1k_7d": 3.749,
+    "corridors": [
+      "lamar"
+    ],
+    "score": 11242,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  },
+  {
+    "camera_id": "916",
+    "series_id": "peak_geofence",
+    "location_name": " CONGRESS AVE / ST ELMO RD",
+    "cross_streets": "CONGRESS AVE /  ST ELMO RD",
+    "primary_st": " CONGRESS AVE",
+    "cross_st": " ST ELMO RD",
+    "lat": 30.21748,
+    "lon": -97.767304,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.767304,
+        30.21748
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/916.jpg",
+    "traffic_7d": 10253,
+    "obs_7d": 39,
+    "per_1k_7d": 3.804,
+    "corridors": [
+      "congress"
+    ],
+    "score": 11092,
+    "source": "Inside tesla:austin; busiest eligible (CCS or obs>0 or priority corridor)"
+  }
+]

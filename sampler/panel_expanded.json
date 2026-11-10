@@ -1,0 +1,6002 @@
+[
+  {
+    "camera_id": "21",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BURNET RD / JUSTIN LN",
+    "cross_streets": "BURNET RD / JUSTIN LN",
+    "primary_st": " BURNET RD",
+    "cross_st": " JUSTIN LN",
+    "lat": 30.345385,
+    "lon": -97.737526,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.737526,
+        30.345385
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/21.jpg",
+    "traffic_7d": 37266,
+    "obs_7d": 0,
+    "score": 37266,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "32",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BARTON SPRINGS RD / RIVERSIDE DR (OTC - NORTHEAST)",
+    "cross_streets": "BARTON SPRINGS RD / RIVERSIDE DR",
+    "primary_st": " BARTON SPRINGS RD",
+    "cross_st": " RIVERSIDE DR",
+    "lat": 30.257391,
+    "lon": -97.749041,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.749041,
+        30.257391
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/32.jpg",
+    "traffic_7d": 22798,
+    "obs_7d": 27,
+    "score": 22798,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "795",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "400 BLK S CONGRESS AVE (Music Lane)",
+    "cross_streets": "CONGRESS AVE",
+    "primary_st": " CONGRESS AVE",
+    "cross_st": null,
+    "lat": 30.253627,
+    "lon": -97.748178,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.748178,
+        30.253627
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/795.jpg",
+    "traffic_7d": 21148,
+    "obs_7d": 59,
+    "score": 21148,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "31",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BARTON SPRINGS RD / RIVERSIDE DR (OTC - NORTHWEST)",
+    "cross_streets": "BARTON SPRINGS RD / RIVERSIDE DR",
+    "primary_st": " BARTON SPRINGS RD",
+    "cross_st": " RIVERSIDE DR",
+    "lat": 30.257478,
+    "lon": -97.748989,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.748989,
+        30.257478
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/31.jpg",
+    "traffic_7d": 19946,
+    "obs_7d": 0,
+    "score": 19946,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "293",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 24TH ST / NUECES ST",
+    "cross_streets": "24TH ST / NUECES ST",
+    "primary_st": " 24TH ST",
+    "cross_st": " NUECES ST",
+    "lat": 30.287828,
+    "lon": -97.743141,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.743141,
+        30.287828
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/293.jpg",
+    "traffic_7d": 19236,
+    "obs_7d": 0,
+    "score": 19236,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "580",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " OHLEN RD / RESEARCH BLVD SVRD",
+    "cross_streets": "OHLEN RD / RESEARCH BLVD SVRD",
+    "primary_st": " OHLEN RD",
+    "cross_st": " RESEARCH BLVD SVRD",
+    "lat": 30.36326,
+    "lon": -97.717262,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.717262,
+        30.36326
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/580.jpg",
+    "traffic_7d": 18684,
+    "obs_7d": 2,
+    "score": 18684,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "1526",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " AIRPORT BLVD / 55TH ST",
+    "cross_streets": "AIRPORT BLVD / 55TH ST",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " 55TH ST",
+    "lat": 30.316871,
+    "lon": -97.713697,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.713697,
+        30.316871
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1526.jpg",
+    "traffic_7d": 18542,
+    "obs_7d": 4,
+    "score": 18542,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "713",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / DICKSON DR",
+    "cross_streets": "LAMAR BLVD / DICKSON DR",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " DICKSON DR",
+    "lat": 30.245348,
+    "lon": -97.779913,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.779913,
+        30.245348
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/713.jpg",
+    "traffic_7d": 18411,
+    "obs_7d": 29,
+    "score": 18411,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "693",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAVACA ST / 17TH ST",
+    "cross_streets": "LAVACA ST / 17TH ST",
+    "primary_st": " LAVACA ST",
+    "cross_st": " 17TH ST",
+    "lat": 30.279469,
+    "lon": -97.741203,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.741203,
+        30.279469
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/693.jpg",
+    "traffic_7d": 17953,
+    "obs_7d": 8,
+    "score": 17953,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "33",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " SAN JACINTO BLVD / 7TH ST (OMNI - SOUTHWEST)",
+    "cross_streets": "SAN JACINTO BLVD / 7TH ST",
+    "primary_st": " SAN JACINTO BLVD",
+    "cross_st": " 7TH ST",
+    "lat": 30.268688,
+    "lon": -97.740692,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.740692,
+        30.268688
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/33.jpg",
+    "traffic_7d": 17771,
+    "obs_7d": 0,
+    "score": 17771,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "61",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " GUADALUPE ST / MARTIN LUTHER KING JR BLVD",
+    "cross_streets": "GUADALUPE ST / MARTIN LUTHER KING JR BLVD",
+    "primary_st": " GUADALUPE ST",
+    "cross_st": " MARTIN LUTHER KING JR BLVD",
+    "lat": 30.281733,
+    "lon": -97.741928,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.741928,
+        30.281733
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/61.jpg",
+    "traffic_7d": 17538,
+    "obs_7d": 39,
+    "score": 17538,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "191",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / PARMER LN",
+    "cross_streets": "LAMAR BLVD / PARMER LN",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " PARMER LN",
+    "lat": 30.407852,
+    "lon": -97.678223,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.678223,
+        30.407852
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/191.jpg",
+    "traffic_7d": 17161,
+    "obs_7d": 2,
+    "score": 17161,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "98",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / OLTORF ST",
+    "cross_streets": "LAMAR BLVD / OLTORF ST",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " OLTORF ST",
+    "lat": 30.248413,
+    "lon": -97.769951,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.769951,
+        30.248413
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/98.jpg",
+    "traffic_7d": 17041,
+    "obs_7d": 38,
+    "score": 17041,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "170",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " MOPAC EXPY SVRD / NORTHLAND DR (West)",
+    "cross_streets": "MOPAC EXPY SVRD / NORTHLAND DR",
+    "primary_st": " MOPAC EXPY SVRD",
+    "cross_st": " NORTHLAND DR",
+    "lat": 30.336784,
+    "lon": -97.755959,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.755959,
+        30.336784
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/170.jpg",
+    "traffic_7d": 16200,
+    "obs_7d": 0,
+    "score": 16200,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "962",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 1ST ST / BEN WHITE BLVD SVRD",
+    "cross_streets": "1ST ST / BEN WHITE BLVD SVRD",
+    "primary_st": " 1ST ST",
+    "cross_st": " BEN WHITE BLVD SVRD",
+    "lat": 30.226185,
+    "lon": -97.769669,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.769669,
+        30.226185
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/962.jpg",
+    "traffic_7d": 15981,
+    "obs_7d": 25,
+    "score": 15981,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "143",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 7TH ST / 35 SVRD",
+    "cross_streets": "7TH ST / IH 35 SVRD",
+    "primary_st": " 7TH ST",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.266821,
+    "lon": -97.734665,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.734665,
+        30.266821
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/143.jpg",
+    "traffic_7d": 15393,
+    "obs_7d": 8,
+    "score": 15393,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "781",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "2100 BLK S LAMAR BLVD (Oxford Ave)",
+    "cross_streets": "LAMAR BLVD",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": null,
+    "lat": 30.248083,
+    "lon": -97.77121,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.77121,
+        30.248083
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/781.jpg",
+    "traffic_7d": 14928,
+    "obs_7d": 23,
+    "score": 14928,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "1356",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "IH 35 SVRD / 6TH ST",
+    "cross_streets": "IH 35 SVRD / 6TH ST",
+    "primary_st": "IH 35 SVRD",
+    "cross_st": " 6TH ST",
+    "lat": 30.265636,
+    "lon": -97.7342,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.7342,
+        30.265636
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1356.jpg",
+    "traffic_7d": 14858,
+    "obs_7d": 28,
+    "score": 14858,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "166",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " STASSNEY LN / 35 SVRD",
+    "cross_streets": "STASSNEY LN / IH 35 SVRD",
+    "primary_st": " STASSNEY LN",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.198195,
+    "lon": -97.763657,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.763657,
+        30.198195
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/166.jpg",
+    "traffic_7d": 14735,
+    "obs_7d": 20,
+    "score": 14735,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "561",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " COLORADO ST / 4TH ST",
+    "cross_streets": "COLORADO ST / 4TH ST",
+    "primary_st": " COLORADO ST",
+    "cross_st": " 4TH ST",
+    "lat": 30.266569,
+    "lon": -97.744812,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.744812,
+        30.266569
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/561.jpg",
+    "traffic_7d": 14569,
+    "obs_7d": 31,
+    "score": 14569,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "116",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " MENCHACA RD / WILLIAM CANNON DR",
+    "cross_streets": "MENCHACA RD / WILLIAM CANNON DR",
+    "primary_st": " MENCHACA RD",
+    "cross_st": " WILLIAM CANNON DR",
+    "lat": 30.202913,
+    "lon": -97.806908,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.806908,
+        30.202913
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/116.jpg",
+    "traffic_7d": 14565,
+    "obs_7d": 38,
+    "score": 14565,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "358",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 6TH ST / 35 SVRD",
+    "cross_streets": "6TH ST / IH 35 SVRD",
+    "primary_st": " 6TH ST",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.265881,
+    "lon": -97.735001,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.735001,
+        30.265881
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/358.jpg",
+    "traffic_7d": 14305,
+    "obs_7d": 31,
+    "score": 14305,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "157",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " WILLIAM CANNON DR / 1ST ST",
+    "cross_streets": "WILLIAM CANNON DR / 1ST ST",
+    "primary_st": " WILLIAM CANNON DR",
+    "cross_st": " 1ST ST",
+    "lat": 30.197098,
+    "lon": -97.787819,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.787819,
+        30.197098
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/157.jpg",
+    "traffic_7d": 14157,
+    "obs_7d": 28,
+    "score": 14157,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "94",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / 12TH ST",
+    "cross_streets": "LAMAR BLVD / 12TH ST",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " 12TH ST",
+    "lat": 30.276897,
+    "lon": -97.751396,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.751396,
+        30.276897
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/94.jpg",
+    "traffic_7d": 14155,
+    "obs_7d": 39,
+    "score": 14155,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "314",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / 9TH ST",
+    "cross_streets": "LAMAR BLVD / 9TH ST",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " 9TH ST",
+    "lat": 30.273949,
+    "lon": -97.752777,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.752777,
+        30.273949
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/314.jpg",
+    "traffic_7d": 14125,
+    "obs_7d": 28,
+    "score": 14125,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "351",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 6TH ST / GUADALUPE ST",
+    "cross_streets": "6TH ST / GUADALUPE ST",
+    "primary_st": " 6TH ST",
+    "cross_st": " GUADALUPE ST",
+    "lat": 30.269024,
+    "lon": -97.746262,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.746262,
+        30.269024
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/351.jpg",
+    "traffic_7d": 14013,
+    "obs_7d": 87,
+    "score": 14013,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "708",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BURNET RD / RICHCREEK RD",
+    "cross_streets": "BURNET RD / RICHCREEK RD",
+    "primary_st": " BURNET RD",
+    "cross_st": " RICHCREEK RD",
+    "lat": 30.350573,
+    "lon": -97.734337,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.734337,
+        30.350573
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/708.jpg",
+    "traffic_7d": 13984,
+    "obs_7d": 5,
+    "score": 13984,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "174",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BRAKER LN / BURNET RD",
+    "cross_streets": "BRAKER LN / BURNET RD",
+    "primary_st": " BRAKER LN",
+    "cross_st": " BURNET RD",
+    "lat": 30.391165,
+    "lon": -97.721809,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.721809,
+        30.391165
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/174.jpg",
+    "traffic_7d": 13963,
+    "obs_7d": 70,
+    "score": 13963,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "456",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " AIRPORT BLVD / BOLM RD",
+    "cross_streets": "AIRPORT BLVD / BOLM RD",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " BOLM RD",
+    "lat": 30.260094,
+    "lon": -97.693863,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.693863,
+        30.260094
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/456.jpg",
+    "traffic_7d": 13794,
+    "obs_7d": 21,
+    "score": 13794,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "163",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BRODIE LN / WILLIAM CANNON DR",
+    "cross_streets": "BRODIE LN / WILLIAM CANNON DR",
+    "primary_st": " BRODIE LN",
+    "cross_st": " WILLIAM CANNON DR",
+    "lat": 30.213778,
+    "lon": -97.830383,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.830383,
+        30.213778
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/163.jpg",
+    "traffic_7d": 13742,
+    "obs_7d": 8,
+    "score": 13742,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "907",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " FAR WEST BLVD / VILLAGE CENTER DR",
+    "cross_streets": "FAR WEST BLVD / VILLAGE CENTER DR",
+    "primary_st": " FAR WEST BLVD",
+    "cross_st": " VILLAGE CENTER DR",
+    "lat": 30.354349,
+    "lon": -97.755081,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.755081,
+        30.354349
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/907.jpg",
+    "traffic_7d": 13735,
+    "obs_7d": 2,
+    "score": 13735,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "1413",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "1500 BLK S PLEASANT VALLEY RD (HEB)",
+    "cross_streets": "PLEASANT VALLEY RD",
+    "primary_st": " PLEASANT VALLEY RD",
+    "cross_st": null,
+    "lat": 30.235701,
+    "lon": -97.72152,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.72152,
+        30.235701
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1413.jpg",
+    "traffic_7d": 13594,
+    "obs_7d": 7,
+    "score": 13594,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "354",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 5TH ST / CONGRESS AVE",
+    "cross_streets": "5TH ST / CONGRESS AVE",
+    "primary_st": " 5TH ST",
+    "cross_st": " CONGRESS AVE",
+    "lat": 30.267119,
+    "lon": -97.743172,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.743172,
+        30.267119
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/354.jpg",
+    "traffic_7d": 13439,
+    "obs_7d": 128,
+    "score": 13439,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "1080",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CAPITAL OF TEXAS HWY / RESEARCH BLVD SVRD",
+    "cross_streets": "CAPITAL OF TEXAS HWY / RESEARCH BLVD SVRD",
+    "primary_st": " CAPITAL OF TEXAS HWY",
+    "cross_st": " RESEARCH BLVD SVRD",
+    "lat": 30.389793,
+    "lon": -97.744301,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.744301,
+        30.389793
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1080.jpg",
+    "traffic_7d": 13396,
+    "obs_7d": 3,
+    "score": 13396,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "82",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " ALLANDALE RD / BURNET RD (KOENIG LN)",
+    "cross_streets": "ALLANDALE RD / BURNET RD",
+    "primary_st": " ALLANDALE RD",
+    "cross_st": " BURNET RD",
+    "lat": 30.334852,
+    "lon": -97.739822,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.739822,
+        30.334852
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/82.jpg",
+    "traffic_7d": 13395,
+    "obs_7d": 48,
+    "score": 13395,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "563",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " COLORADO ST / 2ND ST",
+    "cross_streets": "COLORADO ST / 2ND ST",
+    "primary_st": " COLORADO ST",
+    "cross_st": " 2ND ST",
+    "lat": 30.264683,
+    "lon": -97.745514,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.745514,
+        30.264683
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/563.jpg",
+    "traffic_7d": 13176,
+    "obs_7d": 12,
+    "score": 13176,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "1483",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " RUNDBERG LN / MIDDLE FISKVILLE RD",
+    "cross_streets": "RUNDBERG LN / MIDDLE FISKVILLE RD",
+    "primary_st": " RUNDBERG LN",
+    "cross_st": " MIDDLE FISKVILLE RD",
+    "lat": 30.357435,
+    "lon": -97.686508,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.686508,
+        30.357435
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1483.jpg",
+    "traffic_7d": 13170,
+    "obs_7d": 3,
+    "score": 13170,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "715",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " WILLIAM CANNON DR / CIRCLE S RD",
+    "cross_streets": "WILLIAM CANNON DR / CIRCLE S RD",
+    "primary_st": " WILLIAM CANNON DR",
+    "cross_st": " CIRCLE S RD",
+    "lat": 30.192722,
+    "lon": -97.777596,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.777596,
+        30.192722
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/715.jpg",
+    "traffic_7d": 13148,
+    "obs_7d": 7,
+    "score": 13148,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "1321",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "1137 BLK AIRPORT BLVD (Airport & Shopping Center)",
+    "cross_streets": "AIRPORT BLVD",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": null,
+    "lat": 30.27254,
+    "lon": -97.697583,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.697583,
+        30.27254
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1321.jpg",
+    "traffic_7d": 13112,
+    "obs_7d": 6,
+    "score": 13112,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "400",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " MANOR RD / SUSQUEHANNA LN",
+    "cross_streets": "MANOR RD / SUSQUEHANNA LN",
+    "primary_st": " MANOR RD",
+    "cross_st": " SUSQUEHANNA LN",
+    "lat": 30.313078,
+    "lon": -97.665009,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.665009,
+        30.313078
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/400.jpg",
+    "traffic_7d": 13085,
+    "obs_7d": 14,
+    "score": 13085,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "1505",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CESAR CHAVEZ ST / NUECES ST",
+    "cross_streets": "CESAR CHAVEZ ST / NUECES ST",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": " NUECES ST",
+    "lat": 30.264984,
+    "lon": -97.750216,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.750216,
+        30.264984
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1505.jpg",
+    "traffic_7d": 12997,
+    "obs_7d": 61,
+    "score": 12997,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "786",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CESAR CHAVEZ ST / SAN JACINTO BLVD",
+    "cross_streets": "CESAR CHAVEZ ST / SAN JACINTO BLVD",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": " SAN JACINTO BLVD",
+    "lat": 30.262692,
+    "lon": -97.742104,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.742104,
+        30.262692
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/786.jpg",
+    "traffic_7d": 12968,
+    "obs_7d": 181,
+    "score": 12968,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "160",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " WILLIAM CANNON DR / BLUFF SPRINGS RD",
+    "cross_streets": "WILLIAM CANNON DR / BLUFF SPRINGS RD",
+    "primary_st": " WILLIAM CANNON DR",
+    "cross_st": " BLUFF SPRINGS RD",
+    "lat": 30.189196,
+    "lon": -97.767891,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.767891,
+        30.189196
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/160.jpg",
+    "traffic_7d": 12857,
+    "obs_7d": 15,
+    "score": 12857,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "1510",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " RIVERSIDE DR / MANLOVE ST",
+    "cross_streets": "RIVERSIDE DR / MANLOVE ST",
+    "primary_st": " RIVERSIDE DR",
+    "cross_st": " MANLOVE ST",
+    "lat": 30.247469,
+    "lon": -97.733571,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.733571,
+        30.247469
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1510.jpg",
+    "traffic_7d": 12623,
+    "obs_7d": 8,
+    "score": 12623,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "1511",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " RIVERSIDE DR / MANLOVE ST",
+    "cross_streets": "RIVERSIDE DR / MANLOVE ST",
+    "primary_st": " RIVERSIDE DR",
+    "cross_st": " MANLOVE ST",
+    "lat": 30.247473,
+    "lon": -97.73356,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.73356,
+        30.247473
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1511.jpg",
+    "traffic_7d": 12621,
+    "obs_7d": 11,
+    "score": 12621,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "528",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 15TH ST / LAVACA ST",
+    "cross_streets": "15TH ST / LAVACA ST",
+    "primary_st": " 15TH ST",
+    "cross_st": " LAVACA ST",
+    "lat": 30.277605,
+    "lon": -97.741928,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.741928,
+        30.277605
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/528.jpg",
+    "traffic_7d": 12481,
+    "obs_7d": 73,
+    "score": 12481,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "284",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CAMERON RD / RUNDBERG LN",
+    "cross_streets": "CAMERON RD / RUNDBERG LN",
+    "primary_st": " CAMERON RD",
+    "cross_st": " RUNDBERG LN",
+    "lat": 30.350773,
+    "lon": -97.675972,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.675972,
+        30.350773
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/284.jpg",
+    "traffic_7d": 12468,
+    "obs_7d": 8,
+    "score": 12468,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "100",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / BARTON SPRINGS RD",
+    "cross_streets": "LAMAR BLVD / BARTON SPRINGS RD",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " BARTON SPRINGS RD",
+    "lat": 30.260862,
+    "lon": -97.758522,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.758522,
+        30.260862
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/100.jpg",
+    "traffic_7d": 12346,
+    "obs_7d": 128,
+    "score": 12346,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "194",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BURLESON RD / MONTOPOLIS DR",
+    "cross_streets": "BURLESON RD / MONTOPOLIS DR",
+    "primary_st": " BURLESON RD",
+    "cross_st": " MONTOPOLIS DR",
+    "lat": 30.205563,
+    "lon": -97.716591,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.716591,
+        30.205563
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/194.jpg",
+    "traffic_7d": 12332,
+    "obs_7d": 16,
+    "score": 12332,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "958",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BRAKER LN / MOPAC EXPY SVRD",
+    "cross_streets": "BRAKER LN / MOPAC EXPY SVRD",
+    "primary_st": " BRAKER LN",
+    "cross_st": " MOPAC EXPY SVRD",
+    "lat": 30.396101,
+    "lon": -97.733398,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.733398,
+        30.396101
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/958.jpg",
+    "traffic_7d": 12101,
+    "obs_7d": 25,
+    "score": 12101,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "575",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 7TH ST / 35 SVRD",
+    "cross_streets": "7TH ST / IH 35 SVRD",
+    "primary_st": " 7TH ST",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.266571,
+    "lon": -97.733856,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.733856,
+        30.266571
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/575.jpg",
+    "traffic_7d": 12058,
+    "obs_7d": 17,
+    "score": 12058,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "173",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BRAKER LN / METRIC BLVD",
+    "cross_streets": "BRAKER LN / METRIC BLVD",
+    "primary_st": " BRAKER LN",
+    "cross_st": " METRIC BLVD",
+    "lat": 30.392342,
+    "lon": -97.708283,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.708283,
+        30.392342
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/173.jpg",
+    "traffic_7d": 12028,
+    "obs_7d": 6,
+    "score": 12028,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "585",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " GUADALUPE ST / 8TH ST",
+    "cross_streets": "GUADALUPE ST / 8TH ST",
+    "primary_st": " GUADALUPE ST",
+    "cross_st": " 8TH ST",
+    "lat": 30.270872,
+    "lon": -97.74559,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.74559,
+        30.270872
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/585.jpg",
+    "traffic_7d": 11998,
+    "obs_7d": 21,
+    "score": 11998,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "800",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BRAKER LN / DOMAIN DR (Pickle Research Campus Driveway)",
+    "cross_streets": "BRAKER LN / DOMAIN DR",
+    "primary_st": " BRAKER LN",
+    "cross_st": " DOMAIN DR",
+    "lat": 30.392347,
+    "lon": -97.725624,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.725624,
+        30.392347
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/800.jpg",
+    "traffic_7d": 11905,
+    "obs_7d": 9,
+    "score": 11905,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "455",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " AIRPORT BLVD / 12TH ST",
+    "cross_streets": "AIRPORT BLVD / 12TH ST",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " 12TH ST",
+    "lat": 30.276861,
+    "lon": -97.700333,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.700333,
+        30.276861
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/455.jpg",
+    "traffic_7d": 11895,
+    "obs_7d": 28,
+    "score": 11895,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "50",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CESAR CHAVEZ ST / BRAZOS ST (BRAZOS GARAGE)",
+    "cross_streets": "CESAR CHAVEZ ST / BRAZOS ST",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": " BRAZOS ST",
+    "lat": 30.263094,
+    "lon": -97.743067,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.743067,
+        30.263094
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/50.jpg",
+    "traffic_7d": 11764,
+    "obs_7d": 8,
+    "score": 11764,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "913",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " RIVERSIDE DR / BURTON DR",
+    "cross_streets": "RIVERSIDE DR / BURTON DR",
+    "primary_st": " RIVERSIDE DR",
+    "cross_st": " BURTON DR",
+    "lat": 30.24024,
+    "lon": -97.727036,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.727036,
+        30.24024
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/913.jpg",
+    "traffic_7d": 11661,
+    "obs_7d": 50,
+    "score": 11661,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "348",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 6TH ST / WEST AVE",
+    "cross_streets": "6TH ST / WEST AVE",
+    "primary_st": " 6TH ST",
+    "cross_st": " WEST AVE",
+    "lat": 30.270296,
+    "lon": -97.750588,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.750588,
+        30.270296
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/348.jpg",
+    "traffic_7d": 11652,
+    "obs_7d": 42,
+    "score": 11652,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "159",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " WILLIAM CANNON DR / 35 SVRD",
+    "cross_streets": "WILLIAM CANNON DR / IH 35 SVRD",
+    "primary_st": " WILLIAM CANNON DR",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.190245,
+    "lon": -97.770111,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.770111,
+        30.190245
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/159.jpg",
+    "traffic_7d": 11644,
+    "obs_7d": 8,
+    "score": 11644,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "203",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " AIRPORT BLVD / WILSHIRE BLVD",
+    "cross_streets": "AIRPORT BLVD / WILSHIRE BLVD",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " WILSHIRE BLVD",
+    "lat": 30.297857,
+    "lon": -97.708878,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.708878,
+        30.297857
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/203.jpg",
+    "traffic_7d": 11597,
+    "obs_7d": 11,
+    "score": 11597,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "200",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " RIVERSIDE DR / MONTOPOLIS DR",
+    "cross_streets": "RIVERSIDE DR / MONTOPOLIS DR",
+    "primary_st": " RIVERSIDE DR",
+    "cross_st": " MONTOPOLIS DR",
+    "lat": 30.224932,
+    "lon": -97.703438,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.703438,
+        30.224932
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/200.jpg",
+    "traffic_7d": 11586,
+    "obs_7d": 14,
+    "score": 11586,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "756",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BURNET RD / ASHDALE DR",
+    "cross_streets": "BURNET RD / ASHDALE DR",
+    "primary_st": " BURNET RD",
+    "cross_st": " ASHDALE DR",
+    "lat": 30.358596,
+    "lon": -97.730172,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.730172,
+        30.358596
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/756.jpg",
+    "traffic_7d": 11582,
+    "obs_7d": 12,
+    "score": 11582,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "735",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " SLAUGHTER LN / CULLEN LN",
+    "cross_streets": "SLAUGHTER LN / CULLEN LN",
+    "primary_st": " SLAUGHTER LN",
+    "cross_st": " CULLEN LN",
+    "lat": 30.167196,
+    "lon": -97.790932,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.790932,
+        30.167196
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/735.jpg",
+    "traffic_7d": 11540,
+    "obs_7d": 15,
+    "score": 11540,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "304",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / ST JOHNS AVE",
+    "cross_streets": "LAMAR BLVD / ST JOHNS AVE",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " ST JOHNS AVE",
+    "lat": 30.339407,
+    "lon": -97.717842,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.717842,
+        30.339407
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/304.jpg",
+    "traffic_7d": 11526,
+    "obs_7d": 2,
+    "score": 11526,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "2",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " AIRPORT BLVD / OAK SPRINGS DR",
+    "cross_streets": "AIRPORT BLVD / OAK SPRINGS DR",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " OAK SPRINGS DR",
+    "lat": 30.273556,
+    "lon": -97.697907,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.697907,
+        30.273556
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/2.jpg",
+    "traffic_7d": 11521,
+    "obs_7d": 8,
+    "score": 11521,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "588",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CESAR CHAVEZ ST / 35 SVRD",
+    "cross_streets": "CESAR CHAVEZ ST / IH 35 SVRD",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.261231,
+    "lon": -97.736763,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.736763,
+        30.261231
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/588.jpg",
+    "traffic_7d": 11491,
+    "obs_7d": 13,
+    "score": 11491,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "168",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BRODIE LN / SLAUGHTER LN",
+    "cross_streets": "BRODIE LN / SLAUGHTER LN",
+    "primary_st": " BRODIE LN",
+    "cross_st": " SLAUGHTER LN",
+    "lat": 30.18355,
+    "lon": -97.849793,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.849793,
+        30.18355
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/168.jpg",
+    "traffic_7d": 11450,
+    "obs_7d": 3,
+    "score": 11450,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "40",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CESAR CHAVEZ ST / SAN JACINTO BLVD (FOUR SEASONS - EAST)",
+    "cross_streets": "CESAR CHAVEZ ST / SAN JACINTO BLVD",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": " SAN JACINTO BLVD",
+    "lat": 30.261684,
+    "lon": -97.742403,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.742403,
+        30.261684
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/40.jpg",
+    "traffic_7d": 11410,
+    "obs_7d": 0,
+    "score": 11410,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "572",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BRAKER LN / RESEARCH BLVD SVRD",
+    "cross_streets": "BRAKER LN / RESEARCH BLVD SVRD",
+    "primary_st": " BRAKER LN",
+    "cross_st": " RESEARCH BLVD SVRD",
+    "lat": 30.400358,
+    "lon": -97.745499,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.745499,
+        30.400358
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/572.jpg",
+    "traffic_7d": 11408,
+    "obs_7d": 2,
+    "score": 11408,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "227",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " MC NEIL DR / PARMER LN",
+    "cross_streets": "MC NEIL DR / PARMER LN",
+    "primary_st": " MC NEIL DR",
+    "cross_st": " PARMER LN",
+    "lat": 30.44385,
+    "lon": -97.742394,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.742394,
+        30.44385
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/227.jpg",
+    "traffic_7d": 11163,
+    "obs_7d": 4,
+    "score": 11163,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "675",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CESAR CHAVEZ ST / SAN ANTONIO ST",
+    "cross_streets": "CESAR CHAVEZ ST / SAN ANTONIO ST",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": " SAN ANTONIO ST",
+    "lat": 30.264656,
+    "lon": -97.749115,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.749115,
+        30.264656
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/675.jpg",
+    "traffic_7d": 11129,
+    "obs_7d": 63,
+    "score": 11129,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "759",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / BARTON SKWY (Menchaca Rd)",
+    "cross_streets": "LAMAR BLVD / BARTON SKWY",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " BARTON SKWY",
+    "lat": 30.243652,
+    "lon": -97.782364,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.782364,
+        30.243652
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/759.jpg",
+    "traffic_7d": 11086,
+    "obs_7d": 20,
+    "score": 11086,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "1538",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " RIVERSIDE DR / KENWOOD AVE",
+    "cross_streets": "RIVERSIDE DR / KENWOOD AVE",
+    "primary_st": " RIVERSIDE DR",
+    "cross_st": " KENWOOD AVE",
+    "lat": 30.248449,
+    "lon": -97.736622,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.736622,
+        30.248449
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1538.jpg",
+    "traffic_7d": 11071,
+    "obs_7d": 13,
+    "score": 11071,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "433",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CONGRESS AVE / NELLIE ST",
+    "cross_streets": "CONGRESS AVE / NELLIE ST",
+    "primary_st": " CONGRESS AVE",
+    "cross_st": " NELLIE ST",
+    "lat": 30.252274,
+    "lon": -97.74865,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.74865,
+        30.252274
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/433.jpg",
+    "traffic_7d": 11052,
+    "obs_7d": 40,
+    "score": 11052,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "181",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "US 183 HWY / BURLESON RD",
+    "cross_streets": "US 183 HWY / BURLESON RD",
+    "primary_st": "US 183 HWY",
+    "cross_st": " BURLESON RD",
+    "lat": 30.18288,
+    "lon": -97.68763,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.68763,
+        30.18288
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/181.jpg",
+    "traffic_7d": 10950,
+    "obs_7d": 0,
+    "score": 10950,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "277",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CAPITAL OF TEXAS HWY / MOPAC EXPY SVRD",
+    "cross_streets": "CAPITAL OF TEXAS HWY / MOPAC EXPY SVRD",
+    "primary_st": " CAPITAL OF TEXAS HWY",
+    "cross_st": " MOPAC EXPY SVRD",
+    "lat": 30.247728,
+    "lon": -97.804009,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.804009,
+        30.247728
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/277.jpg",
+    "traffic_7d": 10896,
+    "obs_7d": 0,
+    "score": 10896,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "195",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " PARMER LN / 35 SVRD",
+    "cross_streets": "PARMER LN / IH 35 SVRD",
+    "primary_st": " PARMER LN",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.40803,
+    "lon": -97.675232,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.675232,
+        30.40803
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/195.jpg",
+    "traffic_7d": 10858,
+    "obs_7d": 0,
+    "score": 10858,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "447",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BRAKER LN / STONELAKE BLVD (HUB 12)",
+    "cross_streets": "BRAKER LN / STONELAKE BLVD",
+    "primary_st": " BRAKER LN",
+    "cross_st": " STONELAKE BLVD",
+    "lat": 30.398958,
+    "lon": -97.739288,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.739288,
+        30.398958
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/447.jpg",
+    "traffic_7d": 10639,
+    "obs_7d": 26,
+    "score": 10639,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "1409",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 12TH ST / 35 SVRD",
+    "cross_streets": "12TH ST / IH 35 SVRD",
+    "primary_st": " 12TH ST",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.271833,
+    "lon": -97.732788,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.732788,
+        30.271833
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1409.jpg",
+    "traffic_7d": 10603,
+    "obs_7d": 19,
+    "score": 10603,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "99",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / BLUEBONNET LN",
+    "cross_streets": "LAMAR BLVD / BLUEBONNET LN",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " BLUEBONNET LN",
+    "lat": 30.246923,
+    "lon": -97.777184,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.777184,
+        30.246923
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/99.jpg",
+    "traffic_7d": 10403,
+    "obs_7d": 39,
+    "score": 10403,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "916",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CONGRESS AVE / ST ELMO RD",
+    "cross_streets": "CONGRESS AVE / ST ELMO RD",
+    "primary_st": " CONGRESS AVE",
+    "cross_st": " ST ELMO RD",
+    "lat": 30.21748,
+    "lon": -97.767304,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.767304,
+        30.21748
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/916.jpg",
+    "traffic_7d": 10253,
+    "obs_7d": 39,
+    "score": 10253,
+    "source": "core81",
+    "in_core_panel": true
+  },
+  {
+    "camera_id": "172",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " METRIC BLVD / PARMER LN",
+    "cross_streets": "METRIC BLVD / PARMER LN",
+    "primary_st": " METRIC BLVD",
+    "cross_st": " PARMER LN",
+    "lat": 30.413233,
+    "lon": -97.690582,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.690582,
+        30.413233
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/172.jpg",
+    "traffic_7d": 19710,
+    "obs_7d": 0,
+    "score": 19710,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1282",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " PARMER LN / YAGER LN",
+    "cross_streets": "PARMER LN / YAGER LN",
+    "primary_st": " PARMER LN",
+    "cross_st": " YAGER LN",
+    "lat": 30.388348,
+    "lon": -97.650832,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.650832,
+        30.388348
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1282.jpg",
+    "traffic_7d": 18251,
+    "obs_7d": 0,
+    "score": 18251,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1499",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " HOWARD LN / WELLS BRANCH PKWY",
+    "cross_streets": "HOWARD LN / WELLS BRANCH PKWY",
+    "primary_st": " HOWARD LN",
+    "cross_st": " WELLS BRANCH PKWY",
+    "lat": 30.440031,
+    "lon": -97.695894,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.695894,
+        30.440031
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1499.jpg",
+    "traffic_7d": 13699,
+    "obs_7d": 0,
+    "score": 13699,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "496",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " PARMER LN / INNOVAR CIR",
+    "cross_streets": "PARMER LN / INNOVAR CIR",
+    "primary_st": " PARMER LN",
+    "cross_st": " INNOVAR CIR",
+    "lat": 30.376001,
+    "lon": -97.631714,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.631714,
+        30.376001
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/496.jpg",
+    "traffic_7d": 13632,
+    "obs_7d": 0,
+    "score": 13632,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "746",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "2000 BLK W SLAUGHTER LN (HEB)",
+    "cross_streets": "SLAUGHTER LN",
+    "primary_st": " SLAUGHTER LN",
+    "cross_st": null,
+    "lat": 30.173765,
+    "lon": -97.825523,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.825523,
+        30.173765
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/746.jpg",
+    "traffic_7d": 13289,
+    "obs_7d": 0,
+    "score": 13289,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1494",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "SH 71 SVRD / PRESIDENTIAL BLVD (CARDINAL LOOP)",
+    "cross_streets": "SH 71 SVRD / PRESIDENTIAL BLVD",
+    "primary_st": "SH 71 SVRD",
+    "cross_st": " PRESIDENTIAL BLVD",
+    "lat": 30.21267,
+    "lon": -97.65884,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.65884,
+        30.21267
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1494.jpg",
+    "traffic_7d": 12445,
+    "obs_7d": 0,
+    "score": 12445,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "332",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CAMERON RD / 290 HWY SVRD",
+    "cross_streets": "CAMERON RD / US 290 HWY SVRD",
+    "primary_st": " CAMERON RD",
+    "cross_st": "US 290 HWY SVRD",
+    "lat": 30.320782,
+    "lon": -97.695862,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.695862,
+        30.320782
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/332.jpg",
+    "traffic_7d": 10950,
+    "obs_7d": 5,
+    "score": 10950,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "788",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " SLAUGHTER LN / ALICE MAE LN",
+    "cross_streets": "SLAUGHTER LN / ALICE MAE LN",
+    "primary_st": " SLAUGHTER LN",
+    "cross_st": " ALICE MAE LN",
+    "lat": 30.167644,
+    "lon": -97.793098,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.793098,
+        30.167644
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/788.jpg",
+    "traffic_7d": 10738,
+    "obs_7d": 5,
+    "score": 10738,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "62",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BLK (NW Corner)",
+    "cross_streets": "",
+    "primary_st": null,
+    "cross_st": null,
+    "lat": 30.281803,
+    "lon": -97.742011,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.742011,
+        30.281803
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/62.jpg",
+    "traffic_7d": 10507,
+    "obs_7d": 19,
+    "score": 10507,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "948",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "IH 35 SVRD / WOODWARD ST",
+    "cross_streets": "IH 35 SVRD / WOODWARD ST",
+    "primary_st": "IH 35 SVRD",
+    "cross_st": " WOODWARD ST",
+    "lat": 30.223023,
+    "lon": -97.747116,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.747116,
+        30.223023
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/948.jpg",
+    "traffic_7d": 10507,
+    "obs_7d": 10,
+    "score": 10507,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "334",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CAMERON RD / 53RD ST",
+    "cross_streets": "CAMERON RD / 53RD ST",
+    "primary_st": " CAMERON RD",
+    "cross_st": " 53RD ST",
+    "lat": 30.310621,
+    "lon": -97.708099,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.708099,
+        30.310621
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/334.jpg",
+    "traffic_7d": 10482,
+    "obs_7d": 0,
+    "score": 10482,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1522",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "600 BLK E BEN WHITE BLVD SVRD WB (AISD Building SWC)",
+    "cross_streets": "BEN WHITE BLVD SVRD",
+    "primary_st": " BEN WHITE BLVD SVRD",
+    "cross_st": null,
+    "lat": 30.218525,
+    "lon": -97.753646,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.753646,
+        30.218525
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1522.jpg",
+    "traffic_7d": 10455,
+    "obs_7d": 0,
+    "score": 10455,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "500",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " HARRIS BRANCH PKWY / PARMER LN",
+    "cross_streets": "HARRIS BRANCH PKWY / PARMER LN",
+    "primary_st": " HARRIS BRANCH PKWY",
+    "cross_st": " PARMER LN",
+    "lat": 30.368521,
+    "lon": -97.613174,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.613174,
+        30.368521
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/500.jpg",
+    "traffic_7d": 10449,
+    "obs_7d": 0,
+    "score": 10449,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "60",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " AIRPORT BLVD / DENSON DR",
+    "cross_streets": "AIRPORT BLVD / DENSON DR",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " DENSON DR",
+    "lat": 30.327032,
+    "lon": -97.71608,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.71608,
+        30.327032
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/60.jpg",
+    "traffic_7d": 10367,
+    "obs_7d": 2,
+    "score": 10367,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "674",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CESAR CHAVEZ ST / 35 SVRD",
+    "cross_streets": "CESAR CHAVEZ ST / IH 35 SVRD",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.260996,
+    "lon": -97.735786,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.735786,
+        30.260996
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/674.jpg",
+    "traffic_7d": 10301,
+    "obs_7d": 119,
+    "score": 10301,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "125",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BARTON SPRINGS RD / DAWSON RD",
+    "cross_streets": "BARTON SPRINGS RD / DAWSON RD",
+    "primary_st": " BARTON SPRINGS RD",
+    "cross_st": " DAWSON RD",
+    "lat": 30.260344,
+    "lon": -97.755707,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.755707,
+        30.260344
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/125.jpg",
+    "traffic_7d": 10276,
+    "obs_7d": 37,
+    "score": 10276,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "305",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / DENSON DR",
+    "cross_streets": "LAMAR BLVD / DENSON DR",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " DENSON DR",
+    "lat": 30.330378,
+    "lon": -97.723541,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.723541,
+        30.330378
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/305.jpg",
+    "traffic_7d": 10236,
+    "obs_7d": 4,
+    "score": 10236,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1461",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " MARTIN LUTHER KING JR BLVD / 35 SVRD",
+    "cross_streets": "MARTIN LUTHER KING JR BLVD / IH 35 SVRD",
+    "primary_st": " MARTIN LUTHER KING JR BLVD",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.278509,
+    "lon": -97.72908,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.72908,
+        30.278509
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1461.jpg",
+    "traffic_7d": 10217,
+    "obs_7d": 5,
+    "score": 10217,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "148",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 7TH ST / PROSPECT AVE",
+    "cross_streets": "7TH ST / PROSPECT AVE",
+    "primary_st": " 7TH ST",
+    "cross_st": " PROSPECT AVE",
+    "lat": 30.261475,
+    "lon": -97.717461,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.717461,
+        30.261475
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/148.jpg",
+    "traffic_7d": 10208,
+    "obs_7d": 5,
+    "score": 10208,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "411",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " RIVERSIDE DR / WICKERSHAM LN",
+    "cross_streets": "RIVERSIDE DR / WICKERSHAM LN",
+    "primary_st": " RIVERSIDE DR",
+    "cross_st": " WICKERSHAM LN",
+    "lat": 30.232384,
+    "lon": -97.720406,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.720406,
+        30.232384
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/411.jpg",
+    "traffic_7d": 10184,
+    "obs_7d": 106,
+    "score": 10184,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "56",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " GUADALUPE ST / 15TH ST",
+    "cross_streets": "GUADALUPE ST / 15TH ST",
+    "primary_st": " GUADALUPE ST",
+    "cross_st": " 15TH ST",
+    "lat": 30.2779,
+    "lon": -97.743,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.743,
+        30.2779
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/56.jpg",
+    "traffic_7d": 10144,
+    "obs_7d": 27,
+    "score": 10144,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "716",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " WILLIAM CANNON DR / BILL HUGHES RD",
+    "cross_streets": "WILLIAM CANNON DR / BILL HUGHES RD",
+    "primary_st": " WILLIAM CANNON DR",
+    "cross_st": " BILL HUGHES RD",
+    "lat": 30.195639,
+    "lon": -97.78508,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.78508,
+        30.195639
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/716.jpg",
+    "traffic_7d": 10121,
+    "obs_7d": 11,
+    "score": 10121,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "465",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BURNET RD / ADAMS AVE",
+    "cross_streets": "BURNET RD / ADAMS AVE",
+    "primary_st": " BURNET RD",
+    "cross_st": " ADAMS AVE",
+    "lat": 30.330071,
+    "lon": -97.739891,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.739891,
+        30.330071
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/465.jpg",
+    "traffic_7d": 10118,
+    "obs_7d": 25,
+    "score": 10118,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "417",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " AMHERST DR / PARMER LN",
+    "cross_streets": "AMHERST DR / PARMER LN",
+    "primary_st": " AMHERST DR",
+    "cross_st": " PARMER LN",
+    "lat": 30.42473,
+    "lon": -97.713562,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.713562,
+        30.42473
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/417.jpg",
+    "traffic_7d": 10105,
+    "obs_7d": 8,
+    "score": 10105,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "135",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 5TH ST / BRAZOS ST",
+    "cross_streets": "5TH ST / BRAZOS ST",
+    "primary_st": " 5TH ST",
+    "cross_st": " BRAZOS ST",
+    "lat": 30.266756,
+    "lon": -97.741837,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.741837,
+        30.266756
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/135.jpg",
+    "traffic_7d": 10096,
+    "obs_7d": 65,
+    "score": 10096,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1501",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " MARTIN LUTHER KING JR BLVD / NUECES ST",
+    "cross_streets": "MARTIN LUTHER KING JR BLVD / NUECES ST",
+    "primary_st": " MARTIN LUTHER KING JR BLVD",
+    "cross_st": " NUECES ST",
+    "lat": 30.282238,
+    "lon": -97.743744,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.743744,
+        30.282238
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1501.jpg",
+    "traffic_7d": 10091,
+    "obs_7d": 32,
+    "score": 10091,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1276",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BASTROP HWY / MONTOPOLIS TO BASTROP NB RAMP (US 183/Montopolis)",
+    "cross_streets": "BASTROP HWY / MONTOPOLIS TO BASTROP NB RAMP",
+    "primary_st": " BASTROP HWY",
+    "cross_st": " MONTOPOLIS TO BASTROP NB RAMP",
+    "lat": 30.242779,
+    "lon": -97.690212,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.690212,
+        30.242779
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1276.jpg",
+    "traffic_7d": 10077,
+    "obs_7d": 29,
+    "score": 10077,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "80",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " ANDERSON LN / BURNET RD",
+    "cross_streets": "ANDERSON LN / BURNET RD",
+    "primary_st": " ANDERSON LN",
+    "cross_st": " BURNET RD",
+    "lat": 30.356154,
+    "lon": -97.730896,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.730896,
+        30.356154
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/80.jpg",
+    "traffic_7d": 10069,
+    "obs_7d": 23,
+    "score": 10069,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "450",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " AIRPORT BLVD / KOENIG LN SVRD",
+    "cross_streets": "AIRPORT BLVD / KOENIG LN SVRD",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " KOENIG LN SVRD",
+    "lat": 30.31991,
+    "lon": -97.712547,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.712547,
+        30.31991
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/450.jpg",
+    "traffic_7d": 9992,
+    "obs_7d": 1,
+    "score": 9992,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "770",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " HOWARD LN / HEATHERWILDE BLVD",
+    "cross_streets": "HOWARD LN / HEATHERWILDE BLVD",
+    "primary_st": " HOWARD LN",
+    "cross_st": " HEATHERWILDE BLVD",
+    "lat": 30.419407,
+    "lon": -97.66095,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.66095,
+        30.419407
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/770.jpg",
+    "traffic_7d": 9949,
+    "obs_7d": 0,
+    "score": 9949,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "156",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 1ST ST / ST ELMO RD",
+    "cross_streets": "1ST ST / ST ELMO RD",
+    "primary_st": " 1ST ST",
+    "cross_st": " ST ELMO RD",
+    "lat": 30.221043,
+    "lon": -97.772881,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.772881,
+        30.221043
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/156.jpg",
+    "traffic_7d": 9927,
+    "obs_7d": 19,
+    "score": 9927,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "269",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "US 183 HWY / METROPOLIS DR",
+    "cross_streets": "US 183 HWY / METROPOLIS DR",
+    "primary_st": "US 183 HWY",
+    "cross_st": " METROPOLIS DR",
+    "lat": 30.209925,
+    "lon": -97.683281,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.683281,
+        30.209925
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/269.jpg",
+    "traffic_7d": 9920,
+    "obs_7d": 1,
+    "score": 9920,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "896",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 15TH ST / 35 SVRD",
+    "cross_streets": "15TH ST / IH 35 SVRD",
+    "primary_st": " 15TH ST",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.274611,
+    "lon": -97.73098,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.73098,
+        30.274611
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/896.jpg",
+    "traffic_7d": 9901,
+    "obs_7d": 13,
+    "score": 9901,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "274",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CAPITAL OF TEXAS HWY / WALSH TARLTON LN",
+    "cross_streets": "CAPITAL OF TEXAS HWY / WALSH TARLTON LN",
+    "primary_st": " CAPITAL OF TEXAS HWY",
+    "cross_st": " WALSH TARLTON LN",
+    "lat": 30.257986,
+    "lon": -97.812248,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.812248,
+        30.257986
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/274.jpg",
+    "traffic_7d": 9792,
+    "obs_7d": 3,
+    "score": 9792,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "453",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " AIRPORT BLVD / 38TH HALF ST",
+    "cross_streets": "AIRPORT BLVD / 38TH HALF ST",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " 38TH HALF ST",
+    "lat": 30.289185,
+    "lon": -97.707245,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.707245,
+        30.289185
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/453.jpg",
+    "traffic_7d": 9775,
+    "obs_7d": 19,
+    "score": 9775,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "381",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 7TH ST / ATTAYAC ST",
+    "cross_streets": "7TH ST / ATTAYAC ST",
+    "primary_st": " 7TH ST",
+    "cross_st": " ATTAYAC ST",
+    "lat": 30.265019,
+    "lon": -97.72908,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.72908,
+        30.265019
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/381.jpg",
+    "traffic_7d": 9772,
+    "obs_7d": 23,
+    "score": 9772,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "353",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 5TH ST / LAVACA ST",
+    "cross_streets": "5TH ST / LAVACA ST",
+    "primary_st": " 5TH ST",
+    "cross_st": " LAVACA ST",
+    "lat": 30.267796,
+    "lon": -97.745544,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.745544,
+        30.267796
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/353.jpg",
+    "traffic_7d": 9746,
+    "obs_7d": 78,
+    "score": 9746,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "576",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BRAKER LN / 35 SVRD",
+    "cross_streets": "BRAKER LN / IH 35 SVRD",
+    "primary_st": " BRAKER LN",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.377125,
+    "lon": -97.676483,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.676483,
+        30.377125
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/576.jpg",
+    "traffic_7d": 9735,
+    "obs_7d": 3,
+    "score": 9735,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "597",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " MARTIN LUTHER KING JR BLVD / ALEXANDER AVE",
+    "cross_streets": "MARTIN LUTHER KING JR BLVD / ALEXANDER AVE",
+    "primary_st": " MARTIN LUTHER KING JR BLVD",
+    "cross_st": " ALEXANDER AVE",
+    "lat": 30.281706,
+    "lon": -97.709457,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.709457,
+        30.281706
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/597.jpg",
+    "traffic_7d": 9675,
+    "obs_7d": 3,
+    "score": 9675,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1443",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "US 183 HWY / BURLESON RD",
+    "cross_streets": "US 183 HWY / BURLESON RD",
+    "primary_st": "US 183 HWY",
+    "cross_st": " BURLESON RD",
+    "lat": 30.18288,
+    "lon": -97.68763,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.68763,
+        30.18288
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1443.jpg",
+    "traffic_7d": 9671,
+    "obs_7d": 0,
+    "score": 9671,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "308",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / NORTH LOOP BLVD",
+    "cross_streets": "LAMAR BLVD / NORTH LOOP BLVD",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " NORTH LOOP BLVD",
+    "lat": 30.321089,
+    "lon": -97.729393,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.729393,
+        30.321089
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/308.jpg",
+    "traffic_7d": 9587,
+    "obs_7d": 10,
+    "score": 9587,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "846",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / HOUSTON ST",
+    "cross_streets": "LAMAR BLVD / HOUSTON ST",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " HOUSTON ST",
+    "lat": 30.323225,
+    "lon": -97.728081,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.728081,
+        30.323225
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/846.jpg",
+    "traffic_7d": 9484,
+    "obs_7d": 14,
+    "score": 9484,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "371",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " PLEASANT VALLEY RD / STASSNEY LN",
+    "cross_streets": "PLEASANT VALLEY RD / STASSNEY LN",
+    "primary_st": " PLEASANT VALLEY RD",
+    "cross_st": " STASSNEY LN",
+    "lat": 30.193985,
+    "lon": -97.744682,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.744682,
+        30.193985
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/371.jpg",
+    "traffic_7d": 9462,
+    "obs_7d": 12,
+    "score": 9462,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "302",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / PAYTON GIN RD",
+    "cross_streets": "LAMAR BLVD / PAYTON GIN RD",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " PAYTON GIN RD",
+    "lat": 30.357647,
+    "lon": -97.700111,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.700111,
+        30.357647
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/302.jpg",
+    "traffic_7d": 9420,
+    "obs_7d": 1,
+    "score": 9420,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "95",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 6TH ST / LAMAR BLVD",
+    "cross_streets": "6TH ST / LAMAR BLVD",
+    "primary_st": " 6TH ST",
+    "cross_st": " LAMAR BLVD",
+    "lat": 30.271538,
+    "lon": -97.753967,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.753967,
+        30.271538
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/95.jpg",
+    "traffic_7d": 9389,
+    "obs_7d": 56,
+    "score": 9389,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "700",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAVACA ST / 18TH ST",
+    "cross_streets": "LAVACA ST / 18TH ST",
+    "primary_st": " LAVACA ST",
+    "cross_st": " 18TH ST",
+    "lat": 30.280344,
+    "lon": -97.740873,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.740873,
+        30.280344
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/700.jpg",
+    "traffic_7d": 9379,
+    "obs_7d": 19,
+    "score": 9379,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1316",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 7TH ST / WALLER ST (WESTERLY INTERSECTION)",
+    "cross_streets": "7TH ST / WALLER ST",
+    "primary_st": " 7TH ST",
+    "cross_st": " WALLER ST",
+    "lat": 30.265431,
+    "lon": -97.730341,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.730341,
+        30.265431
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1316.jpg",
+    "traffic_7d": 9360,
+    "obs_7d": 41,
+    "score": 9360,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "254",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BRAKER LN / RESEARCH BLVD SVRD",
+    "cross_streets": "BRAKER LN / RESEARCH BLVD SVRD",
+    "primary_st": " BRAKER LN",
+    "cross_st": " RESEARCH BLVD SVRD",
+    "lat": 30.400536,
+    "lon": -97.746285,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.746285,
+        30.400536
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/254.jpg",
+    "traffic_7d": 9323,
+    "obs_7d": 5,
+    "score": 9323,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "709",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BURNET RD / ROCKWOOD LN",
+    "cross_streets": "BURNET RD / ROCKWOOD LN",
+    "primary_st": " BURNET RD",
+    "cross_st": " ROCKWOOD LN",
+    "lat": 30.368286,
+    "lon": -97.727585,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.727585,
+        30.368286
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/709.jpg",
+    "traffic_7d": 9276,
+    "obs_7d": 19,
+    "score": 9276,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "565",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CESAR CHAVEZ ST / COLORADO ST",
+    "cross_streets": "CESAR CHAVEZ ST / COLORADO ST",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": " COLORADO ST",
+    "lat": 30.263762,
+    "lon": -97.745857,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.745857,
+        30.263762
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/565.jpg",
+    "traffic_7d": 9214,
+    "obs_7d": 43,
+    "score": 9214,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "83",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BURNET RD / NORTH LOOP BLVD",
+    "cross_streets": "BURNET RD / NORTH LOOP BLVD",
+    "primary_st": " BURNET RD",
+    "cross_st": " NORTH LOOP BLVD",
+    "lat": 30.325851,
+    "lon": -97.739616,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.739616,
+        30.325851
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/83.jpg",
+    "traffic_7d": 9158,
+    "obs_7d": 14,
+    "score": 9158,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1278",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BRAKER LN / AGUILAR ST",
+    "cross_streets": "BRAKER LN / AGUILAR ST",
+    "primary_st": " BRAKER LN",
+    "cross_st": " AGUILAR ST",
+    "lat": 30.3905,
+    "lon": -97.7191,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.7191,
+        30.3905
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1278.jpg",
+    "traffic_7d": 9072,
+    "obs_7d": 10,
+    "score": 9072,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "283",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " DEAN KEETON ST / LAFAYETTE AVE",
+    "cross_streets": "DEAN KEETON ST / LAFAYETTE AVE",
+    "primary_st": " DEAN KEETON ST",
+    "cross_st": " LAFAYETTE AVE",
+    "lat": 30.284424,
+    "lon": -97.721809,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.721809,
+        30.284424
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/283.jpg",
+    "traffic_7d": 9050,
+    "obs_7d": 4,
+    "score": 9050,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "702",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " MARTIN LUTHER KING JR BLVD / COLORADO ST",
+    "cross_streets": "MARTIN LUTHER KING JR BLVD / COLORADO ST",
+    "primary_st": " MARTIN LUTHER KING JR BLVD",
+    "cross_st": " COLORADO ST",
+    "lat": 30.281042,
+    "lon": -97.73946,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.73946,
+        30.281042
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/702.jpg",
+    "traffic_7d": 9033,
+    "obs_7d": 5,
+    "score": 9033,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1145",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BEN WHITE BLVD / RIVERSIDE DR",
+    "cross_streets": "BEN WHITE BLVD / RIVERSIDE DR",
+    "primary_st": " BEN WHITE BLVD",
+    "cross_st": " RIVERSIDE DR",
+    "lat": 30.21806,
+    "lon": -97.69058,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.69058,
+        30.21806
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1145.jpg",
+    "traffic_7d": 9018,
+    "obs_7d": 14,
+    "score": 9018,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1465",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " SLAUGHTER LN / SLAUGHTER LN (Still Water Apartments)",
+    "cross_streets": "SLAUGHTER LN / SLAUGHTER LN",
+    "primary_st": " SLAUGHTER LN",
+    "cross_st": " SLAUGHTER LN",
+    "lat": 30.163826,
+    "lon": -97.778541,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.778541,
+        30.163826
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1465.jpg",
+    "traffic_7d": 8985,
+    "obs_7d": 1,
+    "score": 8985,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "118",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " SLAUGHTER LN / 1ST ST",
+    "cross_streets": "SLAUGHTER LN / 1ST ST",
+    "primary_st": " SLAUGHTER LN",
+    "cross_st": " 1ST ST",
+    "lat": 30.172455,
+    "lon": -97.799553,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.799553,
+        30.172455
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/118.jpg",
+    "traffic_7d": 8939,
+    "obs_7d": 8,
+    "score": 8939,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "30",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 3RD ST / BOWIE ST (SPRING CONDOS - WEST)",
+    "cross_streets": "3RD ST / BOWIE ST",
+    "primary_st": " 3RD ST",
+    "cross_st": " BOWIE ST",
+    "lat": 30.268963,
+    "lon": -97.754318,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.754318,
+        30.268963
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/30.jpg",
+    "traffic_7d": 8906,
+    "obs_7d": 0,
+    "score": 8906,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "467",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BURNET RD / NORTHCROSS DR",
+    "cross_streets": "BURNET RD / NORTHCROSS DR",
+    "primary_st": " BURNET RD",
+    "cross_st": " NORTHCROSS DR",
+    "lat": 30.352217,
+    "lon": -97.733246,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.733246,
+        30.352217
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/467.jpg",
+    "traffic_7d": 8906,
+    "obs_7d": 30,
+    "score": 8906,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1289",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BURNET RD / PENNY LN",
+    "cross_streets": "BURNET RD / PENNY LN",
+    "primary_st": " BURNET RD",
+    "cross_st": " PENNY LN",
+    "lat": 30.364498,
+    "lon": -97.728636,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.728636,
+        30.364498
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1289.jpg",
+    "traffic_7d": 8856,
+    "obs_7d": 16,
+    "score": 8856,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "376",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 5TH ST / PLEASANT VALLEY RD",
+    "cross_streets": "5TH ST / PLEASANT VALLEY RD",
+    "primary_st": " 5TH ST",
+    "cross_st": " PLEASANT VALLEY RD",
+    "lat": 30.256628,
+    "lon": -97.711105,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.711105,
+        30.256628
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/376.jpg",
+    "traffic_7d": 8835,
+    "obs_7d": 15,
+    "score": 8835,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "129",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " RED RIVER ST / 10TH ST",
+    "cross_streets": "RED RIVER ST / 10TH ST",
+    "primary_st": " RED RIVER ST",
+    "cross_st": " 10TH ST",
+    "lat": 30.270227,
+    "lon": -97.735771,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.735771,
+        30.270227
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/129.jpg",
+    "traffic_7d": 8831,
+    "obs_7d": 3,
+    "score": 8831,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "278",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CAPITAL OF TEXAS HWY / MOPAC EXPY SVRD",
+    "cross_streets": "CAPITAL OF TEXAS HWY / MOPAC EXPY SVRD",
+    "primary_st": " CAPITAL OF TEXAS HWY",
+    "cross_st": " MOPAC EXPY SVRD",
+    "lat": 30.251068,
+    "lon": -97.806664,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.806664,
+        30.251068
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/278.jpg",
+    "traffic_7d": 8831,
+    "obs_7d": 1,
+    "score": 8831,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "743",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " SLAUGHTER LN / RIDDLE RD",
+    "cross_streets": "SLAUGHTER LN / RIDDLE RD",
+    "primary_st": " SLAUGHTER LN",
+    "cross_st": " RIDDLE RD",
+    "lat": 30.173983,
+    "lon": -97.827148,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.827148,
+        30.173983
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/743.jpg",
+    "traffic_7d": 8820,
+    "obs_7d": 0,
+    "score": 8820,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1402",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " MOPAC EXPY SVRD / BARTON SKWY",
+    "cross_streets": "MOPAC EXPY SVRD / BARTON SKWY",
+    "primary_st": " MOPAC EXPY SVRD",
+    "cross_st": " BARTON SKWY",
+    "lat": 30.262285,
+    "lon": -97.78923,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.78923,
+        30.262285
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1402.jpg",
+    "traffic_7d": 8810,
+    "obs_7d": 0,
+    "score": 8810,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "211",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "IH 35 SVRD / ANDERSON LN SVRD",
+    "cross_streets": "IH 35 SVRD / ANDERSON LN SVRD",
+    "primary_st": "IH 35 SVRD",
+    "cross_st": " ANDERSON LN SVRD",
+    "lat": 30.339504,
+    "lon": -97.700645,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.700645,
+        30.339504
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/211.jpg",
+    "traffic_7d": 8770,
+    "obs_7d": 7,
+    "score": 8770,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "92",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / 24TH ST",
+    "cross_streets": "LAMAR BLVD / 24TH ST",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " 24TH ST",
+    "lat": 30.288534,
+    "lon": -97.75277,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.75277,
+        30.288534
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/92.jpg",
+    "traffic_7d": 8761,
+    "obs_7d": 71,
+    "score": 8761,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "347",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 5TH ST / WEST AVE",
+    "cross_streets": "5TH ST / WEST AVE",
+    "primary_st": " 5TH ST",
+    "cross_st": " WEST AVE",
+    "lat": 30.26931,
+    "lon": -97.750954,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.750954,
+        30.26931
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/347.jpg",
+    "traffic_7d": 8752,
+    "obs_7d": 30,
+    "score": 8752,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "315",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CESAR CHAVEZ ST / B R REYNOLDS DR",
+    "cross_streets": "CESAR CHAVEZ ST / B R REYNOLDS DR",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": " B R REYNOLDS DR",
+    "lat": 30.266964,
+    "lon": -97.757095,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.757095,
+        30.266964
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/315.jpg",
+    "traffic_7d": 8734,
+    "obs_7d": 22,
+    "score": 8734,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "71",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 38TH ST / GUADALUPE ST",
+    "cross_streets": "38TH ST / GUADALUPE ST",
+    "primary_st": " 38TH ST",
+    "cross_st": " GUADALUPE ST",
+    "lat": 30.302742,
+    "lon": -97.738144,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.738144,
+        30.302742
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/71.jpg",
+    "traffic_7d": 8720,
+    "obs_7d": 53,
+    "score": 8720,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "89",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 38TH ST / LAMAR BLVD",
+    "cross_streets": "38TH ST / LAMAR BLVD",
+    "primary_st": " 38TH ST",
+    "cross_st": " LAMAR BLVD",
+    "lat": 30.305197,
+    "lon": -97.74305,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.74305,
+        30.305197
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/89.jpg",
+    "traffic_7d": 8712,
+    "obs_7d": 37,
+    "score": 8712,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1298",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " PARMER LN / HARRISGLENN DR",
+    "cross_streets": "PARMER LN / HARRISGLENN DR",
+    "primary_st": " PARMER LN",
+    "cross_st": " HARRISGLENN DR",
+    "lat": 30.399542,
+    "lon": -97.654923,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.654923,
+        30.399542
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1298.jpg",
+    "traffic_7d": 8706,
+    "obs_7d": 0,
+    "score": 8706,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "24",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " ANDERSON LN / NORTHCROSS DR",
+    "cross_streets": "ANDERSON LN / NORTHCROSS DR",
+    "primary_st": " ANDERSON LN",
+    "cross_st": " NORTHCROSS DR",
+    "lat": 30.358307,
+    "lon": -97.735535,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.735535,
+        30.358307
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/24.jpg",
+    "traffic_7d": 8696,
+    "obs_7d": 3,
+    "score": 8696,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "678",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 15TH ST / NUECES ST",
+    "cross_streets": "15TH ST / NUECES ST",
+    "primary_st": " 15TH ST",
+    "cross_st": " NUECES ST",
+    "lat": 30.278534,
+    "lon": -97.745148,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.745148,
+        30.278534
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/678.jpg",
+    "traffic_7d": 8685,
+    "obs_7d": 30,
+    "score": 8685,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1449",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " MENCHACA RD / BEN WHITE BLVD SVRD",
+    "cross_streets": "MENCHACA RD / BEN WHITE BLVD SVRD",
+    "primary_st": " MENCHACA RD",
+    "cross_st": " BEN WHITE BLVD SVRD",
+    "lat": 30.23036,
+    "lon": -97.788055,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.788055,
+        30.23036
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1449.jpg",
+    "traffic_7d": 8683,
+    "obs_7d": 8,
+    "score": 8683,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "96",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 5TH ST / LAMAR BLVD",
+    "cross_streets": "5TH ST / LAMAR BLVD",
+    "primary_st": " 5TH ST",
+    "cross_st": " LAMAR BLVD",
+    "lat": 30.27029,
+    "lon": -97.754601,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.754601,
+        30.27029
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/96.jpg",
+    "traffic_7d": 8664,
+    "obs_7d": 65,
+    "score": 8664,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1151",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / POWELL LN",
+    "cross_streets": "LAMAR BLVD / POWELL LN",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " POWELL LN",
+    "lat": 30.350815,
+    "lon": -97.709161,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.709161,
+        30.350815
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1151.jpg",
+    "traffic_7d": 8663,
+    "obs_7d": 0,
+    "score": 8663,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "22",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BURNET RD / 45TH ST",
+    "cross_streets": "BURNET RD / 45TH ST",
+    "primary_st": " BURNET RD",
+    "cross_st": " 45TH ST",
+    "lat": 30.315401,
+    "lon": -97.74157,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.74157,
+        30.315401
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/22.jpg",
+    "traffic_7d": 8659,
+    "obs_7d": 26,
+    "score": 8659,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1389",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 6TH ST / COLORADO ST",
+    "cross_streets": "6TH ST / COLORADO ST",
+    "primary_st": " 6TH ST",
+    "cross_st": " COLORADO ST",
+    "lat": 30.268417,
+    "lon": -97.744125,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.744125,
+        30.268417
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1389.jpg",
+    "traffic_7d": 8588,
+    "obs_7d": 37,
+    "score": 8588,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "241",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BRODIE LN / DAVIS LN",
+    "cross_streets": "BRODIE LN / DAVIS LN",
+    "primary_st": " BRODIE LN",
+    "cross_st": " DAVIS LN",
+    "lat": 30.195334,
+    "lon": -97.842285,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.842285,
+        30.195334
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/241.jpg",
+    "traffic_7d": 8516,
+    "obs_7d": 2,
+    "score": 8516,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1451",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " MESA DR / STECK AVE",
+    "cross_streets": "MESA DR / STECK AVE",
+    "primary_st": " MESA DR",
+    "cross_st": " STECK AVE",
+    "lat": 30.374355,
+    "lon": -97.755455,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.755455,
+        30.374355
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1451.jpg",
+    "traffic_7d": 8508,
+    "obs_7d": 7,
+    "score": 8508,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "566",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " COLORADO ST / 3RD ST",
+    "cross_streets": "COLORADO ST / 3RD ST",
+    "primary_st": " COLORADO ST",
+    "cross_st": " 3RD ST",
+    "lat": 30.265602,
+    "lon": -97.745155,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.745155,
+        30.265602
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/566.jpg",
+    "traffic_7d": 8490,
+    "obs_7d": 22,
+    "score": 8490,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "243",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " SLAUGHTER LN / 35 SVRD",
+    "cross_streets": "SLAUGHTER LN / IH 35 SVRD",
+    "primary_st": " SLAUGHTER LN",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.16707,
+    "lon": -97.786926,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.786926,
+        30.16707
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/243.jpg",
+    "traffic_7d": 8481,
+    "obs_7d": 3,
+    "score": 8481,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "97",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / RIVERSIDE DR",
+    "cross_streets": "LAMAR BLVD / RIVERSIDE DR",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " RIVERSIDE DR",
+    "lat": 30.264525,
+    "lon": -97.757103,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.757103,
+        30.264525
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/97.jpg",
+    "traffic_7d": 8478,
+    "obs_7d": 41,
+    "score": 8478,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "88",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / 45TH ST",
+    "cross_streets": "LAMAR BLVD / 45TH ST",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " 45TH ST",
+    "lat": 30.313463,
+    "lon": -97.737595,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.737595,
+        30.313463
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/88.jpg",
+    "traffic_7d": 8443,
+    "obs_7d": 15,
+    "score": 8443,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1410",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BERKMAN DR / BARBARA JORDAN BLVD",
+    "cross_streets": "BERKMAN DR / BARBARA JORDAN BLVD",
+    "primary_st": " BERKMAN DR",
+    "cross_st": " BARBARA JORDAN BLVD",
+    "lat": 30.3023,
+    "lon": -97.69987,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.69987,
+        30.3023
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1410.jpg",
+    "traffic_7d": 8432,
+    "obs_7d": 3,
+    "score": 8432,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "248",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CONGRESS AVE / SLAUGHTER LN",
+    "cross_streets": "CONGRESS AVE / SLAUGHTER LN",
+    "primary_st": " CONGRESS AVE",
+    "cross_st": " SLAUGHTER LN",
+    "lat": 30.167107,
+    "lon": -97.788559,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.788559,
+        30.167107
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/248.jpg",
+    "traffic_7d": 8415,
+    "obs_7d": 4,
+    "score": 8415,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1302",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 1ST ST / MONROE ST",
+    "cross_streets": "1ST ST / MONROE ST",
+    "primary_st": " 1ST ST",
+    "cross_st": " MONROE ST",
+    "lat": 30.249475,
+    "lon": -97.755145,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.755145,
+        30.249475
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1302.jpg",
+    "traffic_7d": 8413,
+    "obs_7d": 45,
+    "score": 8413,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "463",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " MOPAC EXPY / NORTHLAND DR (East)",
+    "cross_streets": "MOPAC EXPY / NORTHLAND DR",
+    "primary_st": " MOPAC EXPY",
+    "cross_st": " NORTHLAND DR",
+    "lat": 30.335529,
+    "lon": -97.753723,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.753723,
+        30.335529
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/463.jpg",
+    "traffic_7d": 8413,
+    "obs_7d": 1,
+    "score": 8413,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "349",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 6TH ST / NUECES ST",
+    "cross_streets": "6TH ST / NUECES ST",
+    "primary_st": " 6TH ST",
+    "cross_st": " NUECES ST",
+    "lat": 30.269629,
+    "lon": -97.748421,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.748421,
+        30.269629
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/349.jpg",
+    "traffic_7d": 8377,
+    "obs_7d": 16,
+    "score": 8377,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "571",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CAMERON RD / FERGUSON LN",
+    "cross_streets": "CAMERON RD / FERGUSON LN",
+    "primary_st": " CAMERON RD",
+    "cross_st": " FERGUSON LN",
+    "lat": 30.345804,
+    "lon": -97.67749,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.67749,
+        30.345804
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/571.jpg",
+    "traffic_7d": 8314,
+    "obs_7d": 7,
+    "score": 8314,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "153",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " OLTORF ST / 35 SVRD",
+    "cross_streets": "OLTORF ST / IH 35 SVRD",
+    "primary_st": " OLTORF ST",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.233851,
+    "lon": -97.741653,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.741653,
+        30.233851
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/153.jpg",
+    "traffic_7d": 8313,
+    "obs_7d": 15,
+    "score": 8313,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "494",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BURNET RD / OHLEN RD",
+    "cross_streets": "BURNET RD / OHLEN RD",
+    "primary_st": " BURNET RD",
+    "cross_st": " OHLEN RD",
+    "lat": 30.362911,
+    "lon": -97.729057,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.729057,
+        30.362911
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/494.jpg",
+    "traffic_7d": 8276,
+    "obs_7d": 9,
+    "score": 8276,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "697",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " GUADALUPE ST / 29TH ST",
+    "cross_streets": "GUADALUPE ST / 29TH ST",
+    "primary_st": " GUADALUPE ST",
+    "cross_st": " 29TH ST",
+    "lat": 30.295429,
+    "lon": -97.742813,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.742813,
+        30.295429
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/697.jpg",
+    "traffic_7d": 8187,
+    "obs_7d": 19,
+    "score": 8187,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "317",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / HETHER ST",
+    "cross_streets": "LAMAR BLVD / HETHER ST",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " HETHER ST",
+    "lat": 30.249411,
+    "lon": -97.767441,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.767441,
+        30.249411
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/317.jpg",
+    "traffic_7d": 8176,
+    "obs_7d": 24,
+    "score": 8176,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "355",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 6TH ST / SAN JACINTO BLVD",
+    "cross_streets": "6TH ST / SAN JACINTO BLVD",
+    "primary_st": " 6TH ST",
+    "cross_st": " SAN JACINTO BLVD",
+    "lat": 30.267395,
+    "lon": -97.740372,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.740372,
+        30.267395
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/355.jpg",
+    "traffic_7d": 8139,
+    "obs_7d": 33,
+    "score": 8139,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1477",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " RUNDBERG LN / NORTH CREEK DR",
+    "cross_streets": "RUNDBERG LN / NORTH CREEK DR",
+    "primary_st": " RUNDBERG LN",
+    "cross_st": " NORTH CREEK DR",
+    "lat": 30.360039,
+    "lon": -97.691795,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.691795,
+        30.360039
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1477.jpg",
+    "traffic_7d": 8128,
+    "obs_7d": 3,
+    "score": 8128,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "587",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "6511 BLK MC NEIL DR (Oak Knoll Dr/Research Park (Formerly TX Instruments))",
+    "cross_streets": "MC NEIL DR",
+    "primary_st": " MC NEIL DR",
+    "cross_st": null,
+    "lat": 30.439367,
+    "lon": -97.754227,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.754227,
+        30.439367
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/587.jpg",
+    "traffic_7d": 8115,
+    "obs_7d": 2,
+    "score": 8115,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "111",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " AIRPORT BLVD / MARTIN LUTHER KING JR BLVD",
+    "cross_streets": "AIRPORT BLVD / MARTIN LUTHER KING JR BLVD",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " MARTIN LUTHER KING JR BLVD",
+    "lat": 30.282572,
+    "lon": -97.703949,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.703949,
+        30.282572
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/111.jpg",
+    "traffic_7d": 8101,
+    "obs_7d": 32,
+    "score": 8101,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "437",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CONGRESS AVE / LELAND ST",
+    "cross_streets": "CONGRESS AVE / LELAND ST",
+    "primary_st": " CONGRESS AVE",
+    "cross_st": " LELAND ST",
+    "lat": 30.243446,
+    "lon": -97.751915,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.751915,
+        30.243446
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/437.jpg",
+    "traffic_7d": 8092,
+    "obs_7d": 14,
+    "score": 8092,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "296",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 7TH ST / RED RIVER ST",
+    "cross_streets": "7TH ST / RED RIVER ST",
+    "primary_st": " 7TH ST",
+    "cross_st": " RED RIVER ST",
+    "lat": 30.267403,
+    "lon": -97.736816,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.736816,
+        30.267403
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/296.jpg",
+    "traffic_7d": 8080,
+    "obs_7d": 14,
+    "score": 8080,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1358",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " AIRPORT BLVD / GUNTER ST",
+    "cross_streets": "AIRPORT BLVD / GUNTER ST",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " GUNTER ST",
+    "lat": 30.269581,
+    "lon": -97.696716,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.696716,
+        30.269581
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1358.jpg",
+    "traffic_7d": 8019,
+    "obs_7d": 1,
+    "score": 8019,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "578",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " RESEARCH BLVD SVRD / FAIRFIELD DR",
+    "cross_streets": "RESEARCH BLVD SVRD / FAIRFIELD DR",
+    "primary_st": " RESEARCH BLVD SVRD",
+    "cross_st": " FAIRFIELD DR",
+    "lat": 30.360487,
+    "lon": -97.716476,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.716476,
+        30.360487
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/578.jpg",
+    "traffic_7d": 8008,
+    "obs_7d": 4,
+    "score": 8008,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1447",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 15TH ST / SAN JACINTO BLVD",
+    "cross_streets": "15TH ST / SAN JACINTO BLVD",
+    "primary_st": " 15TH ST",
+    "cross_st": " SAN JACINTO BLVD",
+    "lat": 30.276232,
+    "lon": -97.737106,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.737106,
+        30.276232
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1447.jpg",
+    "traffic_7d": 7993,
+    "obs_7d": 12,
+    "score": 7993,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "374",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " PLEASANT VALLEY RD / SOUTH LAKESHORE BLVD",
+    "cross_streets": "PLEASANT VALLEY RD / SOUTH LAKESHORE BLVD",
+    "primary_st": " PLEASANT VALLEY RD",
+    "cross_st": " SOUTH LAKESHORE BLVD",
+    "lat": 30.242514,
+    "lon": -97.717148,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.717148,
+        30.242514
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/374.jpg",
+    "traffic_7d": 7981,
+    "obs_7d": 43,
+    "score": 7981,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "745",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "701 BLK E WILLIAM CANNON DR (CENTURY SOUTH)",
+    "cross_streets": "WILLIAM CANNON DR",
+    "primary_st": " WILLIAM CANNON DR",
+    "cross_st": null,
+    "lat": 30.191372,
+    "lon": -97.773041,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.773041,
+        30.191372
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/745.jpg",
+    "traffic_7d": 7954,
+    "obs_7d": 4,
+    "score": 7954,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "18",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " MOPAC EXPY / SLAUGHTER LN",
+    "cross_streets": "MOPAC EXPY / SLAUGHTER LN",
+    "primary_st": " MOPAC EXPY",
+    "cross_st": " SLAUGHTER LN",
+    "lat": 30.200567,
+    "lon": -97.865456,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.865456,
+        30.200567
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/18.jpg",
+    "traffic_7d": 7921,
+    "obs_7d": 3,
+    "score": 7921,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "703",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / KRAMER LN",
+    "cross_streets": "LAMAR BLVD / KRAMER LN",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " KRAMER LN",
+    "lat": 30.37954,
+    "lon": -97.687683,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.687683,
+        30.37954
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/703.jpg",
+    "traffic_7d": 7915,
+    "obs_7d": 1,
+    "score": 7915,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "552",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " EXPOSITION BLVD / WESTOVER RD",
+    "cross_streets": "EXPOSITION BLVD / WESTOVER RD",
+    "primary_st": " EXPOSITION BLVD",
+    "cross_st": " WESTOVER RD",
+    "lat": 30.303034,
+    "lon": -97.764305,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.764305,
+        30.303034
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/552.jpg",
+    "traffic_7d": 7894,
+    "obs_7d": 10,
+    "score": 7894,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1493",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "SH 71 SVRD / CARDINAL LOOP (PRESIDENTIAL BLVD)",
+    "cross_streets": "SH 71 SVRD / CARDINAL LOOP",
+    "primary_st": "SH 71 SVRD",
+    "cross_st": " CARDINAL LOOP",
+    "lat": 30.213114,
+    "lon": -97.658532,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.658532,
+        30.213114
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1493.jpg",
+    "traffic_7d": 7878,
+    "obs_7d": 1,
+    "score": 7878,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "676",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / TOOMEY RD",
+    "cross_streets": "LAMAR BLVD / TOOMEY RD",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " TOOMEY RD",
+    "lat": 30.262954,
+    "lon": -97.757907,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.757907,
+        30.262954
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/676.jpg",
+    "traffic_7d": 7809,
+    "obs_7d": 45,
+    "score": 7809,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "435",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CONGRESS AVE / ANNIE ST",
+    "cross_streets": "CONGRESS AVE / ANNIE ST",
+    "primary_st": " CONGRESS AVE",
+    "cross_st": " ANNIE ST",
+    "lat": 30.246094,
+    "lon": -97.750969,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.750969,
+        30.246094
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/435.jpg",
+    "traffic_7d": 7802,
+    "obs_7d": 36,
+    "score": 7802,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "237",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " ANDERSON LN SVRD / NORTHCREST BLVD",
+    "cross_streets": "ANDERSON LN SVRD / NORTHCREST BLVD",
+    "primary_st": " ANDERSON LN SVRD",
+    "cross_st": " NORTHCREST BLVD",
+    "lat": 30.3437,
+    "lon": -97.705383,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.705383,
+        30.3437
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/237.jpg",
+    "traffic_7d": 7791,
+    "obs_7d": 0,
+    "score": 7791,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1542",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " RESEARCH BLVD SVRD / ANDERSON SQ",
+    "cross_streets": "RESEARCH BLVD SVRD / ANDERSON SQ",
+    "primary_st": " RESEARCH BLVD SVRD",
+    "cross_st": " ANDERSON SQ",
+    "lat": 30.352856,
+    "lon": -97.714859,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.714859,
+        30.352856
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1542.jpg",
+    "traffic_7d": 7781,
+    "obs_7d": 0,
+    "score": 7781,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "306",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / BRENTWOOD ST",
+    "cross_streets": "LAMAR BLVD / BRENTWOOD ST",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " BRENTWOOD ST",
+    "lat": 30.334,
+    "lon": -97.721245,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.721245,
+        30.334
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/306.jpg",
+    "traffic_7d": 7777,
+    "obs_7d": 9,
+    "score": 7777,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "112",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " AIRPORT BLVD / 45TH ST",
+    "cross_streets": "AIRPORT BLVD / 45TH ST",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " 45TH ST",
+    "lat": 30.303625,
+    "lon": -97.715981,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.715981,
+        30.303625
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/112.jpg",
+    "traffic_7d": 7774,
+    "obs_7d": 4,
+    "score": 7774,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "584",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "IH 35 SVRD / RIVER ST",
+    "cross_streets": "IH 35 SVRD / RIVER ST",
+    "primary_st": "IH 35 SVRD",
+    "cross_st": " RIVER ST",
+    "lat": 30.25745,
+    "lon": -97.737701,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.737701,
+        30.25745
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/584.jpg",
+    "traffic_7d": 7774,
+    "obs_7d": 148,
+    "score": 7774,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "458",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " KOENIG LN / GUADALUPE ST",
+    "cross_streets": "KOENIG LN / GUADALUPE ST",
+    "primary_st": " KOENIG LN",
+    "cross_st": " GUADALUPE ST",
+    "lat": 30.323502,
+    "lon": -97.723831,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.723831,
+        30.323502
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/458.jpg",
+    "traffic_7d": 7753,
+    "obs_7d": 5,
+    "score": 7753,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "86",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " ANDERSON LN / SHOAL CREEK BLVD",
+    "cross_streets": "ANDERSON LN / SHOAL CREEK BLVD",
+    "primary_st": " ANDERSON LN",
+    "cross_st": " SHOAL CREEK BLVD",
+    "lat": 30.361021,
+    "lon": -97.740845,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.740845,
+        30.361021
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/86.jpg",
+    "traffic_7d": 7693,
+    "obs_7d": 4,
+    "score": 7693,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "76",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 38TH HALF ST / 35 SVRD",
+    "cross_streets": "38TH HALF ST / IH 35 SVRD",
+    "primary_st": " 38TH HALF ST",
+    "cross_st": "IH 35 SVRD",
+    "lat": 30.294981,
+    "lon": -97.719772,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.719772,
+        30.294981
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/76.jpg",
+    "traffic_7d": 7685,
+    "obs_7d": 18,
+    "score": 7685,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "121",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 15TH ST / TRINITY ST",
+    "cross_streets": "15TH ST / TRINITY ST",
+    "primary_st": " 15TH ST",
+    "cross_st": " TRINITY ST",
+    "lat": 30.275942,
+    "lon": -97.736031,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.736031,
+        30.275942
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/121.jpg",
+    "traffic_7d": 7674,
+    "obs_7d": 5,
+    "score": 7674,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "508",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " ENFIELD RD / EXPOSITION BLVD",
+    "cross_streets": "ENFIELD RD / EXPOSITION BLVD",
+    "primary_st": " ENFIELD RD",
+    "cross_st": " EXPOSITION BLVD",
+    "lat": 30.290598,
+    "lon": -97.772057,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.772057,
+        30.290598
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/508.jpg",
+    "traffic_7d": 7663,
+    "obs_7d": 19,
+    "score": 7663,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "544",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CAMERON RD / RUTHERFORD LN",
+    "cross_streets": "CAMERON RD / RUTHERFORD LN",
+    "primary_st": " CAMERON RD",
+    "cross_st": " RUTHERFORD LN",
+    "lat": 30.337326,
+    "lon": -97.683243,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.683243,
+        30.337326
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/544.jpg",
+    "traffic_7d": 7536,
+    "obs_7d": 24,
+    "score": 7536,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1434",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " MIDDLE FISKVILLE RD / HIGHLAND MALL BLVD (Highland Mall )",
+    "cross_streets": "MIDDLE FISKVILLE RD / HIGHLAND MALL BLVD",
+    "primary_st": " MIDDLE FISKVILLE RD",
+    "cross_st": " HIGHLAND MALL BLVD",
+    "lat": 30.326227,
+    "lon": -97.70843,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.70843,
+        30.326227
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1434.jpg",
+    "traffic_7d": 7528,
+    "obs_7d": 2,
+    "score": 7528,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "469",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BURNET RD / RUTLAND DR",
+    "cross_streets": "BURNET RD / RUTLAND DR",
+    "primary_st": " BURNET RD",
+    "cross_st": " RUTLAND DR",
+    "lat": 30.383427,
+    "lon": -97.724075,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.724075,
+        30.383427
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/469.jpg",
+    "traffic_7d": 7497,
+    "obs_7d": 16,
+    "score": 7497,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "545",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 12TH ST / RED RIVER ST",
+    "cross_streets": "12TH ST / RED RIVER ST",
+    "primary_st": " 12TH ST",
+    "cross_st": " RED RIVER ST",
+    "lat": 30.27232,
+    "lon": -97.735046,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.735046,
+        30.27232
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/545.jpg",
+    "traffic_7d": 7462,
+    "obs_7d": 11,
+    "score": 7462,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "499",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " STASSNEY LN / 1ST ST",
+    "cross_streets": "STASSNEY LN / 1ST ST",
+    "primary_st": " STASSNEY LN",
+    "cross_st": " 1ST ST",
+    "lat": 30.208471,
+    "lon": -97.781525,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.781525,
+        30.208471
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/499.jpg",
+    "traffic_7d": 7412,
+    "obs_7d": 0,
+    "score": 7412,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "59",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " AIRPORT BLVD / LAMAR BLVD",
+    "cross_streets": "AIRPORT BLVD / LAMAR BLVD",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " LAMAR BLVD",
+    "lat": 30.337629,
+    "lon": -97.718872,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.718872,
+        30.337629
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/59.jpg",
+    "traffic_7d": 7403,
+    "obs_7d": 0,
+    "score": 7403,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "13",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " RIVERSIDE DR / ROYAL CREST DR",
+    "cross_streets": "RIVERSIDE DR / ROYAL CREST DR",
+    "primary_st": " RIVERSIDE DR",
+    "cross_st": " ROYAL CREST DR",
+    "lat": 30.241785,
+    "lon": -97.728287,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.728287,
+        30.241785
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/13.jpg",
+    "traffic_7d": 7381,
+    "obs_7d": 12,
+    "score": 7381,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "6",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAVACA ST / 3RD ST",
+    "cross_streets": "LAVACA ST / 3RD ST",
+    "primary_st": " LAVACA ST",
+    "cross_st": " 3RD ST",
+    "lat": 30.26593,
+    "lon": -97.746246,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.746246,
+        30.26593
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/6.jpg",
+    "traffic_7d": 7353,
+    "obs_7d": 25,
+    "score": 7353,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1395",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " ROBERT DEDMAN DR / TRINITY ST",
+    "cross_streets": "ROBERT DEDMAN DR / TRINITY ST",
+    "primary_st": " ROBERT DEDMAN DR",
+    "cross_st": " TRINITY ST",
+    "lat": 30.287514,
+    "lon": -97.729972,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.729972,
+        30.287514
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1395.jpg",
+    "traffic_7d": 7347,
+    "obs_7d": 0,
+    "score": 7347,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1020",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " RESEARCH BLVD SVRD / ANDERSON SQ",
+    "cross_streets": "RESEARCH BLVD SVRD / ANDERSON SQ",
+    "primary_st": " RESEARCH BLVD SVRD",
+    "cross_st": " ANDERSON SQ",
+    "lat": 30.353102,
+    "lon": -97.714195,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.714195,
+        30.353102
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1020.jpg",
+    "traffic_7d": 7299,
+    "obs_7d": 2,
+    "score": 7299,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1359",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " WILLIAM CANNON DR / BANNOCKBURN DR",
+    "cross_streets": "WILLIAM CANNON DR / BANNOCKBURN DR",
+    "primary_st": " WILLIAM CANNON DR",
+    "cross_st": " BANNOCKBURN DR",
+    "lat": 30.216899,
+    "lon": -97.834185,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.834185,
+        30.216899
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1359.jpg",
+    "traffic_7d": 7295,
+    "obs_7d": 1,
+    "score": 7295,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1011",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BURNET RD / RESEARCH BLVD SVRD",
+    "cross_streets": "BURNET RD / RESEARCH BLVD SVRD",
+    "primary_st": " BURNET RD",
+    "cross_st": " RESEARCH BLVD SVRD",
+    "lat": 30.373507,
+    "lon": -97.726288,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.726288,
+        30.373507
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1011.jpg",
+    "traffic_7d": 7224,
+    "obs_7d": 29,
+    "score": 7224,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "744",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "4101 BLK W WILLIAM CANNON DR (COSTCO)",
+    "cross_streets": "WILLIAM CANNON DR",
+    "primary_st": " WILLIAM CANNON DR",
+    "cross_st": null,
+    "lat": 30.22241,
+    "lon": -97.839043,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.839043,
+        30.22241
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/744.jpg",
+    "traffic_7d": 7181,
+    "obs_7d": 2,
+    "score": 7181,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "150",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CESAR CHAVEZ ST / PLEASANT VALLEY RD",
+    "cross_streets": "CESAR CHAVEZ ST / PLEASANT VALLEY RD",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": " PLEASANT VALLEY RD",
+    "lat": 30.252989,
+    "lon": -97.712784,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.712784,
+        30.252989
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/150.jpg",
+    "traffic_7d": 7178,
+    "obs_7d": 138,
+    "score": 7178,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "640",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " WEST GATE BLVD / JONES RD",
+    "cross_streets": "WEST GATE BLVD / JONES RD",
+    "primary_st": " WEST GATE BLVD",
+    "cross_st": " JONES RD",
+    "lat": 30.225609,
+    "lon": -97.803871,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.803871,
+        30.225609
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/640.jpg",
+    "traffic_7d": 7145,
+    "obs_7d": 12,
+    "score": 7145,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "740",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " SLAUGHTER LN / WOLFTRAP DR",
+    "cross_streets": "SLAUGHTER LN / WOLFTRAP DR",
+    "primary_st": " SLAUGHTER LN",
+    "cross_st": " WOLFTRAP DR",
+    "lat": 30.186686,
+    "lon": -97.855034,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.855034,
+        30.186686
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/740.jpg",
+    "traffic_7d": 7132,
+    "obs_7d": 1,
+    "score": 7132,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "407",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " DEAN KEETON ST / WICHITA ST",
+    "cross_streets": "DEAN KEETON ST / WICHITA ST",
+    "primary_st": " DEAN KEETON ST",
+    "cross_st": " WICHITA ST",
+    "lat": 30.28956,
+    "lon": -97.737991,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.737991,
+        30.28956
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/407.jpg",
+    "traffic_7d": 7131,
+    "obs_7d": 5,
+    "score": 7131,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1537",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 12TH ST / CHICON ST",
+    "cross_streets": "12TH ST / CHICON ST",
+    "primary_st": " 12TH ST",
+    "cross_st": " CHICON ST",
+    "lat": 30.273787,
+    "lon": -97.71991,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.71991,
+        30.273787
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1537.jpg",
+    "traffic_7d": 7124,
+    "obs_7d": 24,
+    "score": 7124,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "368",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " SOUTHWEST PKWY / MOPAC EXPY SVRD",
+    "cross_streets": "SOUTHWEST PKWY / MOPAC EXPY SVRD",
+    "primary_st": " SOUTHWEST PKWY",
+    "cross_st": " MOPAC EXPY SVRD",
+    "lat": 30.236431,
+    "lon": -97.822525,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.822525,
+        30.236431
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/368.jpg",
+    "traffic_7d": 7119,
+    "obs_7d": 0,
+    "score": 7119,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "517",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "3201 BLK S LAMAR BLVD (BROKEN SPOKE)",
+    "cross_streets": "LAMAR BLVD",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": null,
+    "lat": 30.240471,
+    "lon": -97.786667,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.786667,
+        30.240471
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/517.jpg",
+    "traffic_7d": 7117,
+    "obs_7d": 20,
+    "score": 7117,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1294",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " GUADALUPE ST / 9TH ST",
+    "cross_streets": "GUADALUPE ST / 9TH ST",
+    "primary_st": " GUADALUPE ST",
+    "cross_st": " 9TH ST",
+    "lat": 30.27182,
+    "lon": -97.745232,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.745232,
+        30.27182
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1294.jpg",
+    "traffic_7d": 7104,
+    "obs_7d": 32,
+    "score": 7104,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "126",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CESAR CHAVEZ ST / WALTER SEAHOLM DR",
+    "cross_streets": "CESAR CHAVEZ ST / WALTER SEAHOLM DR",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": " WALTER SEAHOLM DR",
+    "lat": 30.266,
+    "lon": -97.75353,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.75353,
+        30.266
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/126.jpg",
+    "traffic_7d": 7087,
+    "obs_7d": 35,
+    "score": 7087,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "217",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " MARTIN LUTHER KING JR BLVD / SPRINGDALE RD",
+    "cross_streets": "MARTIN LUTHER KING JR BLVD / SPRINGDALE RD",
+    "primary_st": " MARTIN LUTHER KING JR BLVD",
+    "cross_st": " SPRINGDALE RD",
+    "lat": 30.285862,
+    "lon": -97.682625,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.682625,
+        30.285862
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/217.jpg",
+    "traffic_7d": 7077,
+    "obs_7d": 64,
+    "score": 7077,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "395",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 45TH ST / DUVAL ST",
+    "cross_streets": "45TH ST / DUVAL ST",
+    "primary_st": " 45TH ST",
+    "cross_st": " DUVAL ST",
+    "lat": 30.306995,
+    "lon": -97.724587,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.724587,
+        30.306995
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/395.jpg",
+    "traffic_7d": 7077,
+    "obs_7d": 10,
+    "score": 7077,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "167",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAKE AUSTIN BLVD / ATLANTA ST",
+    "cross_streets": "LAKE AUSTIN BLVD / ATLANTA ST",
+    "primary_st": " LAKE AUSTIN BLVD",
+    "cross_st": " ATLANTA ST",
+    "lat": 30.277218,
+    "lon": -97.770485,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.770485,
+        30.277218
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/167.jpg",
+    "traffic_7d": 7059,
+    "obs_7d": 13,
+    "score": 7059,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "505",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BURNET RD / WATERFORD CENTRE BLVD",
+    "cross_streets": "BURNET RD / WATERFORD CENTRE BLVD",
+    "primary_st": " BURNET RD",
+    "cross_st": " WATERFORD CENTRE BLVD",
+    "lat": 30.377354,
+    "lon": -97.725472,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.725472,
+        30.377354
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/505.jpg",
+    "traffic_7d": 7055,
+    "obs_7d": 15,
+    "score": 7055,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "714",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " WILLIAM CANNON DR / EMERALD FOREST DR",
+    "cross_streets": "WILLIAM CANNON DR / EMERALD FOREST DR",
+    "primary_st": " WILLIAM CANNON DR",
+    "cross_st": " EMERALD FOREST DR",
+    "lat": 30.199259,
+    "lon": -97.79361,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.79361,
+        30.199259
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/714.jpg",
+    "traffic_7d": 7011,
+    "obs_7d": 14,
+    "score": 7011,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "107",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " SAN JACINTO BLVD / 2ND ST",
+    "cross_streets": "SAN JACINTO BLVD / 2ND ST",
+    "primary_st": " SAN JACINTO BLVD",
+    "cross_st": " 2ND ST",
+    "lat": 30.263641,
+    "lon": -97.741791,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.741791,
+        30.263641
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/107.jpg",
+    "traffic_7d": 6976,
+    "obs_7d": 29,
+    "score": 6976,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "559",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 8TH ST / COLORADO ST",
+    "cross_streets": "8TH ST / COLORADO ST",
+    "primary_st": " 8TH ST",
+    "cross_st": " COLORADO ST",
+    "lat": 30.270268,
+    "lon": -97.743416,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.743416,
+        30.270268
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/559.jpg",
+    "traffic_7d": 6963,
+    "obs_7d": 20,
+    "score": 6963,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "401",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " MANOR RD / LOYOLA LN",
+    "cross_streets": "MANOR RD / LOYOLA LN",
+    "primary_st": " MANOR RD",
+    "cross_st": " LOYOLA LN",
+    "lat": 30.310062,
+    "lon": -97.667152,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.667152,
+        30.310062
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/401.jpg",
+    "traffic_7d": 6933,
+    "obs_7d": 13,
+    "score": 6933,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "582",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CESAR CHAVEZ ST / RED RIVER ST",
+    "cross_streets": "CESAR CHAVEZ ST / RED RIVER ST",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": " RED RIVER ST",
+    "lat": 30.261782,
+    "lon": -97.738792,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.738792,
+        30.261782
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/582.jpg",
+    "traffic_7d": 6915,
+    "obs_7d": 88,
+    "score": 6915,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "286",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "IH 35 SVRD / 32ND ST",
+    "cross_streets": "IH 35 SVRD / 32ND ST",
+    "primary_st": "IH 35 SVRD",
+    "cross_st": " 32ND ST",
+    "lat": 30.289063,
+    "lon": -97.723053,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.723053,
+        30.289063
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/286.jpg",
+    "traffic_7d": 6901,
+    "obs_7d": 6,
+    "score": 6901,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "65",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " MARTIN LUTHER KING JR BLVD / TRINITY ST",
+    "cross_streets": "MARTIN LUTHER KING JR BLVD / TRINITY ST",
+    "primary_st": " MARTIN LUTHER KING JR BLVD",
+    "cross_st": " TRINITY ST",
+    "lat": 30.279638,
+    "lon": -97.734512,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.734512,
+        30.279638
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/65.jpg",
+    "traffic_7d": 6884,
+    "obs_7d": 41,
+    "score": 6884,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "538",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "SH 71 SVRD / PRESIDENTIAL BLVD (CARDINAL LOOP)",
+    "cross_streets": "SH 71 SVRD / PRESIDENTIAL BLVD",
+    "primary_st": "SH 71 SVRD",
+    "cross_st": " PRESIDENTIAL BLVD",
+    "lat": 30.21267,
+    "lon": -97.65884,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.65884,
+        30.21267
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/538.jpg",
+    "traffic_7d": 6863,
+    "obs_7d": 0,
+    "score": 6863,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "573",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " ANDERSON LN SVRD / LAMAR BLVD SVRD",
+    "cross_streets": "ANDERSON LN SVRD / LAMAR BLVD SVRD",
+    "primary_st": " ANDERSON LN SVRD",
+    "cross_st": " LAMAR BLVD SVRD",
+    "lat": 30.347004,
+    "lon": -97.712425,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.712425,
+        30.347004
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/573.jpg",
+    "traffic_7d": 6851,
+    "obs_7d": 0,
+    "score": 6851,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "196",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " HOWARD LN / DESSAU RD",
+    "cross_streets": "HOWARD LN / DESSAU RD",
+    "primary_st": " HOWARD LN",
+    "cross_st": " DESSAU RD",
+    "lat": 30.40365,
+    "lon": -97.638428,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.638428,
+        30.40365
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/196.jpg",
+    "traffic_7d": 6801,
+    "obs_7d": 0,
+    "score": 6801,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "307",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " LAMAR BLVD / MORROW ST",
+    "cross_streets": "LAMAR BLVD / MORROW ST",
+    "primary_st": " LAMAR BLVD",
+    "cross_st": " MORROW ST",
+    "lat": 30.343973,
+    "lon": -97.714966,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.714966,
+        30.343973
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/307.jpg",
+    "traffic_7d": 6785,
+    "obs_7d": 3,
+    "score": 6785,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "535",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "US 183 HWY / 812 RD",
+    "cross_streets": "US 183 HWY / FM 812 RD",
+    "primary_st": "US 183 HWY",
+    "cross_st": "FM 812 RD",
+    "lat": 30.164182,
+    "lon": -97.693171,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.693171,
+        30.164182
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/535.jpg",
+    "traffic_7d": 6785,
+    "obs_7d": 0,
+    "score": 6785,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "380",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " BARTON SPRINGS RD / BOULDIN AVE",
+    "cross_streets": "BARTON SPRINGS RD / BOULDIN AVE",
+    "primary_st": " BARTON SPRINGS RD",
+    "cross_st": " BOULDIN AVE",
+    "lat": 30.259584,
+    "lon": -97.753479,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.753479,
+        30.259584
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/380.jpg",
+    "traffic_7d": 6774,
+    "obs_7d": 44,
+    "score": 6774,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1500",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 1ST ST / LIGHTSEY RD",
+    "cross_streets": "1ST ST / LIGHTSEY RD",
+    "primary_st": " 1ST ST",
+    "cross_st": " LIGHTSEY RD",
+    "lat": 30.23241,
+    "lon": -97.765732,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.765732,
+        30.23241
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1500.jpg",
+    "traffic_7d": 6771,
+    "obs_7d": 9,
+    "score": 6771,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1445",
+    "series_id": "peak_geofence_expanded",
+    "location_name": "8700 BLK BURNET RD (South of US183)",
+    "cross_streets": "BURNET RD",
+    "primary_st": " BURNET RD",
+    "cross_st": null,
+    "lat": 30.370964,
+    "lon": -97.726965,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.726965,
+        30.370964
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1445.jpg",
+    "traffic_7d": 6735,
+    "obs_7d": 30,
+    "score": 6735,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "132",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 6TH ST / LAVACA ST",
+    "cross_streets": "6TH ST / LAVACA ST",
+    "primary_st": " 6TH ST",
+    "cross_st": " LAVACA ST",
+    "lat": 30.268717,
+    "lon": -97.745201,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.745201,
+        30.268717
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/132.jpg",
+    "traffic_7d": 6680,
+    "obs_7d": 34,
+    "score": 6680,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "131",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 7TH ST / SAN JACINTO BLVD",
+    "cross_streets": "7TH ST / SAN JACINTO BLVD",
+    "primary_st": " 7TH ST",
+    "cross_st": " SAN JACINTO BLVD",
+    "lat": 30.268295,
+    "lon": -97.740036,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.740036,
+        30.268295
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/131.jpg",
+    "traffic_7d": 6674,
+    "obs_7d": 16,
+    "score": 6674,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "1393",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " OLTORF ST / PARKER LN",
+    "cross_streets": "OLTORF ST / PARKER LN",
+    "primary_st": " OLTORF ST",
+    "cross_st": " PARKER LN",
+    "lat": 30.232315,
+    "lon": -97.736885,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.736885,
+        30.232315
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/1393.jpg",
+    "traffic_7d": 6669,
+    "obs_7d": 17,
+    "score": 6669,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "539",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " CESAR CHAVEZ ST / SANDRA MURAIDA WAY",
+    "cross_streets": "CESAR CHAVEZ ST / SANDRA MURAIDA WAY",
+    "primary_st": " CESAR CHAVEZ ST",
+    "cross_st": " SANDRA MURAIDA WAY",
+    "lat": 30.266434,
+    "lon": -97.755539,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.755539,
+        30.266434
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/539.jpg",
+    "traffic_7d": 6663,
+    "obs_7d": 12,
+    "score": 6663,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "149",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " 7TH ST / PLEASANT VALLEY RD",
+    "cross_streets": "7TH ST / PLEASANT VALLEY RD",
+    "primary_st": " 7TH ST",
+    "cross_st": " PLEASANT VALLEY RD",
+    "lat": 30.260126,
+    "lon": -97.709496,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.709496,
+        30.260126
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/149.jpg",
+    "traffic_7d": 6645,
+    "obs_7d": 36,
+    "score": 6645,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  },
+  {
+    "camera_id": "620",
+    "series_id": "peak_geofence_expanded",
+    "location_name": " AIRPORT BLVD / GOODWIN AVE",
+    "cross_streets": "AIRPORT BLVD / GOODWIN AVE",
+    "primary_st": " AIRPORT BLVD",
+    "cross_st": " GOODWIN AVE",
+    "lat": 30.268101,
+    "lon": -97.696274,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -97.696274,
+        30.268101
+      ]
+    },
+    "camera_status": "TURNED_ON",
+    "screenshot_address": "https://cctv.austinmobility.io/image/620.jpg",
+    "traffic_7d": 6610,
+    "obs_7d": 4,
+    "score": 6610,
+    "source": "expanded_fill",
+    "in_core_panel": false
+  }
+]

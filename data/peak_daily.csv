@@ -1,0 +1,17 @@
+date,snapshots,vehicles,cybercabs_raw,cybercabs_deduped,cybercabs,per_1k_vehicles,per_1k_snapshots,cams_ok,cams_offline,am_cycles,notes
+2026-10-24,407,2933,4,4,4,1.364,9.828,81,0,6,thin_window_6_of_~18_cycles;sample_once_hung_at_0834_CDT_until_watchdog_0956;partial_cycle_133416Z_5frames;first_series_day
+2026-10-26,981,12213,13,13,13,1.064,13.252,75,6,17,offline_cams=6
+2026-10-27,1105,15191,12,10,10,0.658,9.05,77,4,19,offline_cams=4;dedupe_raw=12
+2026-10-28,1029,14592,17,13,13,0.891,12.634,67,14,21,offline_cams=14;dedupe_raw=17
+2026-10-29,1558,18078,10,9,9,0.498,5.777,79,2,22,offline_cams=2;dedupe_raw=10
+2026-10-30,1166,14280,12,12,12,0.84,10.292,70,11,20,offline_cams=11
+2026-10-31,1659,9594,13,13,13,1.355,7.836,79,2,21,offline_cams=2
+2026-11-01,1732,8709,16,15,15,1.722,8.661,79,2,24,offline_cams=2;dedupe_raw=16
+2026-11-02,1573,20168,18,17,17,0.843,10.807,78,3,24,offline_cams=3;dedupe_raw=18
+2026-11-03,1702,21975,20,20,20,0.91,11.751,78,3,23,offline_cams=3
+2026-11-04,1594,17990,15,15,15,0.834,9.41,76,5,23,offline_cams=5
+2026-11-05,1471,16907,14,13,13,0.769,8.838,76,5,21,offline_cams=5;dedupe_raw=14
+2026-11-06,1445,16324,19,18,18,1.103,12.457,79,2,20,offline_cams=2;dedupe_raw=19
+2026-11-07,1764,12901,22,22,22,1.705,12.472,79,2,25,offline_cams=2
+2026-11-08,1460,5988,14,14,14,2.338,9.589,76,5,24,offline_cams=5
+2026-11-09,1737,18510,37,36,36,1.945,20.725,79,2,22,offline_cams=2;dedupe_raw=37

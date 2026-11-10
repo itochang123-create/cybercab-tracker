@@ -1,0 +1,1179 @@
+{
+  "series_id": "peak_geofence",
+  "method": "Daily Austin Cybercab Camera Monitor",
+  "geofence": "tesla:austin from Robotaxi-Tracker/robotaxi-service-areas (CC BY 4.0)",
+  "started_austin_date": "2026-10-23",
+  "windows_america_chicago": [
+    "07:00-09:00"
+  ],
+  "eligibility": "TURNED_ON + inside geofence + (CCS set OR Tracker obs_7d>0 OR priority corridor name)",
+  "ranking": "area_stats_7d traffic (+ small CCS/corridor tie-break)",
+  "selected": 81,
+  "corridor_counts": {
+    "burnet": 5,
+    "barton_springs": 3,
+    "riverside": 7,
+    "congress": 4,
+    "downtown": 14,
+    "other": 20,
+    "airport": 6,
+    "lamar": 10,
+    "guadalupe": 3,
+    "mlk": 1,
+    "oltorf": 1,
+    "mopac": 3,
+    "ih35": 9,
+    "manor": 1,
+    "cesar_chavez": 6,
+    "us183": 1
+  },
+  "kept_from_geofence_best_50": [
+    "100",
+    "1505",
+    "174",
+    "348",
+    "351",
+    "354",
+    "433",
+    "528",
+    "61",
+    "675",
+    "786",
+    "795",
+    "82",
+    "913",
+    "916",
+    "94",
+    "99"
+  ],
+  "dropped_from_geofence_best_50": [
+    "108",
+    "109",
+    "130",
+    "1302",
+    "1316",
+    "133",
+    "135",
+    "14",
+    "147",
+    "150",
+    "201",
+    "343",
+    "353",
+    "374",
+    "380",
+    "411",
+    "546",
+    "562",
+    "565",
+    "582",
+    "584",
+    "603",
+    "65",
+    "674",
+    "676",
+    "71",
+    "722",
+    "791",
+    "92",
+    "93",
+    "95",
+    "96",
+    "97"
+  ],
+  "added": [
+    "1080",
+    "116",
+    "1321",
+    "1356",
+    "1409",
+    "1413",
+    "143",
+    "1483",
+    "1510",
+    "1511",
+    "1526",
+    "1538",
+    "157",
+    "159",
+    "160",
+    "163",
+    "166",
+    "168",
+    "170",
+    "173",
+    "181",
+    "191",
+    "194",
+    "195",
+    "2",
+    "200",
+    "203",
+    "21",
+    "227",
+    "277",
+    "284",
+    "293",
+    "304",
+    "31",
+    "314",
+    "32",
+    "33",
+    "358",
+    "40",
+    "400",
+    "447",
+    "455",
+    "456",
+    "50",
+    "561",
+    "563",
+    "572",
+    "575",
+    "580",
+    "585",
+    "588",
+    "693",
+    "708",
+    "713",
+    "715",
+    "735",
+    "756",
+    "759",
+    "781",
+    "800",
+    "907",
+    "958",
+    "962",
+    "98"
+  ],
+  "cameras": [
+    {
+      "camera_id": "21",
+      "location_name": " BURNET RD / JUSTIN LN",
+      "lat": 30.345385,
+      "lon": -97.737526,
+      "traffic_7d": 37266,
+      "obs_7d": 0,
+      "corridors": [
+        "burnet"
+      ],
+      "in_ccs": false,
+      "why_selected": "priority corridor: burnet; traffic_7d=37266"
+    },
+    {
+      "camera_id": "32",
+      "location_name": " BARTON SPRINGS RD / RIVERSIDE DR (OTC - NORTHEAST)",
+      "lat": 30.257391,
+      "lon": -97.749041,
+      "traffic_7d": 22798,
+      "obs_7d": 27,
+      "corridors": [
+        "barton_springs",
+        "riverside"
+      ],
+      "in_ccs": false,
+      "why_selected": "27 Tracker Cybercab obs in 7d; priority corridor: barton_springs,riverside; traffic_7d=22798"
+    },
+    {
+      "camera_id": "795",
+      "location_name": "400 BLK S CONGRESS AVE (Music Lane)",
+      "lat": 30.253627,
+      "lon": -97.748178,
+      "traffic_7d": 21148,
+      "obs_7d": 59,
+      "corridors": [
+        "congress"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 59 Tracker Cybercab obs in 7d; priority corridor: congress; traffic_7d=21148"
+    },
+    {
+      "camera_id": "31",
+      "location_name": " BARTON SPRINGS RD / RIVERSIDE DR (OTC - NORTHWEST)",
+      "lat": 30.257478,
+      "lon": -97.748989,
+      "traffic_7d": 19946,
+      "obs_7d": 0,
+      "corridors": [
+        "barton_springs",
+        "riverside"
+      ],
+      "in_ccs": false,
+      "why_selected": "priority corridor: barton_springs,riverside; traffic_7d=19946"
+    },
+    {
+      "camera_id": "293",
+      "location_name": " 24TH ST / NUECES ST",
+      "lat": 30.287828,
+      "lon": -97.743141,
+      "traffic_7d": 19236,
+      "obs_7d": 0,
+      "corridors": [
+        "downtown"
+      ],
+      "in_ccs": false,
+      "why_selected": "priority corridor: downtown; traffic_7d=19236"
+    },
+    {
+      "camera_id": "580",
+      "location_name": " OHLEN RD / RESEARCH BLVD SVRD",
+      "lat": 30.36326,
+      "lon": -97.717262,
+      "traffic_7d": 18684,
+      "obs_7d": 2,
+      "corridors": [],
+      "in_ccs": false,
+      "why_selected": "2 Tracker Cybercab obs in 7d; traffic_7d=18684"
+    },
+    {
+      "camera_id": "1526",
+      "location_name": " AIRPORT BLVD / 55TH ST",
+      "lat": 30.316871,
+      "lon": -97.713697,
+      "traffic_7d": 18542,
+      "obs_7d": 4,
+      "corridors": [
+        "airport",
+        "downtown"
+      ],
+      "in_ccs": false,
+      "why_selected": "4 Tracker Cybercab obs in 7d; priority corridor: airport,downtown; traffic_7d=18542"
+    },
+    {
+      "camera_id": "713",
+      "location_name": " LAMAR BLVD / DICKSON DR",
+      "lat": 30.245348,
+      "lon": -97.779913,
+      "traffic_7d": 18411,
+      "obs_7d": 29,
+      "corridors": [
+        "lamar"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 29 Tracker Cybercab obs in 7d; priority corridor: lamar; traffic_7d=18411"
+    },
+    {
+      "camera_id": "693",
+      "location_name": " LAVACA ST / 17TH ST",
+      "lat": 30.279469,
+      "lon": -97.741203,
+      "traffic_7d": 17953,
+      "obs_7d": 8,
+      "corridors": [
+        "downtown"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 8 Tracker Cybercab obs in 7d; priority corridor: downtown; traffic_7d=17953"
+    },
+    {
+      "camera_id": "33",
+      "location_name": " SAN JACINTO BLVD / 7TH ST (OMNI - SOUTHWEST)",
+      "lat": 30.268688,
+      "lon": -97.740692,
+      "traffic_7d": 17771,
+      "obs_7d": 0,
+      "corridors": [
+        "downtown"
+      ],
+      "in_ccs": false,
+      "why_selected": "priority corridor: downtown; traffic_7d=17771"
+    },
+    {
+      "camera_id": "61",
+      "location_name": " GUADALUPE ST / MARTIN LUTHER KING JR BLVD",
+      "lat": 30.281733,
+      "lon": -97.741928,
+      "traffic_7d": 17538,
+      "obs_7d": 39,
+      "corridors": [
+        "guadalupe",
+        "mlk"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 39 Tracker Cybercab obs in 7d; priority corridor: guadalupe,mlk; traffic_7d=17538"
+    },
+    {
+      "camera_id": "191",
+      "location_name": " LAMAR BLVD / PARMER LN",
+      "lat": 30.407852,
+      "lon": -97.678223,
+      "traffic_7d": 17161,
+      "obs_7d": 2,
+      "corridors": [
+        "lamar"
+      ],
+      "in_ccs": false,
+      "why_selected": "2 Tracker Cybercab obs in 7d; priority corridor: lamar; traffic_7d=17161"
+    },
+    {
+      "camera_id": "98",
+      "location_name": " LAMAR BLVD / OLTORF ST",
+      "lat": 30.248413,
+      "lon": -97.769951,
+      "traffic_7d": 17041,
+      "obs_7d": 38,
+      "corridors": [
+        "lamar",
+        "oltorf"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 38 Tracker Cybercab obs in 7d; priority corridor: lamar,oltorf; traffic_7d=17041"
+    },
+    {
+      "camera_id": "170",
+      "location_name": " MOPAC EXPY SVRD / NORTHLAND DR (West)",
+      "lat": 30.336784,
+      "lon": -97.755959,
+      "traffic_7d": 16200,
+      "obs_7d": 0,
+      "corridors": [
+        "mopac"
+      ],
+      "in_ccs": false,
+      "why_selected": "priority corridor: mopac; traffic_7d=16200"
+    },
+    {
+      "camera_id": "962",
+      "location_name": " 1ST ST / BEN WHITE BLVD SVRD",
+      "lat": 30.226185,
+      "lon": -97.769669,
+      "traffic_7d": 15981,
+      "obs_7d": 25,
+      "corridors": [],
+      "in_ccs": false,
+      "why_selected": "25 Tracker Cybercab obs in 7d; traffic_7d=15981"
+    },
+    {
+      "camera_id": "143",
+      "location_name": " 7TH ST / 35 SVRD",
+      "lat": 30.266821,
+      "lon": -97.734665,
+      "traffic_7d": 15393,
+      "obs_7d": 8,
+      "corridors": [
+        "downtown",
+        "ih35"
+      ],
+      "in_ccs": false,
+      "why_selected": "8 Tracker Cybercab obs in 7d; priority corridor: downtown,ih35; traffic_7d=15393"
+    },
+    {
+      "camera_id": "781",
+      "location_name": "2100 BLK S LAMAR BLVD (Oxford Ave)",
+      "lat": 30.248083,
+      "lon": -97.77121,
+      "traffic_7d": 14928,
+      "obs_7d": 23,
+      "corridors": [
+        "lamar"
+      ],
+      "in_ccs": false,
+      "why_selected": "23 Tracker Cybercab obs in 7d; priority corridor: lamar; traffic_7d=14928"
+    },
+    {
+      "camera_id": "1356",
+      "location_name": "IH 35 SVRD / 6TH ST",
+      "lat": 30.265636,
+      "lon": -97.7342,
+      "traffic_7d": 14858,
+      "obs_7d": 28,
+      "corridors": [
+        "downtown",
+        "ih35"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 28 Tracker Cybercab obs in 7d; priority corridor: downtown,ih35; traffic_7d=14858"
+    },
+    {
+      "camera_id": "166",
+      "location_name": " STASSNEY LN / 35 SVRD",
+      "lat": 30.198195,
+      "lon": -97.763657,
+      "traffic_7d": 14735,
+      "obs_7d": 20,
+      "corridors": [
+        "ih35"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 20 Tracker Cybercab obs in 7d; priority corridor: ih35; traffic_7d=14735"
+    },
+    {
+      "camera_id": "561",
+      "location_name": " COLORADO ST / 4TH ST",
+      "lat": 30.266569,
+      "lon": -97.744812,
+      "traffic_7d": 14569,
+      "obs_7d": 31,
+      "corridors": [
+        "downtown"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 31 Tracker Cybercab obs in 7d; priority corridor: downtown; traffic_7d=14569"
+    },
+    {
+      "camera_id": "116",
+      "location_name": " MENCHACA RD / WILLIAM CANNON DR",
+      "lat": 30.202913,
+      "lon": -97.806908,
+      "traffic_7d": 14565,
+      "obs_7d": 38,
+      "corridors": [],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 38 Tracker Cybercab obs in 7d; traffic_7d=14565"
+    },
+    {
+      "camera_id": "358",
+      "location_name": " 6TH ST / 35 SVRD",
+      "lat": 30.265881,
+      "lon": -97.735001,
+      "traffic_7d": 14305,
+      "obs_7d": 31,
+      "corridors": [
+        "downtown",
+        "ih35"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 31 Tracker Cybercab obs in 7d; priority corridor: downtown,ih35; traffic_7d=14305"
+    },
+    {
+      "camera_id": "157",
+      "location_name": " WILLIAM CANNON DR / 1ST ST",
+      "lat": 30.197098,
+      "lon": -97.787819,
+      "traffic_7d": 14157,
+      "obs_7d": 28,
+      "corridors": [],
+      "in_ccs": false,
+      "why_selected": "28 Tracker Cybercab obs in 7d; traffic_7d=14157"
+    },
+    {
+      "camera_id": "94",
+      "location_name": " LAMAR BLVD / 12TH ST",
+      "lat": 30.276897,
+      "lon": -97.751396,
+      "traffic_7d": 14155,
+      "obs_7d": 39,
+      "corridors": [
+        "lamar"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 39 Tracker Cybercab obs in 7d; priority corridor: lamar; traffic_7d=14155"
+    },
+    {
+      "camera_id": "314",
+      "location_name": " LAMAR BLVD / 9TH ST",
+      "lat": 30.273949,
+      "lon": -97.752777,
+      "traffic_7d": 14125,
+      "obs_7d": 28,
+      "corridors": [
+        "lamar"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 28 Tracker Cybercab obs in 7d; priority corridor: lamar; traffic_7d=14125"
+    },
+    {
+      "camera_id": "351",
+      "location_name": " 6TH ST / GUADALUPE ST",
+      "lat": 30.269024,
+      "lon": -97.746262,
+      "traffic_7d": 14013,
+      "obs_7d": 87,
+      "corridors": [
+        "downtown",
+        "guadalupe"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 87 Tracker Cybercab obs in 7d; priority corridor: downtown,guadalupe; traffic_7d=14013"
+    },
+    {
+      "camera_id": "708",
+      "location_name": " BURNET RD / RICHCREEK RD",
+      "lat": 30.350573,
+      "lon": -97.734337,
+      "traffic_7d": 13984,
+      "obs_7d": 5,
+      "corridors": [
+        "burnet"
+      ],
+      "in_ccs": false,
+      "why_selected": "5 Tracker Cybercab obs in 7d; priority corridor: burnet; traffic_7d=13984"
+    },
+    {
+      "camera_id": "174",
+      "location_name": " BRAKER LN / BURNET RD",
+      "lat": 30.391165,
+      "lon": -97.721809,
+      "traffic_7d": 13963,
+      "obs_7d": 70,
+      "corridors": [
+        "burnet"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 70 Tracker Cybercab obs in 7d; priority corridor: burnet; traffic_7d=13963"
+    },
+    {
+      "camera_id": "456",
+      "location_name": " AIRPORT BLVD / BOLM RD",
+      "lat": 30.260094,
+      "lon": -97.693863,
+      "traffic_7d": 13794,
+      "obs_7d": 21,
+      "corridors": [
+        "airport"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 21 Tracker Cybercab obs in 7d; priority corridor: airport; traffic_7d=13794"
+    },
+    {
+      "camera_id": "163",
+      "location_name": " BRODIE LN / WILLIAM CANNON DR",
+      "lat": 30.213778,
+      "lon": -97.830383,
+      "traffic_7d": 13742,
+      "obs_7d": 8,
+      "corridors": [],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 8 Tracker Cybercab obs in 7d; traffic_7d=13742"
+    },
+    {
+      "camera_id": "907",
+      "location_name": " FAR WEST BLVD / VILLAGE CENTER DR",
+      "lat": 30.354349,
+      "lon": -97.755081,
+      "traffic_7d": 13735,
+      "obs_7d": 2,
+      "corridors": [],
+      "in_ccs": false,
+      "why_selected": "2 Tracker Cybercab obs in 7d; traffic_7d=13735"
+    },
+    {
+      "camera_id": "1413",
+      "location_name": "1500 BLK S PLEASANT VALLEY RD (HEB)",
+      "lat": 30.235701,
+      "lon": -97.72152,
+      "traffic_7d": 13594,
+      "obs_7d": 7,
+      "corridors": [],
+      "in_ccs": false,
+      "why_selected": "7 Tracker Cybercab obs in 7d; traffic_7d=13594"
+    },
+    {
+      "camera_id": "354",
+      "location_name": " 5TH ST / CONGRESS AVE",
+      "lat": 30.267119,
+      "lon": -97.743172,
+      "traffic_7d": 13439,
+      "obs_7d": 128,
+      "corridors": [
+        "congress",
+        "downtown"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 128 Tracker Cybercab obs in 7d; priority corridor: congress,downtown; traffic_7d=13439"
+    },
+    {
+      "camera_id": "1080",
+      "location_name": " CAPITAL OF TEXAS HWY / RESEARCH BLVD SVRD",
+      "lat": 30.389793,
+      "lon": -97.744301,
+      "traffic_7d": 13396,
+      "obs_7d": 3,
+      "corridors": [],
+      "in_ccs": false,
+      "why_selected": "3 Tracker Cybercab obs in 7d; traffic_7d=13396"
+    },
+    {
+      "camera_id": "82",
+      "location_name": " ALLANDALE RD / BURNET RD (KOENIG LN)",
+      "lat": 30.334852,
+      "lon": -97.739822,
+      "traffic_7d": 13395,
+      "obs_7d": 48,
+      "corridors": [
+        "burnet"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 48 Tracker Cybercab obs in 7d; priority corridor: burnet; traffic_7d=13395"
+    },
+    {
+      "camera_id": "563",
+      "location_name": " COLORADO ST / 2ND ST",
+      "lat": 30.264683,
+      "lon": -97.745514,
+      "traffic_7d": 13176,
+      "obs_7d": 12,
+      "corridors": [
+        "downtown"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 12 Tracker Cybercab obs in 7d; priority corridor: downtown; traffic_7d=13176"
+    },
+    {
+      "camera_id": "1483",
+      "location_name": " RUNDBERG LN / MIDDLE FISKVILLE RD",
+      "lat": 30.357435,
+      "lon": -97.686508,
+      "traffic_7d": 13170,
+      "obs_7d": 3,
+      "corridors": [],
+      "in_ccs": false,
+      "why_selected": "3 Tracker Cybercab obs in 7d; traffic_7d=13170"
+    },
+    {
+      "camera_id": "715",
+      "location_name": " WILLIAM CANNON DR / CIRCLE S RD",
+      "lat": 30.192722,
+      "lon": -97.777596,
+      "traffic_7d": 13148,
+      "obs_7d": 7,
+      "corridors": [],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 7 Tracker Cybercab obs in 7d; traffic_7d=13148"
+    },
+    {
+      "camera_id": "1321",
+      "location_name": "1137 BLK AIRPORT BLVD (Airport & Shopping Center)",
+      "lat": 30.27254,
+      "lon": -97.697583,
+      "traffic_7d": 13112,
+      "obs_7d": 6,
+      "corridors": [
+        "airport"
+      ],
+      "in_ccs": false,
+      "why_selected": "6 Tracker Cybercab obs in 7d; priority corridor: airport; traffic_7d=13112"
+    },
+    {
+      "camera_id": "400",
+      "location_name": " MANOR RD / SUSQUEHANNA LN",
+      "lat": 30.313078,
+      "lon": -97.665009,
+      "traffic_7d": 13085,
+      "obs_7d": 14,
+      "corridors": [
+        "manor"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 14 Tracker Cybercab obs in 7d; priority corridor: manor; traffic_7d=13085"
+    },
+    {
+      "camera_id": "1505",
+      "location_name": " CESAR CHAVEZ ST / NUECES ST",
+      "lat": 30.264984,
+      "lon": -97.750216,
+      "traffic_7d": 12997,
+      "obs_7d": 61,
+      "corridors": [
+        "cesar_chavez"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 61 Tracker Cybercab obs in 7d; priority corridor: cesar_chavez; traffic_7d=12997"
+    },
+    {
+      "camera_id": "786",
+      "location_name": " CESAR CHAVEZ ST / SAN JACINTO BLVD",
+      "lat": 30.262692,
+      "lon": -97.742104,
+      "traffic_7d": 12968,
+      "obs_7d": 181,
+      "corridors": [
+        "cesar_chavez"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 181 Tracker Cybercab obs in 7d; priority corridor: cesar_chavez; traffic_7d=12968"
+    },
+    {
+      "camera_id": "160",
+      "location_name": " WILLIAM CANNON DR / BLUFF SPRINGS RD",
+      "lat": 30.189196,
+      "lon": -97.767891,
+      "traffic_7d": 12857,
+      "obs_7d": 15,
+      "corridors": [],
+      "in_ccs": false,
+      "why_selected": "15 Tracker Cybercab obs in 7d; traffic_7d=12857"
+    },
+    {
+      "camera_id": "1510",
+      "location_name": " RIVERSIDE DR / MANLOVE ST",
+      "lat": 30.247469,
+      "lon": -97.733571,
+      "traffic_7d": 12623,
+      "obs_7d": 8,
+      "corridors": [
+        "riverside"
+      ],
+      "in_ccs": false,
+      "why_selected": "8 Tracker Cybercab obs in 7d; priority corridor: riverside; traffic_7d=12623"
+    },
+    {
+      "camera_id": "1511",
+      "location_name": " RIVERSIDE DR / MANLOVE ST",
+      "lat": 30.247473,
+      "lon": -97.73356,
+      "traffic_7d": 12621,
+      "obs_7d": 11,
+      "corridors": [
+        "riverside"
+      ],
+      "in_ccs": false,
+      "why_selected": "11 Tracker Cybercab obs in 7d; priority corridor: riverside; traffic_7d=12621"
+    },
+    {
+      "camera_id": "528",
+      "location_name": " 15TH ST / LAVACA ST",
+      "lat": 30.277605,
+      "lon": -97.741928,
+      "traffic_7d": 12481,
+      "obs_7d": 73,
+      "corridors": [
+        "downtown"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 73 Tracker Cybercab obs in 7d; priority corridor: downtown; traffic_7d=12481"
+    },
+    {
+      "camera_id": "284",
+      "location_name": " CAMERON RD / RUNDBERG LN",
+      "lat": 30.350773,
+      "lon": -97.675972,
+      "traffic_7d": 12468,
+      "obs_7d": 8,
+      "corridors": [],
+      "in_ccs": false,
+      "why_selected": "8 Tracker Cybercab obs in 7d; traffic_7d=12468"
+    },
+    {
+      "camera_id": "100",
+      "location_name": " LAMAR BLVD / BARTON SPRINGS RD",
+      "lat": 30.260862,
+      "lon": -97.758522,
+      "traffic_7d": 12346,
+      "obs_7d": 128,
+      "corridors": [
+        "barton_springs",
+        "lamar"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 128 Tracker Cybercab obs in 7d; priority corridor: barton_springs,lamar; traffic_7d=12346"
+    },
+    {
+      "camera_id": "194",
+      "location_name": " BURLESON RD / MONTOPOLIS DR",
+      "lat": 30.205563,
+      "lon": -97.716591,
+      "traffic_7d": 12332,
+      "obs_7d": 16,
+      "corridors": [],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 16 Tracker Cybercab obs in 7d; traffic_7d=12332"
+    },
+    {
+      "camera_id": "958",
+      "location_name": " BRAKER LN / MOPAC EXPY SVRD",
+      "lat": 30.396101,
+      "lon": -97.733398,
+      "traffic_7d": 12101,
+      "obs_7d": 25,
+      "corridors": [
+        "mopac"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 25 Tracker Cybercab obs in 7d; priority corridor: mopac; traffic_7d=12101"
+    },
+    {
+      "camera_id": "575",
+      "location_name": " 7TH ST / 35 SVRD",
+      "lat": 30.266571,
+      "lon": -97.733856,
+      "traffic_7d": 12058,
+      "obs_7d": 17,
+      "corridors": [
+        "downtown",
+        "ih35"
+      ],
+      "in_ccs": false,
+      "why_selected": "17 Tracker Cybercab obs in 7d; priority corridor: downtown,ih35; traffic_7d=12058"
+    },
+    {
+      "camera_id": "173",
+      "location_name": " BRAKER LN / METRIC BLVD",
+      "lat": 30.392342,
+      "lon": -97.708283,
+      "traffic_7d": 12028,
+      "obs_7d": 6,
+      "corridors": [],
+      "in_ccs": false,
+      "why_selected": "6 Tracker Cybercab obs in 7d; traffic_7d=12028"
+    },
+    {
+      "camera_id": "585",
+      "location_name": " GUADALUPE ST / 8TH ST",
+      "lat": 30.270872,
+      "lon": -97.74559,
+      "traffic_7d": 11998,
+      "obs_7d": 21,
+      "corridors": [
+        "guadalupe"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 21 Tracker Cybercab obs in 7d; priority corridor: guadalupe; traffic_7d=11998"
+    },
+    {
+      "camera_id": "800",
+      "location_name": " BRAKER LN / DOMAIN DR (Pickle Research Campus Driveway)",
+      "lat": 30.392347,
+      "lon": -97.725624,
+      "traffic_7d": 11905,
+      "obs_7d": 9,
+      "corridors": [],
+      "in_ccs": false,
+      "why_selected": "9 Tracker Cybercab obs in 7d; traffic_7d=11905"
+    },
+    {
+      "camera_id": "455",
+      "location_name": " AIRPORT BLVD / 12TH ST",
+      "lat": 30.276861,
+      "lon": -97.700333,
+      "traffic_7d": 11895,
+      "obs_7d": 28,
+      "corridors": [
+        "airport"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 28 Tracker Cybercab obs in 7d; priority corridor: airport; traffic_7d=11895"
+    },
+    {
+      "camera_id": "50",
+      "location_name": " CESAR CHAVEZ ST / BRAZOS ST (BRAZOS GARAGE)",
+      "lat": 30.263094,
+      "lon": -97.743067,
+      "traffic_7d": 11764,
+      "obs_7d": 8,
+      "corridors": [
+        "cesar_chavez"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 8 Tracker Cybercab obs in 7d; priority corridor: cesar_chavez; traffic_7d=11764"
+    },
+    {
+      "camera_id": "913",
+      "location_name": " RIVERSIDE DR / BURTON DR",
+      "lat": 30.24024,
+      "lon": -97.727036,
+      "traffic_7d": 11661,
+      "obs_7d": 50,
+      "corridors": [
+        "riverside"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 50 Tracker Cybercab obs in 7d; priority corridor: riverside; traffic_7d=11661"
+    },
+    {
+      "camera_id": "348",
+      "location_name": " 6TH ST / WEST AVE",
+      "lat": 30.270296,
+      "lon": -97.750588,
+      "traffic_7d": 11652,
+      "obs_7d": 42,
+      "corridors": [
+        "downtown"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 42 Tracker Cybercab obs in 7d; priority corridor: downtown; traffic_7d=11652"
+    },
+    {
+      "camera_id": "159",
+      "location_name": " WILLIAM CANNON DR / 35 SVRD",
+      "lat": 30.190245,
+      "lon": -97.770111,
+      "traffic_7d": 11644,
+      "obs_7d": 8,
+      "corridors": [
+        "ih35"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 8 Tracker Cybercab obs in 7d; priority corridor: ih35; traffic_7d=11644"
+    },
+    {
+      "camera_id": "203",
+      "location_name": " AIRPORT BLVD / WILSHIRE BLVD",
+      "lat": 30.297857,
+      "lon": -97.708878,
+      "traffic_7d": 11597,
+      "obs_7d": 11,
+      "corridors": [
+        "airport"
+      ],
+      "in_ccs": false,
+      "why_selected": "11 Tracker Cybercab obs in 7d; priority corridor: airport; traffic_7d=11597"
+    },
+    {
+      "camera_id": "200",
+      "location_name": " RIVERSIDE DR / MONTOPOLIS DR",
+      "lat": 30.224932,
+      "lon": -97.703438,
+      "traffic_7d": 11586,
+      "obs_7d": 14,
+      "corridors": [
+        "riverside"
+      ],
+      "in_ccs": false,
+      "why_selected": "14 Tracker Cybercab obs in 7d; priority corridor: riverside; traffic_7d=11586"
+    },
+    {
+      "camera_id": "756",
+      "location_name": " BURNET RD / ASHDALE DR",
+      "lat": 30.358596,
+      "lon": -97.730172,
+      "traffic_7d": 11582,
+      "obs_7d": 12,
+      "corridors": [
+        "burnet"
+      ],
+      "in_ccs": false,
+      "why_selected": "12 Tracker Cybercab obs in 7d; priority corridor: burnet; traffic_7d=11582"
+    },
+    {
+      "camera_id": "735",
+      "location_name": " SLAUGHTER LN / CULLEN LN",
+      "lat": 30.167196,
+      "lon": -97.790932,
+      "traffic_7d": 11540,
+      "obs_7d": 15,
+      "corridors": [],
+      "in_ccs": false,
+      "why_selected": "15 Tracker Cybercab obs in 7d; traffic_7d=11540"
+    },
+    {
+      "camera_id": "304",
+      "location_name": " LAMAR BLVD / ST JOHNS AVE",
+      "lat": 30.339407,
+      "lon": -97.717842,
+      "traffic_7d": 11526,
+      "obs_7d": 2,
+      "corridors": [
+        "lamar"
+      ],
+      "in_ccs": false,
+      "why_selected": "2 Tracker Cybercab obs in 7d; priority corridor: lamar; traffic_7d=11526"
+    },
+    {
+      "camera_id": "2",
+      "location_name": " AIRPORT BLVD / OAK SPRINGS DR",
+      "lat": 30.273556,
+      "lon": -97.697907,
+      "traffic_7d": 11521,
+      "obs_7d": 8,
+      "corridors": [
+        "airport"
+      ],
+      "in_ccs": false,
+      "why_selected": "8 Tracker Cybercab obs in 7d; priority corridor: airport; traffic_7d=11521"
+    },
+    {
+      "camera_id": "588",
+      "location_name": " CESAR CHAVEZ ST / 35 SVRD",
+      "lat": 30.261231,
+      "lon": -97.736763,
+      "traffic_7d": 11491,
+      "obs_7d": 13,
+      "corridors": [
+        "cesar_chavez",
+        "ih35"
+      ],
+      "in_ccs": false,
+      "why_selected": "13 Tracker Cybercab obs in 7d; priority corridor: cesar_chavez,ih35; traffic_7d=11491"
+    },
+    {
+      "camera_id": "168",
+      "location_name": " BRODIE LN / SLAUGHTER LN",
+      "lat": 30.18355,
+      "lon": -97.849793,
+      "traffic_7d": 11450,
+      "obs_7d": 3,
+      "corridors": [],
+      "in_ccs": false,
+      "why_selected": "3 Tracker Cybercab obs in 7d; traffic_7d=11450"
+    },
+    {
+      "camera_id": "40",
+      "location_name": " CESAR CHAVEZ ST / SAN JACINTO BLVD (FOUR SEASONS - EAST)",
+      "lat": 30.261684,
+      "lon": -97.742403,
+      "traffic_7d": 11410,
+      "obs_7d": 0,
+      "corridors": [
+        "cesar_chavez"
+      ],
+      "in_ccs": false,
+      "why_selected": "priority corridor: cesar_chavez; traffic_7d=11410"
+    },
+    {
+      "camera_id": "572",
+      "location_name": " BRAKER LN / RESEARCH BLVD SVRD",
+      "lat": 30.400358,
+      "lon": -97.745499,
+      "traffic_7d": 11408,
+      "obs_7d": 2,
+      "corridors": [],
+      "in_ccs": false,
+      "why_selected": "2 Tracker Cybercab obs in 7d; traffic_7d=11408"
+    },
+    {
+      "camera_id": "227",
+      "location_name": " MC NEIL DR / PARMER LN",
+      "lat": 30.44385,
+      "lon": -97.742394,
+      "traffic_7d": 11163,
+      "obs_7d": 4,
+      "corridors": [],
+      "in_ccs": false,
+      "why_selected": "4 Tracker Cybercab obs in 7d; traffic_7d=11163"
+    },
+    {
+      "camera_id": "675",
+      "location_name": " CESAR CHAVEZ ST / SAN ANTONIO ST",
+      "lat": 30.264656,
+      "lon": -97.749115,
+      "traffic_7d": 11129,
+      "obs_7d": 63,
+      "corridors": [
+        "cesar_chavez"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 63 Tracker Cybercab obs in 7d; priority corridor: cesar_chavez; traffic_7d=11129"
+    },
+    {
+      "camera_id": "759",
+      "location_name": " LAMAR BLVD / BARTON SKWY (Menchaca Rd)",
+      "lat": 30.243652,
+      "lon": -97.782364,
+      "traffic_7d": 11086,
+      "obs_7d": 20,
+      "corridors": [
+        "lamar"
+      ],
+      "in_ccs": false,
+      "why_selected": "20 Tracker Cybercab obs in 7d; priority corridor: lamar; traffic_7d=11086"
+    },
+    {
+      "camera_id": "1538",
+      "location_name": " RIVERSIDE DR / KENWOOD AVE",
+      "lat": 30.248449,
+      "lon": -97.736622,
+      "traffic_7d": 11071,
+      "obs_7d": 13,
+      "corridors": [
+        "riverside"
+      ],
+      "in_ccs": false,
+      "why_selected": "13 Tracker Cybercab obs in 7d; priority corridor: riverside; traffic_7d=11071"
+    },
+    {
+      "camera_id": "433",
+      "location_name": " CONGRESS AVE / NELLIE ST",
+      "lat": 30.252274,
+      "lon": -97.74865,
+      "traffic_7d": 11052,
+      "obs_7d": 40,
+      "corridors": [
+        "congress"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 40 Tracker Cybercab obs in 7d; priority corridor: congress; traffic_7d=11052"
+    },
+    {
+      "camera_id": "181",
+      "location_name": "US 183 HWY / BURLESON RD",
+      "lat": 30.18288,
+      "lon": -97.68763,
+      "traffic_7d": 10950,
+      "obs_7d": 0,
+      "corridors": [
+        "us183"
+      ],
+      "in_ccs": false,
+      "why_selected": "priority corridor: us183; traffic_7d=10950"
+    },
+    {
+      "camera_id": "277",
+      "location_name": " CAPITAL OF TEXAS HWY / MOPAC EXPY SVRD",
+      "lat": 30.247728,
+      "lon": -97.804009,
+      "traffic_7d": 10896,
+      "obs_7d": 0,
+      "corridors": [
+        "mopac"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; priority corridor: mopac; traffic_7d=10896"
+    },
+    {
+      "camera_id": "195",
+      "location_name": " PARMER LN / 35 SVRD",
+      "lat": 30.40803,
+      "lon": -97.675232,
+      "traffic_7d": 10858,
+      "obs_7d": 0,
+      "corridors": [
+        "ih35"
+      ],
+      "in_ccs": false,
+      "why_selected": "priority corridor: ih35; traffic_7d=10858"
+    },
+    {
+      "camera_id": "447",
+      "location_name": " BRAKER LN / STONELAKE BLVD (HUB 12)",
+      "lat": 30.398958,
+      "lon": -97.739288,
+      "traffic_7d": 10639,
+      "obs_7d": 26,
+      "corridors": [],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 26 Tracker Cybercab obs in 7d; traffic_7d=10639"
+    },
+    {
+      "camera_id": "1409",
+      "location_name": " 12TH ST / 35 SVRD",
+      "lat": 30.271833,
+      "lon": -97.732788,
+      "traffic_7d": 10603,
+      "obs_7d": 19,
+      "corridors": [
+        "ih35"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 19 Tracker Cybercab obs in 7d; priority corridor: ih35; traffic_7d=10603"
+    },
+    {
+      "camera_id": "99",
+      "location_name": " LAMAR BLVD / BLUEBONNET LN",
+      "lat": 30.246923,
+      "lon": -97.777184,
+      "traffic_7d": 10403,
+      "obs_7d": 39,
+      "corridors": [
+        "lamar"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 39 Tracker Cybercab obs in 7d; priority corridor: lamar; traffic_7d=10403"
+    },
+    {
+      "camera_id": "916",
+      "location_name": " CONGRESS AVE / ST ELMO RD",
+      "lat": 30.21748,
+      "lon": -97.767304,
+      "traffic_7d": 10253,
+      "obs_7d": 39,
+      "corridors": [
+        "congress"
+      ],
+      "in_ccs": true,
+      "why_selected": "CCS/CybercabSpotter camera in geofence; 39 Tracker Cybercab obs in 7d; priority corridor: congress; traffic_7d=10253"
+    }
+  ],
+  "windows_note": "AM only from 2026-10-23 (user: drop PM; extend AM to 09:00 for better morning light). As of 2026-10-27: start moved 07:30\u219207:00 (120 min full AM peak; panel unchanged)."
+}

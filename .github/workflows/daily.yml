@@ -1,0 +1,95 @@
+name: Daily Cybercab tracker
+
+# The morning window is 07:00-09:00 America/Chicago. GitHub cron is UTC and can
+# start late or occasionally skip, so three start times are listed; the script
+# itself decides (in Chicago time, so US daylight saving needs no edits) whether
+# a run should go ahead, then waits for 07:00. Only one run does the work per day.
+#   10:50 UTC = 04:50 CST / 05:50 CDT
+#   11:50 UTC = 05:50 CST / 06:50 CDT
+#   12:20 UTC = 06:20 CST / 07:20 CDT (late fallback)
+on:
+  schedule:
+    - cron: "50 10 * * *"
+    - cron: "50 11 * * *"
+    - cron: "20 12 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "smoke = 2 quick cycles now, nothing added to the series; window = real run (only works 05:30-08:30 Chicago)"
+        type: choice
+        options: [smoke, window]
+        default: smoke
+
+concurrency:
+  group: cybercab-tracker
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  tracker:
+    runs-on: ubuntu-latest
+    timeout-minutes: 345
+    env:
+      MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'window' }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Should this run go ahead?
+        id: gate
+        run: |
+          if [ "$MODE" = smoke ]; then
+            echo "go=true" >> "$GITHUB_OUTPUT"
+            echo "date=$(TZ=America/Chicago date +%F)" >> "$GITHUB_OUTPUT"
+          else
+            python3 tracker/run_window.py --gate
+          fi
+
+      - uses: actions/setup-python@v6
+        if: steps.gate.outputs.go == 'true'
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Cache CLIP weights
+        if: steps.gate.outputs.go == 'true'
+        uses: actions/cache@v5
+        with:
+          path: ~/.cache/huggingface
+          key: clip-vit-b-32-laion2b-s34b-b79k
+
+      - name: Install
+        if: steps.gate.outputs.go == 'true'
+        run: pip install -r requirements.txt
+
+      - name: Sample, detect, report
+        if: steps.gate.outputs.go == 'true'
+        run: bash tracker/daily.sh "$MODE"
+
+      - name: Save results to the repository
+        if: steps.gate.outputs.go == 'true' && env.MODE == 'window' && always()
+        run: |
+          git config user.name "cybercab-tracker"
+          git config user.email "cybercab-tracker@users.noreply.github.com"
+          git add -A data reports charts LATEST.md
+          if git diff --cached --quiet; then
+            echo "nothing to save"
+          else
+            git commit -m "Daily report ${{ steps.gate.outputs.date }}"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      - name: Keep Cybercab crops and logs (90 days)
+        if: steps.gate.outputs.go == 'true' && always()
+        uses: actions/upload-artifact@v5
+        with:
+          name: evidence-${{ steps.gate.outputs.date }}-${{ github.run_id }}
+          path: |
+            evidence/
+            frames/fetch_log.jsonl
+            frames/_window_summary.json
+            smoke/
+          if-no-files-found: ignore
+          retention-days: 90
