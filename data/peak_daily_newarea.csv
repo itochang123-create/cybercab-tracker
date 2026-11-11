@@ -1,2 +1,3 @@
 date,snapshots,vehicles,cybercabs_raw,cybercabs_deduped,cybercabs,per_1k_vehicles,per_1k_snapshots,cams_ok,cams_offline,am_cycles,notes,cams_with_cc,rate_lo95,rate_hi95
 2026-11-10,1800,10083,6,6,6,0.595,3.333,75,23,24,offline_cams=23,5,0.217,1.295
+2026-11-11,1800,8505,7,6,6,0.705,3.333,75,23,24,offline_cams=23;dedupe_raw=7,6,0.258,1.536
