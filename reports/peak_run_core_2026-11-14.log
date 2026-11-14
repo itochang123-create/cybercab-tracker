@@ -1,0 +1,16 @@
+health: skipped
+peak cycles for 2026-11-14: 24 (am only 07:00-09:00) panel=panel.json frames=frames
+=== Peak monitor summary ===
+date (America/Chicago): 2026-11-14
+snapshots=1824 vehicles=10731 cybercabs_raw=25 cybercabs_deduped=25
+per_1k_vehicles=2.33  per_1k_snapshots=13.706 (deduped)
+95% interval on the day's rate: 1.507-3.439 per 1k vehicles (Poisson, 25 sightings)
+cams_ok=76 cams_offline=5 am_cycles=24 cams_with_cybercab=20
+notes: offline_cams=5
+DoD change: +30.5% vs 2026-11-13 (1.785)
+weekend/holiday: thin traffic inflates this rate; it is left out of the lead average
+weekday_5d_ma (n=5): 1.821  dates=2026-11-09,2026-11-10,2026-11-11,2026-11-12,2026-11-13  vs prior weekday_5d 0.892 (+104.1%; 2026-11-02,2026-11-03,2026-11-04,2026-11-05,2026-11-06)
+  pooled rate over those days: 1.813 (95% 1.549-2.109; 168 sightings / 92655 vehicles)
+  robustness: without the highest day (2026-11-11, 2.059) the average is 1.761; median day 1.785
+7d avg (n=7): 1.967
+offline camera ids: 1080,40,528,572,693
