@@ -1,100 +1,100 @@
-# Austin Cybercab tracker - 2026-11-23 (Mon)
+# Austin Cybercab tracker - 2026-11-24 (Tue)
 
 Cybercabs per 1,000 vehicles seen on City of Austin traffic cameras, 07:00-09:00 America/Chicago, parked cars counted once. Relative growth only: not fleet size, not miles.
 
 ## Lead number
 
-**Weekday 5-day average: 1.240**, -6.2% from 1.322 (250-camera panel; 11-17, 11-18, 11-19, 11-20, 11-23).
+**Weekday 5-day average: 1.478**, +19.2% from 1.240 (250-camera panel; 11-18, 11-19, 11-20, 11-23, 11-24).
 
-- Pooled over the same days: 1.242 (95% interval 1.092-1.407, 247 sightings).
-- Without its highest day (11-18, 1.380): 1.205. Median day: 1.214.
-- Against the five weekdays before those: -21.0% (was 1.570).
-- All-days 7-day average (secondary): 1.644.
+- Pooled over the same days: 1.491 (95% interval 1.326-1.672, 295 sightings).
+- Without its highest day (11-24, 2.392): 1.249. Median day: 1.223.
+- Against the five weekdays before those: +0.1% (was 1.476).
+- All-days 7-day average (secondary): 1.814.
 
 ## This morning
 
 | Panel | Per 1,000 vehicles | 95% interval | Sightings | Vehicles | Cameras with a sighting | Cameras reporting | Cycles |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| Expanded 250 (headline) | 1.223 | 0.878-1.659 | 41 | 33,521 | 31 | 238/250 | 24 |
-| Core 81 (legacy) | 1.371 | 0.825-2.141 | 19 | 13,857 | 14 | 78/81 | 24 |
-| New area 98 (context) | 0.749 | 0.201-1.917 | 4 | 5,343 | 4 | 73/98 | 24 |
+| Expanded 250 (headline) | 2.392 | 1.944-2.912 | 99 | 41,387 | 60 | 237/250 | 24 |
+| Core 81 (legacy) | 3.385 | 2.550-4.406 | 55 | 16,250 | 30 | 76/81 | 24 |
+| New area 98 (context) | 1.062 | 0.426-2.189 | 7 | 6,589 | 5 | 73/98 | 24 |
 
-Headline panel day change: -33.6% vs 11-22; +3.6% vs the previous weekday (11-20).
-Offline headline cameras: 1080,1461,254,269,40,496,500,544,572,703,714,716.
+Headline panel day change: +95.6% vs 11-23.
+Offline headline cameras: 1080,1461,170,254,269,40,463,544,572,703,714,716,907.
 
 _Service area: Tesla expanded the Austin service area on 2026-11-09. The headline and core panels cover the original area only; the new-area panel is every City camera outside it and is never blended into the headline._
 
 ## What moved
 
-Baseline = previous 5 weekdays (2026-11-16 to 2026-11-20). Counts are parked-car-deduped sightings, not unique cars.
+Baseline = previous 5 weekdays (2026-11-17 to 2026-11-23). Counts are parked-car-deduped sightings, not unique cars.
 
 ### 1. What moved
 
-| | Baseline (per day) | 2026-11-23 | Change |
+| | Baseline (per day) | 2026-11-24 | Change |
 | --- | ---: | ---: | ---: |
-| Cybercabs per 1,000 vehicles | 1.334 | 1.223 | -8% |
-| Sightings | 57.2 | 41 | -28% |
-| Vehicles counted | 42,877 | 33,521 | -22% |
-| Cameras reporting | 232 | 238 | |
-| Cameras with a sighting (spread) | 41.4 | 31 | -25% |
-| Sightings per such camera (density) | 1.38 | 1.32 | -4% |
+| Cybercabs per 1,000 vehicles | 1.242 | 2.392 | +93% |
+| Sightings | 49.4 | 99 | +100% |
+| Vehicles counted | 39,770 | 41,387 | +4% |
+| Cameras reporting | 233 | 237 | |
+| Cameras with a sighting (spread) | 37.2 | 60 | +61% |
+| Sightings per such camera (density) | 1.33 | 1.65 | +24% |
 
-95% interval on the day's rate: 0.878-1.659; on the baseline: 1.184-1.498. The intervals overlap, so the change is within counting noise.
-Of the change in sightings, about 87% is spread (more cameras seeing one) and 13% is density (more per camera).
+95% interval on the day's rate: 1.944-2.912; on the baseline: 1.092-1.407. The intervals do not overlap, so the change is larger than counting noise.
+Of the change in sightings, about 69% is spread (more cameras seeing one) and 31% is density (more per camera).
 
 ### 2. Same cameras only
 
-222 cameras reported on every one of these days. On those alone the rate went 1.356 -> 1.187 (-12%), against -8% on the full panel. Camera mix is not driving the change.
+221 cameras reported on every one of these days. On those alone the rate went 1.282 -> 2.354 (+84%), against +93% on the full panel. Camera mix is not driving the change.
 
 ### 3. Concentration
 
-Top 10 cameras hold 49% of the day's sightings. 3 of the 31 cameras with a sighting had none in the baseline.
+Top 10 cameras hold 36% of the day's sightings. 17 of the 60 cameras with a sighting had none in the baseline.
 
 | Camera | Location | Sightings | Baseline per day |
 | --- | --- | ---: | ---: |
-| 674 | CESAR CHAVEZ ST / 35 SVRD | 4 | 1.4 |
-| 786 | CESAR CHAVEZ ST / SAN JACINTO BLVD | 3 | 0.4 |
-| 332 | CAMERON RD / 290 HWY SVRD | 2 | 0.2 |
-| 351 | 6TH ST / GUADALUPE ST | 2 | 4.2 |
-| 354 | 5TH ST / CONGRESS AVE | 2 | 0.6 |
-| 371 | PLEASANT VALLEY RD / STASSNEY LN | 2 | 0.2 |
-| 61 | GUADALUPE ST / MARTIN LUTHER KING JR BLVD | 2 | 1.2 |
-| 100 | LAMAR BLVD / BARTON SPRINGS RD | 1 | 1.2 |
+| 100 | LAMAR BLVD / BARTON SPRINGS RD | 8 | 1.4 |
+| 174 | BRAKER LN / BURNET RD | 5 | 0.2 |
+| 786 | CESAR CHAVEZ ST / SAN JACINTO BLVD | 4 | 1.0 |
+| 1302 | 1ST ST / MONROE ST | 3 | 0.6 |
+| 194 | BURLESON RD / MONTOPOLIS DR | 3 | 0.6 |
+| 455 | AIRPORT BLVD / 12TH ST | 3 | 0.2 |
+| 676 | LAMAR BLVD / TOOMEY RD | 3 | 0.4 |
+| 92 | LAMAR BLVD / 24TH ST | 3 | 0.4 |
 
 ### 4. Where
 
-| Distance from downtown | Cameras | Baseline rate | 2026-11-23 rate | Change | Sightings |
+| Distance from downtown | Cameras | Baseline rate | 2026-11-24 rate | Change | Sightings |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| 0-3 km (downtown) | 85 | 2.474 | 2.452 | -1% | 25 |
-| 3-8 km | 74 | 1.244 | 0.711 | -43% | 8 |
-| 8+ km (edge of original area) | 91 | 0.570 | 0.663 | +16% | 8 |
+| 0-3 km (downtown) | 85 | 2.424 | 3.591 | +48% | 46 |
+| 3-8 km | 74 | 0.987 | 2.430 | +146% | 31 |
+| 8+ km (edge of original area) | 91 | 0.550 | 1.390 | +153% | 22 |
 
-| Corridor | Cameras | Baseline rate | 2026-11-23 rate | Sightings (baseline per day -> day) |
+| Corridor | Cameras | Baseline rate | 2026-11-24 rate | Sightings (baseline per day -> day) |
 | --- | ---: | ---: | ---: | ---: |
-| Other | 109 | 1.138 | 1.190 | 18.0 -> 15 |
-| I-35 | 20 | 1.975 | 2.020 | 7.0 -> 6 |
-| Guadalupe | 8 | 5.384 | 4.496 | 7.6 -> 5 |
-| Lamar | 29 | 1.653 | 1.024 | 8.2 -> 4 |
-| Cesar Chavez | 11 | 2.706 | 3.472 | 5.0 -> 4 |
-| Riverside | 10 | 1.765 | 1.440 | 3.2 -> 2 |
-| Congress | 7 | 1.255 | 1.571 | 2.0 -> 2 |
-| Burnet | 16 | 1.023 | 0.465 | 2.8 -> 1 |
-| Airport Blvd | 13 | 0.871 | 0.385 | 2.4 -> 1 |
-| Parmer | 7 | 0.177 | 0.943 | 0.4 -> 1 |
+| Other | 109 | 1.131 | 1.718 | 16.8 -> 27 |
+| Lamar | 29 | 1.521 | 5.453 | 7.0 -> 25 |
+| Burnet | 16 | 0.953 | 3.651 | 2.4 -> 11 |
+| I-35 | 20 | 1.723 | 2.170 | 5.6 -> 8 |
+| Cesar Chavez | 11 | 2.356 | 4.813 | 3.8 -> 8 |
+| Airport Blvd | 13 | 0.677 | 1.598 | 1.8 -> 5 |
+| Guadalupe | 8 | 4.832 | 4.288 | 6.4 -> 5 |
+| Riverside | 10 | 1.363 | 1.554 | 2.2 -> 3 |
+| Parmer | 7 | 0.314 | 1.591 | 0.6 -> 3 |
+| Congress | 7 | 1.441 | 1.331 | 2.2 -> 2 |
+| Ben White / SH-71 | 6 | 0.242 | 0.892 | 0.2 -> 1 |
+| US-183 | 6 | 0.478 | 1.227 | 0.4 -> 1 |
 | MoPac | 8 | 0.000 | 0.000 | 0.0 -> 0 |
-| Ben White / SH-71 | 6 | 0.217 | 0.000 | 0.2 -> 0 |
-| US-183 | 6 | 0.456 | 0.000 | 0.4 -> 0 |
 
 _Corridor and band cells rest on a handful of sightings each; read them as direction, not size._
 
 ### 5. New service area (outside the original boundary)
 
-4 sightings at 4 of 73 reporting cameras, 5,343 vehicles (0.749 per 1,000). Previous 5 weekdays: 3.4 sightings and 3.2 cameras per day.
+7 sightings at 5 of 73 reporting cameras, 6,589 vehicles (1.062 per 1,000). Previous 5 weekdays: 3.6 sightings and 3.4 cameras per day.
 
-Old and new area together: 1.158 per 1,000 vehicles (45 sightings). Context only; the headline stays on the original-area panel.
+Old and new area together: 2.209 per 1,000 vehicles (106 sightings). Context only; the headline stays on the original-area panel.
 
 ## Chart
 
 ![Daily rate and weekday 5-day average](charts/peak_monitor.png)
 
-_Generated 2026-11-23 15:57 UTC by the daily GitHub job._
+_Generated 2026-11-24 15:43 UTC by the daily GitHub job._
